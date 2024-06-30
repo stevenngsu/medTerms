@@ -1,0 +1,4638 @@
+[
+    {
+        "prefix": "a",
+        "definition": "not, without, lacking"
+    },
+    {
+        "prefix": "ab",
+        "definition": "away from"
+    },
+    {
+        "prefix": "abdomino",
+        "definition": "abdomen"
+    },
+    {
+        "prefix": "abdomin",
+        "definition": "abdomen"
+    },
+    {
+        "prefix": "acantho",
+        "definition": "thorn, spine"
+    },
+    {
+        "prefix": "acanth",
+        "definition": "thorn, spine"
+    },
+    {
+        "prefix": "acetabulo",
+        "definition": "acetabulum"
+    },
+    {
+        "prefix": "acetabul",
+        "definition": "acetabulum"
+    },
+    {
+        "prefix": "acou",
+        "definition": "sound, hear, acoustic"
+    },
+    {
+        "prefix": "acro",
+        "definition": "extremity"
+    },
+    {
+        "prefix": "acr",
+        "definition": "extremity"
+    },
+    {
+        "prefix": "acto",
+        "definition": "do, act"
+    },
+    {
+        "prefix": "act",
+        "definition": "do, act"
+    },
+    {
+        "prefix": "ad",
+        "definition": "toward"
+    },
+    {
+        "prefix": "adeno",
+        "definition": "gland"
+    },
+    {
+        "prefix": "aden",
+        "definition": "gland"
+    },
+    {
+        "prefix": "adenoido",
+        "definition": "adenoid"
+    },
+    {
+        "prefix": "adenoid",
+        "definition": "adenoid"
+    },
+    {
+        "prefix": "adipo",
+        "definition": "fat"
+    },
+    {
+        "prefix": "adip",
+        "definition": "fat"
+    },
+    {
+        "prefix": "adreno",
+        "definition": "adrenal gland"
+    },
+    {
+        "prefix": "adren",
+        "definition": "adrenal gland"
+    },
+    {
+        "prefix": "agglutino",
+        "definition": "adhere or clump"
+    },
+    {
+        "prefix": "agglutin",
+        "definition": "adhere or clump"
+    },
+    {
+        "prefix": "agono",
+        "definition": "struggle"
+    },
+    {
+        "prefix": "agon",
+        "definition": "struggle"
+    },
+    {
+        "prefix": "agora",
+        "definition": "marketplace (Gr. agora)"
+    },
+    {
+        "prefix": "agor",
+        "definition": "marketplace (Gr. agora)"
+    },
+    {
+        "prefix": "albino",
+        "definition": "white (L. albus)"
+    },
+    {
+        "prefix": "albin",
+        "definition": "white (L. albus)"
+    },
+    {
+        "prefix": "algesio",
+        "definition": "pain"
+    },
+    {
+        "prefix": "algesi",
+        "definition": "pain"
+    },
+    {
+        "prefix": "allo",
+        "definition": "different"
+    },
+    {
+        "prefix": "all",
+        "definition": "different"
+    },
+    {
+        "prefix": "alveolo",
+        "definition": "alveolus (air sac)"
+    },
+    {
+        "prefix": "alveol",
+        "definition": "alveolus (air sac)"
+    },
+    {
+        "prefix": "ambi",
+        "definition": "both"
+    },
+    {
+        "prefix": "amblyo",
+        "definition": "dull"
+    },
+    {
+        "prefix": "ambly",
+        "definition": "dull"
+    },
+    {
+        "prefix": "ambo",
+        "definition": "both"
+    },
+    {
+        "prefix": "ambulo",
+        "definition": "walking"
+    },
+    {
+        "prefix": "ambul",
+        "definition": "walking"
+    },
+    {
+        "prefix": "amnio",
+        "definition": "amnion"
+    },
+    {
+        "prefix": "amni",
+        "definition": "amnion"
+    },
+    {
+        "prefix": "amphi",
+        "definition": "both sides"
+    },
+    {
+        "prefix": "amylo",
+        "definition": "starch"
+    },
+    {
+        "prefix": "amyl",
+        "definition": "starch"
+    },
+    {
+        "prefix": "an",
+        "definition": "not, without, lacking"
+    },
+    {
+        "prefix": "ano",
+        "definition": "anus"
+    },
+    {
+        "prefix": "an",
+        "definition": "anus"
+    },
+    {
+        "prefix": "ana",
+        "definition": "apart, up"
+    },
+    {
+        "prefix": "andro",
+        "definition": "male"
+    },
+    {
+        "prefix": "andr",
+        "definition": "male"
+    },
+    {
+        "prefix": "angio",
+        "definition": "vessel"
+    },
+    {
+        "prefix": "angi",
+        "definition": "vessel"
+    },
+    {
+        "prefix": "aniso",
+        "definition": "unequal"
+    },
+    {
+        "prefix": "anis",
+        "definition": "unequal"
+    },
+    {
+        "prefix": "ankylo",
+        "definition": "stiff, crooked"
+    },
+    {
+        "prefix": "ankyl",
+        "definition": "stiff, crooked"
+    },
+    {
+        "prefix": "ante",
+        "definition": "before"
+    },
+    {
+        "prefix": "antero",
+        "definition": "front"
+    },
+    {
+        "prefix": "anter",
+        "definition": "front"
+    },
+    {
+        "prefix": "anti",
+        "definition": "against"
+    },
+    {
+        "prefix": "aorto",
+        "definition": "aorta"
+    },
+    {
+        "prefix": "aort",
+        "definition": "aorta"
+    },
+    {
+        "prefix": "apo",
+        "definition": "separation, derived from"
+    },
+    {
+        "prefix": "appendo",
+        "definition": "appendix"
+    },
+    {
+        "prefix": "append",
+        "definition": "appendix"
+    },
+    {
+        "prefix": "appendico",
+        "definition": "appendix"
+    },
+    {
+        "prefix": "appendic",
+        "definition": "appendix"
+    },
+    {
+        "prefix": "aqueo",
+        "definition": "water"
+    },
+    {
+        "prefix": "aque",
+        "definition": "water"
+    },
+    {
+        "prefix": "arche",
+        "definition": "first"
+    },
+    {
+        "prefix": "arch",
+        "definition": "first"
+    },
+    {
+        "prefix": "archi",
+        "definition": "first"
+    },
+    {
+        "prefix": "arch",
+        "definition": "first"
+    },
+    {
+        "prefix": "artero",
+        "definition": "artery"
+    },
+    {
+        "prefix": "arter",
+        "definition": "artery"
+    },
+    {
+        "prefix": "arterio",
+        "definition": "artery"
+    },
+    {
+        "prefix": "arteri",
+        "definition": "artery"
+    },
+    {
+        "prefix": "arteriolo",
+        "definition": "arteriole"
+    },
+    {
+        "prefix": "arteriol",
+        "definition": "arteriole"
+    },
+    {
+        "prefix": "arthro",
+        "definition": "joint"
+    },
+    {
+        "prefix": "arthr",
+        "definition": "joint"
+    },
+    {
+        "prefix": "articulo",
+        "definition": "joint"
+    },
+    {
+        "prefix": "articul",
+        "definition": "joint"
+    },
+    {
+        "prefix": "aspiro",
+        "definition": "inhaling"
+    },
+    {
+        "prefix": "aspir",
+        "definition": "inhaling"
+    },
+    {
+        "prefix": "aspirato",
+        "definition": "inhale, removal"
+    },
+    {
+        "prefix": "aspirat",
+        "definition": "inhale, removal"
+    },
+    {
+        "prefix": "atelo",
+        "definition": "incomplete, imperfect"
+    },
+    {
+        "prefix": "atel",
+        "definition": "incomplete, imperfect"
+    },
+    {
+        "prefix": "athero",
+        "definition": "fatty plaque"
+    },
+    {
+        "prefix": "ather",
+        "definition": "fatty plaque"
+    },
+    {
+        "prefix": "atrio",
+        "definition": "atrium"
+    },
+    {
+        "prefix": "atri",
+        "definition": "atrium"
+    },
+    {
+        "prefix": "audio",
+        "definition": "hearing"
+    },
+    {
+        "prefix": "audi",
+        "definition": "hearing"
+    },
+    {
+        "prefix": "audito",
+        "definition": "hearing"
+    },
+    {
+        "prefix": "audit",
+        "definition": "hearing"
+    },
+    {
+        "prefix": "auri",
+        "definition": "ear"
+    },
+    {
+        "prefix": "aur",
+        "definition": "ear"
+    },
+    {
+        "prefix": "auro",
+        "definition": "ear"
+    },
+    {
+        "prefix": "aur",
+        "definition": "ear"
+    },
+    {
+        "prefix": "auto",
+        "definition": "self, same"
+    },
+    {
+        "prefix": "axillo",
+        "definition": "armpit"
+    },
+    {
+        "prefix": "axill",
+        "definition": "armpit"
+    },
+    {
+        "prefix": "bacterio",
+        "definition": "bacteria"
+    },
+    {
+        "prefix": "bacteri",
+        "definition": "bacteria"
+    },
+    {
+        "prefix": "balano",
+        "definition": "glans penis"
+    },
+    {
+        "prefix": "balan",
+        "definition": "glans penis"
+    },
+    {
+        "prefix": "baro",
+        "definition": "pressure"
+    },
+    {
+        "prefix": "bar",
+        "definition": "pressure"
+    },
+    {
+        "prefix": "baso",
+        "definition": "base, foundation"
+    },
+    {
+        "prefix": "bas",
+        "definition": "base, foundation"
+    },
+    {
+        "prefix": "bi",
+        "definition": "two"
+    },
+    {
+        "prefix": "bio",
+        "definition": "life, living"
+    },
+    {
+        "prefix": "bi",
+        "definition": "life, living"
+    },
+    {
+        "prefix": "bili",
+        "definition": "bile"
+    },
+    {
+        "prefix": "bil",
+        "definition": "bile"
+    },
+    {
+        "prefix": "bin",
+        "definition": "two"
+    },
+    {
+        "prefix": "bio",
+        "definition": "life"
+    },
+    {
+        "prefix": "blasto",
+        "definition": "immature, early stage cell"
+    },
+    {
+        "prefix": "blast",
+        "definition": "immature, early stage cell"
+    },
+    {
+        "prefix": "blepharo",
+        "definition": "eyelid"
+    },
+    {
+        "prefix": "blephar",
+        "definition": "eyelid"
+    },
+    {
+        "prefix": "brachio",
+        "definition": "arm"
+    },
+    {
+        "prefix": "brachi",
+        "definition": "arm"
+    },
+    {
+        "prefix": "brachy",
+        "definition": "short"
+    },
+    {
+        "prefix": "brady",
+        "definition": "slow"
+    },
+    {
+        "prefix": "broncho",
+        "definition": "bronchus"
+    },
+    {
+        "prefix": "bronch",
+        "definition": "bronchus"
+    },
+    {
+        "prefix": "bucco",
+        "definition": "cheek"
+    },
+    {
+        "prefix": "bucc",
+        "definition": "cheek"
+    },
+    {
+        "prefix": "burso",
+        "definition": "bursa (small fluid-filled sac)"
+    },
+    {
+        "prefix": "burs",
+        "definition": "bursa (small fluid-filled sac)"
+    },
+    {
+        "prefix": "cac",
+        "definition": "bad, abnormal"
+    },
+    {
+        "prefix": "calco",
+        "definition": "calcium"
+    },
+    {
+        "prefix": "calc",
+        "definition": "calcium"
+    },
+    {
+        "prefix": "calcaneo",
+        "definition": "calcaneus (heel)"
+    },
+    {
+        "prefix": "calcane",
+        "definition": "calcaneus (heel)"
+    },
+    {
+        "prefix": "cantho",
+        "definition": "angle"
+    },
+    {
+        "prefix": "canth",
+        "definition": "angle"
+    },
+    {
+        "prefix": "capito",
+        "definition": "head"
+    },
+    {
+        "prefix": "capit",
+        "definition": "head"
+    },
+    {
+        "prefix": "capno",
+        "definition": "carbon dioxide"
+    },
+    {
+        "prefix": "capn",
+        "definition": "carbon dioxide"
+    },
+    {
+        "prefix": "capsulo",
+        "definition": "capsule"
+    },
+    {
+        "prefix": "capsul",
+        "definition": "capsule"
+    },
+    {
+        "prefix": "carcino",
+        "definition": "cancer"
+    },
+    {
+        "prefix": "carcin",
+        "definition": "cancer"
+    },
+    {
+        "prefix": "cardio",
+        "definition": "heart"
+    },
+    {
+        "prefix": "cardi",
+        "definition": "heart"
+    },
+    {
+        "prefix": "carpo",
+        "definition": "wrist (carpal)"
+    },
+    {
+        "prefix": "carp",
+        "definition": "wrist (carpal)"
+    },
+    {
+        "prefix": "cata",
+        "definition": "down"
+    },
+    {
+        "prefix": "caudo",
+        "definition": "tail, down"
+    },
+    {
+        "prefix": "caud",
+        "definition": "tail, down"
+    },
+    {
+        "prefix": "causo",
+        "definition": "burn(ing)"
+    },
+    {
+        "prefix": "caus",
+        "definition": "burn(ing)"
+    },
+    {
+        "prefix": "ceco",
+        "definition": "cecum"
+    },
+    {
+        "prefix": "cec",
+        "definition": "cecum"
+    },
+    {
+        "prefix": "celio",
+        "definition": "abdomen"
+    },
+    {
+        "prefix": "celi",
+        "definition": "abdomen"
+    },
+    {
+        "prefix": "cellulo",
+        "definition": "cell"
+    },
+    {
+        "prefix": "cellul",
+        "definition": "cell"
+    },
+    {
+        "prefix": "centi",
+        "definition": "one hundredth"
+    },
+    {
+        "prefix": "centro",
+        "definition": "center"
+    },
+    {
+        "prefix": "centr",
+        "definition": "center"
+    },
+    {
+        "prefix": "cephalo",
+        "definition": "head"
+    },
+    {
+        "prefix": "cephal",
+        "definition": "head"
+    },
+    {
+        "prefix": "cept",
+        "definition": "received"
+    },
+    {
+        "prefix": "cerebello",
+        "definition": "cerebellum"
+    },
+    {
+        "prefix": "cerebell",
+        "definition": "cerebellum"
+    },
+    {
+        "prefix": "cerebro",
+        "definition": "cerebrum"
+    },
+    {
+        "prefix": "cerebr",
+        "definition": "cerebrum"
+    },
+    {
+        "prefix": "cerumino",
+        "definition": "cerumen (earwax)"
+    },
+    {
+        "prefix": "cerumin",
+        "definition": "cerumen (earwax)"
+    },
+    {
+        "prefix": "cervico",
+        "definition": "neck, cervix"
+    },
+    {
+        "prefix": "cervic",
+        "definition": "neck, cervix"
+    },
+    {
+        "prefix": "cheilo",
+        "definition": "lip"
+    },
+    {
+        "prefix": "cheil",
+        "definition": "lip"
+    },
+    {
+        "prefix": "cheiro",
+        "definition": "hand"
+    },
+    {
+        "prefix": "cheir",
+        "definition": "hand"
+    },
+    {
+        "prefix": "chemo",
+        "definition": "drug, chemical"
+    },
+    {
+        "prefix": "chem",
+        "definition": "drug, chemical"
+    },
+    {
+        "prefix": "chilo",
+        "definition": "lip"
+    },
+    {
+        "prefix": "chil",
+        "definition": "lip"
+    },
+    {
+        "prefix": "chiro",
+        "definition": "hand"
+    },
+    {
+        "prefix": "chir",
+        "definition": "hand"
+    },
+    {
+        "prefix": "chloro",
+        "definition": "green"
+    },
+    {
+        "prefix": "chlor",
+        "definition": "green"
+    },
+    {
+        "prefix": "chole",
+        "definition": "gall, bile"
+    },
+    {
+        "prefix": "chol",
+        "definition": "gall, bile"
+    },
+    {
+        "prefix": "cholangio",
+        "definition": "bile duct"
+    },
+    {
+        "prefix": "cholangi",
+        "definition": "bile duct"
+    },
+    {
+        "prefix": "chondro",
+        "definition": "cartilage"
+    },
+    {
+        "prefix": "chondr",
+        "definition": "cartilage"
+    },
+    {
+        "prefix": "chorio",
+        "definition": "chorion"
+    },
+    {
+        "prefix": "chori",
+        "definition": "chorion"
+    },
+    {
+        "prefix": "choroido",
+        "definition": "choroid"
+    },
+    {
+        "prefix": "choroid",
+        "definition": "choroid"
+    },
+    {
+        "prefix": "chromo",
+        "definition": "color"
+    },
+    {
+        "prefix": "chrom",
+        "definition": "color"
+    },
+    {
+        "prefix": "chromato",
+        "definition": "color"
+    },
+    {
+        "prefix": "chromat",
+        "definition": "color"
+    },
+    {
+        "prefix": "chron",
+        "definition": "time"
+    },
+    {
+        "prefix": "cine",
+        "definition": "movement"
+    },
+    {
+        "prefix": "circulato",
+        "definition": "circle shape"
+    },
+    {
+        "prefix": "circulat",
+        "definition": "circle shape"
+    },
+    {
+        "prefix": "circum",
+        "definition": "around"
+    },
+    {
+        "prefix": "cirrho",
+        "definition": "orange-yellow (Gr. kirrhos)"
+    },
+    {
+        "prefix": "cirrh",
+        "definition": "orange-yellow (Gr. kirrhos)"
+    },
+    {
+        "prefix": "ciso",
+        "definition": "cut"
+    },
+    {
+        "prefix": "cis",
+        "definition": "cut"
+    },
+    {
+        "prefix": "claviculo",
+        "definition": "clavicle"
+    },
+    {
+        "prefix": "clavicul",
+        "definition": "clavicle"
+    },
+    {
+        "prefix": "cleido",
+        "definition": "clavicle"
+    },
+    {
+        "prefix": "cleid",
+        "definition": "clavicle"
+    },
+    {
+        "prefix": "co",
+        "definition": "together"
+    },
+    {
+        "prefix": "coagulo",
+        "definition": "coagulation, clotting"
+    },
+    {
+        "prefix": "coagul",
+        "definition": "coagulation, clotting"
+    },
+    {
+        "prefix": "cochleo",
+        "definition": "cochlea"
+    },
+    {
+        "prefix": "cochle",
+        "definition": "cochlea"
+    },
+    {
+        "prefix": "colo",
+        "definition": "colon"
+    },
+    {
+        "prefix": "col",
+        "definition": "colon"
+    },
+    {
+        "prefix": "colla",
+        "definition": "neckline"
+    },
+    {
+        "prefix": "coll",
+        "definition": "neckline"
+    },
+    {
+        "prefix": "colono",
+        "definition": "colon"
+    },
+    {
+        "prefix": "colon",
+        "definition": "colon"
+    },
+    {
+        "prefix": "colpo",
+        "definition": "vagina"
+    },
+    {
+        "prefix": "colp",
+        "definition": "vagina"
+    },
+    {
+        "prefix": "com",
+        "definition": "together, with"
+    },
+    {
+        "prefix": "comato",
+        "definition": "deep sleep"
+    },
+    {
+        "prefix": "comat",
+        "definition": "deep sleep"
+    },
+    {
+        "prefix": "con",
+        "definition": "with, together"
+    },
+    {
+        "prefix": "conio",
+        "definition": "dust"
+    },
+    {
+        "prefix": "coni",
+        "definition": "dust"
+    },
+    {
+        "prefix": "conscio",
+        "definition": "aware"
+    },
+    {
+        "prefix": "consci",
+        "definition": "aware"
+    },
+    {
+        "prefix": "contra",
+        "definition": "against, opposed"
+    },
+    {
+        "prefix": "core",
+        "definition": "pupil"
+    },
+    {
+        "prefix": "cor",
+        "definition": "pupil"
+    },
+    {
+        "prefix": "coro",
+        "definition": "pupil"
+    },
+    {
+        "prefix": "cor",
+        "definition": "pupil"
+    },
+    {
+        "prefix": "cordo",
+        "definition": "cord"
+    },
+    {
+        "prefix": "cord",
+        "definition": "cord"
+    },
+    {
+        "prefix": "corneo",
+        "definition": "cornea"
+    },
+    {
+        "prefix": "corne",
+        "definition": "cornea"
+    },
+    {
+        "prefix": "corono",
+        "definition": "heart"
+    },
+    {
+        "prefix": "coron",
+        "definition": "heart"
+    },
+    {
+        "prefix": "corporo",
+        "definition": "body"
+    },
+    {
+        "prefix": "corpor",
+        "definition": "body"
+    },
+    {
+        "prefix": "cortico",
+        "definition": "cortex"
+    },
+    {
+        "prefix": "cortic",
+        "definition": "cortex"
+    },
+    {
+        "prefix": "costo",
+        "definition": "rib"
+    },
+    {
+        "prefix": "cost",
+        "definition": "rib"
+    },
+    {
+        "prefix": "coxa",
+        "definition": "hip"
+    },
+    {
+        "prefix": "cranio",
+        "definition": "skull"
+    },
+    {
+        "prefix": "crani",
+        "definition": "skull"
+    },
+    {
+        "prefix": "crino",
+        "definition": "secrete"
+    },
+    {
+        "prefix": "crin",
+        "definition": "secrete"
+    },
+    {
+        "prefix": "cruro",
+        "definition": "shin, leg"
+    },
+    {
+        "prefix": "crur",
+        "definition": "shin, leg"
+    },
+    {
+        "prefix": "cryo",
+        "definition": "cold (Gr. kryos)"
+    },
+    {
+        "prefix": "cry",
+        "definition": "cold (Gr. kryos)"
+    },
+    {
+        "prefix": "crypto",
+        "definition": "hidden, obscured"
+    },
+    {
+        "prefix": "crypt",
+        "definition": "hidden, obscured"
+    },
+    {
+        "prefix": "cubito",
+        "definition": "elbow"
+    },
+    {
+        "prefix": "cubit",
+        "definition": "elbow"
+    },
+    {
+        "prefix": "culdo",
+        "definition": "cul-de-sac"
+    },
+    {
+        "prefix": "culd",
+        "definition": "cul-de-sac"
+    },
+    {
+        "prefix": "cutaneo",
+        "definition": "skin"
+    },
+    {
+        "prefix": "cutane",
+        "definition": "skin"
+    },
+    {
+        "prefix": "cyano",
+        "definition": "blue (Gr. kuanos)"
+    },
+    {
+        "prefix": "cyan",
+        "definition": "blue (Gr. kuanos)"
+    },
+    {
+        "prefix": "cyclo",
+        "definition": "ciliary body"
+    },
+    {
+        "prefix": "cycl",
+        "definition": "ciliary body"
+    },
+    {
+        "prefix": "cysto",
+        "definition": "bladder, cyst"
+    },
+    {
+        "prefix": "cyst",
+        "definition": "bladder, cyst"
+    },
+    {
+        "prefix": "cyto",
+        "definition": "cell"
+    },
+    {
+        "prefix": "cyt",
+        "definition": "cell"
+    },
+    {
+        "prefix": "dacryo",
+        "definition": "tear (duct)"
+    },
+    {
+        "prefix": "dacry",
+        "definition": "tear (duct)"
+    },
+    {
+        "prefix": "dactylo",
+        "definition": "finger or toe (digit)"
+    },
+    {
+        "prefix": "dactyl",
+        "definition": "finger or toe (digit)"
+    },
+    {
+        "prefix": "de",
+        "definition": "away from, down"
+    },
+    {
+        "prefix": "deca",
+        "definition": "ten"
+    },
+    {
+        "prefix": "deci",
+        "definition": "one tenth"
+    },
+    {
+        "prefix": "dem",
+        "definition": "people"
+    },
+    {
+        "prefix": "dendro",
+        "definition": "tree"
+    },
+    {
+        "prefix": "dendr",
+        "definition": "tree"
+    },
+    {
+        "prefix": "denti",
+        "definition": "tooth"
+    },
+    {
+        "prefix": "dent",
+        "definition": "tooth"
+    },
+    {
+        "prefix": "dento",
+        "definition": "tooth"
+    },
+    {
+        "prefix": "dent",
+        "definition": "tooth"
+    },
+    {
+        "prefix": "derma",
+        "definition": "skin"
+    },
+    {
+        "prefix": "derm",
+        "definition": "skin"
+    },
+    {
+        "prefix": "dermo",
+        "definition": "skin"
+    },
+    {
+        "prefix": "derm",
+        "definition": "skin"
+    },
+    {
+        "prefix": "dermato",
+        "definition": "skin"
+    },
+    {
+        "prefix": "dermat",
+        "definition": "skin"
+    },
+    {
+        "prefix": "dextro",
+        "definition": "right (side)"
+    },
+    {
+        "prefix": "dextr",
+        "definition": "right (side)"
+    },
+    {
+        "prefix": "di",
+        "definition": "twice, two"
+    },
+    {
+        "prefix": "dia",
+        "definition": "across, through"
+    },
+    {
+        "prefix": "didymo",
+        "definition": "testis"
+    },
+    {
+        "prefix": "didym",
+        "definition": "testis"
+    },
+    {
+        "prefix": "dif",
+        "definition": "separate"
+    },
+    {
+        "prefix": "digito",
+        "definition": "finger, toe"
+    },
+    {
+        "prefix": "digit",
+        "definition": "finger, toe"
+    },
+    {
+        "prefix": "dilato",
+        "definition": "expand"
+    },
+    {
+        "prefix": "dilat",
+        "definition": "expand"
+    },
+    {
+        "prefix": "diplo",
+        "definition": "double (Gr. Diploos)"
+    },
+    {
+        "prefix": "dipl",
+        "definition": "double (Gr. Diploos)"
+    },
+    {
+        "prefix": "dipso",
+        "definition": "thirst"
+    },
+    {
+        "prefix": "dips",
+        "definition": "thirst"
+    },
+    {
+        "prefix": "dis",
+        "definition": "apart, separate"
+    },
+    {
+        "prefix": "disko",
+        "definition": "disk"
+    },
+    {
+        "prefix": "disk",
+        "definition": "disk"
+    },
+    {
+        "prefix": "disto",
+        "definition": "distant from origin"
+    },
+    {
+        "prefix": "dist",
+        "definition": "distant from origin"
+    },
+    {
+        "prefix": "dorso",
+        "definition": "back"
+    },
+    {
+        "prefix": "dors",
+        "definition": "back"
+    },
+    {
+        "prefix": "ducto",
+        "definition": "lead"
+    },
+    {
+        "prefix": "duct",
+        "definition": "lead"
+    },
+    {
+        "prefix": "duodeno",
+        "definition": "duodenum"
+    },
+    {
+        "prefix": "duoden",
+        "definition": "duodenum"
+    },
+    {
+        "prefix": "duro",
+        "definition": "dura mater"
+    },
+    {
+        "prefix": "dur",
+        "definition": "dura mater"
+    },
+    {
+        "prefix": "dynamo",
+        "definition": "power, force"
+    },
+    {
+        "prefix": "dynam",
+        "definition": "power, force"
+    },
+    {
+        "prefix": "dys",
+        "definition": "abnormal, bad, difficult"
+    },
+    {
+        "prefix": "e",
+        "definition": "out from, from"
+    },
+    {
+        "prefix": "ec",
+        "definition": "out, outside"
+    },
+    {
+        "prefix": "echo",
+        "definition": "(reflected) sound"
+    },
+    {
+        "prefix": "ech",
+        "definition": "(reflected) sound"
+    },
+    {
+        "prefix": "ecto",
+        "definition": "out of, outside"
+    },
+    {
+        "prefix": "ect",
+        "definition": "out of, outside"
+    },
+    {
+        "prefix": "electro",
+        "definition": "electricity"
+    },
+    {
+        "prefix": "electr",
+        "definition": "electricity"
+    },
+    {
+        "prefix": "em",
+        "definition": "in"
+    },
+    {
+        "prefix": "embolo",
+        "definition": "embolus"
+    },
+    {
+        "prefix": "embol",
+        "definition": "embolus"
+    },
+    {
+        "prefix": "embryo",
+        "definition": "embryo"
+    },
+    {
+        "prefix": "embry",
+        "definition": "embryo"
+    },
+    {
+        "prefix": "emmetro",
+        "definition": "proportioned, correct measure"
+    },
+    {
+        "prefix": "emmetr",
+        "definition": "proportioned, correct measure"
+    },
+    {
+        "prefix": "en",
+        "definition": "inside, within"
+    },
+    {
+        "prefix": "encephalo",
+        "definition": "brain"
+    },
+    {
+        "prefix": "encephal",
+        "definition": "brain"
+    },
+    {
+        "prefix": "end",
+        "definition": "within, inner"
+    },
+    {
+        "prefix": "endo",
+        "definition": "within, inner"
+    },
+    {
+        "prefix": "ent",
+        "definition": "within"
+    },
+    {
+        "prefix": "entero",
+        "definition": "(small) intestine"
+    },
+    {
+        "prefix": "enter",
+        "definition": "(small) intestine"
+    },
+    {
+        "prefix": "eosino",
+        "definition": "red"
+    },
+    {
+        "prefix": "eosin",
+        "definition": "red"
+    },
+    {
+        "prefix": "ep",
+        "definition": "above, on, over"
+    },
+    {
+        "prefix": "epi",
+        "definition": "above, on, over"
+    },
+    {
+        "prefix": "epiglotto",
+        "definition": "epiglottis"
+    },
+    {
+        "prefix": "epiglott",
+        "definition": "epiglottis"
+    },
+    {
+        "prefix": "episio",
+        "definition": "vulva"
+    },
+    {
+        "prefix": "episi",
+        "definition": "vulva"
+    },
+    {
+        "prefix": "equi",
+        "definition": "equal, same"
+    },
+    {
+        "prefix": "ergo",
+        "definition": "work"
+    },
+    {
+        "prefix": "erg",
+        "definition": "work"
+    },
+    {
+        "prefix": "erythemo",
+        "definition": "redness"
+    },
+    {
+        "prefix": "erythem",
+        "definition": "redness"
+    },
+    {
+        "prefix": "erythro",
+        "definition": "red (Gr. erythros)"
+    },
+    {
+        "prefix": "erythr",
+        "definition": "red (Gr. erythros)"
+    },
+    {
+        "prefix": "eso",
+        "definition": "within"
+    },
+    {
+        "prefix": "esophago",
+        "definition": "esophagus"
+    },
+    {
+        "prefix": "esophag",
+        "definition": "esophagus"
+    },
+    {
+        "prefix": "esthesio",
+        "definition": "feeling, sensation"
+    },
+    {
+        "prefix": "esthesi",
+        "definition": "feeling, sensation"
+    },
+    {
+        "prefix": "estro",
+        "definition": "female"
+    },
+    {
+        "prefix": "estr",
+        "definition": "female"
+    },
+    {
+        "prefix": "etio",
+        "definition": "cause"
+    },
+    {
+        "prefix": "eti",
+        "definition": "cause"
+    },
+    {
+        "prefix": "eu",
+        "definition": "good, normal, well"
+    },
+    {
+        "prefix": "ex",
+        "definition": "away from, out"
+    },
+    {
+        "prefix": "exa",
+        "definition": "quintillion"
+    },
+    {
+        "prefix": "exo",
+        "definition": "outside"
+    },
+    {
+        "prefix": "extra",
+        "definition": "outside"
+    },
+    {
+        "prefix": "facio",
+        "definition": "face"
+    },
+    {
+        "prefix": "faci",
+        "definition": "face"
+    },
+    {
+        "prefix": "fascio",
+        "definition": "band of tissue (fascia)"
+    },
+    {
+        "prefix": "fasci",
+        "definition": "band of tissue (fascia)"
+    },
+    {
+        "prefix": "femoro",
+        "definition": "thigh bone (femur)"
+    },
+    {
+        "prefix": "femor",
+        "definition": "thigh bone (femur)"
+    },
+    {
+        "prefix": "femto",
+        "definition": "one quadrillionth"
+    },
+    {
+        "prefix": "feto",
+        "definition": "fetus"
+    },
+    {
+        "prefix": "fet",
+        "definition": "fetus"
+    },
+    {
+        "prefix": "fibro",
+        "definition": "fiber"
+    },
+    {
+        "prefix": "fibr",
+        "definition": "fiber"
+    },
+    {
+        "prefix": "fibulo",
+        "definition": "fibula"
+    },
+    {
+        "prefix": "fibul",
+        "definition": "fibula"
+    },
+    {
+        "prefix": "flexo",
+        "definition": "bend"
+    },
+    {
+        "prefix": "flex",
+        "definition": "bend"
+    },
+    {
+        "prefix": "fluoro",
+        "definition": "light, luminous, fluorine, fluoresce"
+    },
+    {
+        "prefix": "fluor",
+        "definition": "light, luminous, fluorine, fluoresce"
+    },
+    {
+        "prefix": "folliculo",
+        "definition": "small sac"
+    },
+    {
+        "prefix": "follicul",
+        "definition": "small sac"
+    },
+    {
+        "prefix": "galacto",
+        "definition": "milk"
+    },
+    {
+        "prefix": "galact",
+        "definition": "milk"
+    },
+    {
+        "prefix": "ganglio",
+        "definition": "ganglion"
+    },
+    {
+        "prefix": "gangli",
+        "definition": "ganglion"
+    },
+    {
+        "prefix": "gangliono",
+        "definition": "ganglion"
+    },
+    {
+        "prefix": "ganglion",
+        "definition": "ganglion"
+    },
+    {
+        "prefix": "gastro",
+        "definition": "stomach"
+    },
+    {
+        "prefix": "gastr",
+        "definition": "stomach"
+    },
+    {
+        "prefix": "geno",
+        "definition": "produce"
+    },
+    {
+        "prefix": "gen",
+        "definition": "produce"
+    },
+    {
+        "prefix": "gero",
+        "definition": "old age"
+    },
+    {
+        "prefix": "ger",
+        "definition": "old age"
+    },
+    {
+        "prefix": "giga",
+        "definition": "billion"
+    },
+    {
+        "prefix": "giganto",
+        "definition": "huge"
+    },
+    {
+        "prefix": "gigant",
+        "definition": "huge"
+    },
+    {
+        "prefix": "gingivo",
+        "definition": "gums"
+    },
+    {
+        "prefix": "gingiv",
+        "definition": "gums"
+    },
+    {
+        "prefix": "glauco",
+        "definition": "gray (Gr. glaukos)"
+    },
+    {
+        "prefix": "glauc",
+        "definition": "gray (Gr. glaukos)"
+    },
+    {
+        "prefix": "glio",
+        "definition": "glue"
+    },
+    {
+        "prefix": "gli",
+        "definition": "glue"
+    },
+    {
+        "prefix": "glomerulo",
+        "definition": "glomerulus"
+    },
+    {
+        "prefix": "glomerul",
+        "definition": "glomerulus"
+    },
+    {
+        "prefix": "glosso",
+        "definition": "tongue"
+    },
+    {
+        "prefix": "gloss",
+        "definition": "tongue"
+    },
+    {
+        "prefix": "gluco",
+        "definition": "glucose, sugar"
+    },
+    {
+        "prefix": "gluc",
+        "definition": "glucose, sugar"
+    },
+    {
+        "prefix": "glyco",
+        "definition": "glucose, sugar"
+    },
+    {
+        "prefix": "glyc",
+        "definition": "glucose, sugar"
+    },
+    {
+        "prefix": "gnatho",
+        "definition": "jaw"
+    },
+    {
+        "prefix": "gnath",
+        "definition": "jaw"
+    },
+    {
+        "prefix": "gono",
+        "definition": "genitals"
+    },
+    {
+        "prefix": "gon",
+        "definition": "genitals"
+    },
+    {
+        "prefix": "gonado",
+        "definition": "sex gland"
+    },
+    {
+        "prefix": "gonad",
+        "definition": "sex gland"
+    },
+    {
+        "prefix": "gonio",
+        "definition": "angle"
+    },
+    {
+        "prefix": "goni",
+        "definition": "angle"
+    },
+    {
+        "prefix": "granulo",
+        "definition": "granule"
+    },
+    {
+        "prefix": "granul",
+        "definition": "granule"
+    },
+    {
+        "prefix": "gravida",
+        "definition": "pregnant woman"
+    },
+    {
+        "prefix": "gryp",
+        "definition": "curvature"
+    },
+    {
+        "prefix": "gyno",
+        "definition": "woman"
+    },
+    {
+        "prefix": "gyn",
+        "definition": "woman"
+    },
+    {
+        "prefix": "gyneco",
+        "definition": "female"
+    },
+    {
+        "prefix": "gynec",
+        "definition": "female"
+    },
+    {
+        "prefix": "halito",
+        "definition": "breath"
+    },
+    {
+        "prefix": "halit",
+        "definition": "breath"
+    },
+    {
+        "prefix": "hecto",
+        "definition": "hundred"
+    },
+    {
+        "prefix": "hemo",
+        "definition": "blood"
+    },
+    {
+        "prefix": "hem",
+        "definition": "blood"
+    },
+    {
+        "prefix": "hemangio",
+        "definition": "blood vessel"
+    },
+    {
+        "prefix": "hemangi",
+        "definition": "blood vessel"
+    },
+    {
+        "prefix": "hemato",
+        "definition": "blood"
+    },
+    {
+        "prefix": "hemat",
+        "definition": "blood"
+    },
+    {
+        "prefix": "hemi",
+        "definition": "half (one side)"
+    },
+    {
+        "prefix": "hepato",
+        "definition": "liver"
+    },
+    {
+        "prefix": "hepat",
+        "definition": "liver"
+    },
+    {
+        "prefix": "hetero",
+        "definition": "other, different"
+    },
+    {
+        "prefix": "heter",
+        "definition": "other, different"
+    },
+    {
+        "prefix": "hex",
+        "definition": "six"
+    },
+    {
+        "prefix": "hidro",
+        "definition": "sweat"
+    },
+    {
+        "prefix": "hidr",
+        "definition": "sweat"
+    },
+    {
+        "prefix": "histo",
+        "definition": "tissue"
+    },
+    {
+        "prefix": "hist",
+        "definition": "tissue"
+    },
+    {
+        "prefix": "histio",
+        "definition": "tissue"
+    },
+    {
+        "prefix": "histi",
+        "definition": "tissue"
+    },
+    {
+        "prefix": "homo",
+        "definition": "same, similar"
+    },
+    {
+        "prefix": "hom",
+        "definition": "same, similar"
+    },
+    {
+        "prefix": "homeo",
+        "definition": "same, similar"
+    },
+    {
+        "prefix": "humero",
+        "definition": "humerus"
+    },
+    {
+        "prefix": "humer",
+        "definition": "humerus"
+    },
+    {
+        "prefix": "hydro",
+        "definition": "water"
+    },
+    {
+        "prefix": "hydr",
+        "definition": "water"
+    },
+    {
+        "prefix": "hyp",
+        "definition": "below normal, deficient"
+    },
+    {
+        "prefix": "hyper",
+        "definition": "high, above normal"
+    },
+    {
+        "prefix": "hypno",
+        "definition": "sleep"
+    },
+    {
+        "prefix": "hypn",
+        "definition": "sleep"
+    },
+    {
+        "prefix": "hypo",
+        "definition": "low, below normal"
+    },
+    {
+        "prefix": "hystero",
+        "definition": "uterus"
+    },
+    {
+        "prefix": "hyster",
+        "definition": "uterus"
+    },
+    {
+        "prefix": "iatro",
+        "definition": "treatment"
+    },
+    {
+        "prefix": "iatr",
+        "definition": "treatment"
+    },
+    {
+        "prefix": "ictero",
+        "definition": "jaundice"
+    },
+    {
+        "prefix": "icter",
+        "definition": "jaundice"
+    },
+    {
+        "prefix": "ileo",
+        "definition": "ileum"
+    },
+    {
+        "prefix": "ile",
+        "definition": "ileum"
+    },
+    {
+        "prefix": "ilio",
+        "definition": "ilium"
+    },
+    {
+        "prefix": "ili",
+        "definition": "ilium"
+    },
+    {
+        "prefix": "im",
+        "definition": "not"
+    },
+    {
+        "prefix": "immuno",
+        "definition": "immunity, safe"
+    },
+    {
+        "prefix": "immun",
+        "definition": "immunity, safe"
+    },
+    {
+        "prefix": "in",
+        "definition": "into, not, within"
+    },
+    {
+        "prefix": "infra",
+        "definition": "below, beneath"
+    },
+    {
+        "prefix": "inguino",
+        "definition": "groin"
+    },
+    {
+        "prefix": "inguin",
+        "definition": "groin"
+    },
+    {
+        "prefix": "inter",
+        "definition": "between"
+    },
+    {
+        "prefix": "intra",
+        "definition": "within"
+    },
+    {
+        "prefix": "intro",
+        "definition": "within"
+    },
+    {
+        "prefix": "ir",
+        "definition": "not"
+    },
+    {
+        "prefix": "irido",
+        "definition": "iris"
+    },
+    {
+        "prefix": "irid",
+        "definition": "iris"
+    },
+    {
+        "prefix": "iso",
+        "definition": "equal"
+    },
+    {
+        "prefix": "is",
+        "definition": "equal"
+    },
+    {
+        "prefix": "ischo",
+        "definition": "hold back, restrain"
+    },
+    {
+        "prefix": "isch",
+        "definition": "hold back, restrain"
+    },
+    {
+        "prefix": "ischio",
+        "definition": "ischium"
+    },
+    {
+        "prefix": "ischi",
+        "definition": "ischium"
+    },
+    {
+        "prefix": "iso",
+        "definition": "equal, same"
+    },
+    {
+        "prefix": "jaundo",
+        "definition": "yellow (L. galbinus)"
+    },
+    {
+        "prefix": "jaund",
+        "definition": "yellow (L. galbinus)"
+    },
+    {
+        "prefix": "jejuno",
+        "definition": "jejunum"
+    },
+    {
+        "prefix": "jejun",
+        "definition": "jejunum"
+    },
+    {
+        "prefix": "juxta",
+        "definition": "near, close to"
+    },
+    {
+        "prefix": "kali",
+        "definition": "potassium"
+    },
+    {
+        "prefix": "kal",
+        "definition": "potassium"
+    },
+    {
+        "prefix": "karyo",
+        "definition": "(cell) nucleus"
+    },
+    {
+        "prefix": "kary",
+        "definition": "(cell) nucleus"
+    },
+    {
+        "prefix": "kelo",
+        "definition": "tumor, growth"
+    },
+    {
+        "prefix": "kel",
+        "definition": "tumor, growth"
+    },
+    {
+        "prefix": "kerato",
+        "definition": "cornea, horny tissue"
+    },
+    {
+        "prefix": "kerat",
+        "definition": "cornea, horny tissue"
+    },
+    {
+        "prefix": "ketono",
+        "definition": "ketone"
+    },
+    {
+        "prefix": "keton",
+        "definition": "ketone"
+    },
+    {
+        "prefix": "kilo",
+        "definition": "one thousand"
+    },
+    {
+        "prefix": "kine",
+        "definition": "movement"
+    },
+    {
+        "prefix": "kin",
+        "definition": "movement"
+    },
+    {
+        "prefix": "kinesio",
+        "definition": "movement"
+    },
+    {
+        "prefix": "kinesi",
+        "definition": "movement"
+    },
+    {
+        "prefix": "kypho",
+        "definition": "hump(back) (Gr. kuphos)"
+    },
+    {
+        "prefix": "kyph",
+        "definition": "hump(back) (Gr. kuphos)"
+    },
+    {
+        "prefix": "labio",
+        "definition": "lip"
+    },
+    {
+        "prefix": "labi",
+        "definition": "lip"
+    },
+    {
+        "prefix": "lacrimo",
+        "definition": "tear (duct), lacrimal duct"
+    },
+    {
+        "prefix": "lacrim",
+        "definition": "tear (duct), lacrimal duct"
+    },
+    {
+        "prefix": "lacto",
+        "definition": "milk"
+    },
+    {
+        "prefix": "lact",
+        "definition": "milk"
+    },
+    {
+        "prefix": "lamino",
+        "definition": "lamina"
+    },
+    {
+        "prefix": "lamin",
+        "definition": "lamina"
+    },
+    {
+        "prefix": "laparo",
+        "definition": "abdomen"
+    },
+    {
+        "prefix": "lapar",
+        "definition": "abdomen"
+    },
+    {
+        "prefix": "laryngo",
+        "definition": "larynx (voice box)"
+    },
+    {
+        "prefix": "laryng",
+        "definition": "larynx (voice box)"
+    },
+    {
+        "prefix": "latero",
+        "definition": "side"
+    },
+    {
+        "prefix": "later",
+        "definition": "side"
+    },
+    {
+        "prefix": "leio",
+        "definition": "smooth"
+    },
+    {
+        "prefix": "lei",
+        "definition": "smooth"
+    },
+    {
+        "prefix": "lenti",
+        "definition": "lens"
+    },
+    {
+        "prefix": "lent",
+        "definition": "lens"
+    },
+    {
+        "prefix": "leuko",
+        "definition": "white (Gr. leukos)"
+    },
+    {
+        "prefix": "leuk",
+        "definition": "white (Gr. leukos)"
+    },
+    {
+        "prefix": "linguo",
+        "definition": "tongue"
+    },
+    {
+        "prefix": "lingu",
+        "definition": "tongue"
+    },
+    {
+        "prefix": "lipo",
+        "definition": "fat, lipid"
+    },
+    {
+        "prefix": "lip",
+        "definition": "fat, lipid"
+    },
+    {
+        "prefix": "lipido",
+        "definition": "fat"
+    },
+    {
+        "prefix": "lipid",
+        "definition": "fat"
+    },
+    {
+        "prefix": "litho",
+        "definition": "stone"
+    },
+    {
+        "prefix": "lith",
+        "definition": "stone"
+    },
+    {
+        "prefix": "lobo",
+        "definition": "lobe"
+    },
+    {
+        "prefix": "lob",
+        "definition": "lobe"
+    },
+    {
+        "prefix": "logo",
+        "definition": "word"
+    },
+    {
+        "prefix": "log",
+        "definition": "word"
+    },
+    {
+        "prefix": "logado",
+        "definition": "white of the eye"
+    },
+    {
+        "prefix": "logad",
+        "definition": "white of the eye"
+    },
+    {
+        "prefix": "lordo",
+        "definition": "curve, bending"
+    },
+    {
+        "prefix": "lord",
+        "definition": "curve, bending"
+    },
+    {
+        "prefix": "lumbo",
+        "definition": "lumbar, lower back"
+    },
+    {
+        "prefix": "lumb",
+        "definition": "lumbar, lower back"
+    },
+    {
+        "prefix": "lympho",
+        "definition": "lymph"
+    },
+    {
+        "prefix": "lymph",
+        "definition": "lymph"
+    },
+    {
+        "prefix": "macro",
+        "definition": "large"
+    },
+    {
+        "prefix": "mal",
+        "definition": "bad, abnormal"
+    },
+    {
+        "prefix": "mammo",
+        "definition": "breast"
+    },
+    {
+        "prefix": "mamm",
+        "definition": "breast"
+    },
+    {
+        "prefix": "mandibulo",
+        "definition": "mandible (lower jaw)"
+    },
+    {
+        "prefix": "mandibul",
+        "definition": "mandible (lower jaw)"
+    },
+    {
+        "prefix": "manus",
+        "definition": "hand"
+    },
+    {
+        "prefix": "masto",
+        "definition": "breast"
+    },
+    {
+        "prefix": "mast",
+        "definition": "breast"
+    },
+    {
+        "prefix": "mastoido",
+        "definition": "mastoid process"
+    },
+    {
+        "prefix": "mastoid",
+        "definition": "mastoid process"
+    },
+    {
+        "prefix": "maxillo",
+        "definition": "maxilla (upper jaw)"
+    },
+    {
+        "prefix": "maxill",
+        "definition": "maxilla (upper jaw)"
+    },
+    {
+        "prefix": "medio",
+        "definition": "middle"
+    },
+    {
+        "prefix": "medi",
+        "definition": "middle"
+    },
+    {
+        "prefix": "medullo",
+        "definition": "medulla, marrow"
+    },
+    {
+        "prefix": "medull",
+        "definition": "medulla, marrow"
+    },
+    {
+        "prefix": "mega",
+        "definition": "very large, million"
+    },
+    {
+        "prefix": "melano",
+        "definition": "black (Gr. melas)"
+    },
+    {
+        "prefix": "melan",
+        "definition": "black (Gr. melas)"
+    },
+    {
+        "prefix": "meno",
+        "definition": "menstruation"
+    },
+    {
+        "prefix": "men",
+        "definition": "menstruation"
+    },
+    {
+        "prefix": "meningo",
+        "definition": "meninges, membrane"
+    },
+    {
+        "prefix": "mening",
+        "definition": "meninges, membrane"
+    },
+    {
+        "prefix": "menisco",
+        "definition": "meniscus"
+    },
+    {
+        "prefix": "menisc",
+        "definition": "meniscus"
+    },
+    {
+        "prefix": "mento",
+        "definition": "mind"
+    },
+    {
+        "prefix": "ment",
+        "definition": "mind"
+    },
+    {
+        "prefix": "meso",
+        "definition": "middle, central"
+    },
+    {
+        "prefix": "mes",
+        "definition": "middle, central"
+    },
+    {
+        "prefix": "meso",
+        "definition": "middle"
+    },
+    {
+        "prefix": "meta",
+        "definition": "alter, beyond, change"
+    },
+    {
+        "prefix": "metacarpo",
+        "definition": "metacarpal (hand bone)"
+    },
+    {
+        "prefix": "metacarp",
+        "definition": "metacarpal (hand bone)"
+    },
+    {
+        "prefix": "metatarso",
+        "definition": "metatarsal (foot bone)"
+    },
+    {
+        "prefix": "metatars",
+        "definition": "metatarsal (foot bone)"
+    },
+    {
+        "prefix": "metri",
+        "definition": "uterus, measure"
+    },
+    {
+        "prefix": "metr",
+        "definition": "uterus, measure"
+    },
+    {
+        "prefix": "metro",
+        "definition": "uterus, measure"
+    },
+    {
+        "prefix": "metr",
+        "definition": "uterus, measure"
+    },
+    {
+        "prefix": "mio",
+        "definition": "less, smaller"
+    },
+    {
+        "prefix": "mi",
+        "definition": "less, smaller"
+    },
+    {
+        "prefix": "micro",
+        "definition": "small, one millionth"
+    },
+    {
+        "prefix": "milli",
+        "definition": "one thousandth"
+    },
+    {
+        "prefix": "minim",
+        "definition": "smallest, least; fluid measure (1/60 of a fluidrachm)"
+    },
+    {
+        "prefix": "mito",
+        "definition": "thread"
+    },
+    {
+        "prefix": "mit",
+        "definition": "thread"
+    },
+    {
+        "prefix": "mono",
+        "definition": "one, single"
+    },
+    {
+        "prefix": "mon",
+        "definition": "one, single"
+    },
+    {
+        "prefix": "morpho",
+        "definition": "form, shape"
+    },
+    {
+        "prefix": "morph",
+        "definition": "form, shape"
+    },
+    {
+        "prefix": "multi",
+        "definition": "more than one"
+    },
+    {
+        "prefix": "musculo",
+        "definition": "muscle"
+    },
+    {
+        "prefix": "muscul",
+        "definition": "muscle"
+    },
+    {
+        "prefix": "myo",
+        "definition": "muscle"
+    },
+    {
+        "prefix": "my",
+        "definition": "muscle"
+    },
+    {
+        "prefix": "myco",
+        "definition": "fungus"
+    },
+    {
+        "prefix": "myc",
+        "definition": "fungus"
+    },
+    {
+        "prefix": "myelo",
+        "definition": "bone marrow, spinal cord"
+    },
+    {
+        "prefix": "myel",
+        "definition": "bone marrow, spinal cord"
+    },
+    {
+        "prefix": "myoso",
+        "definition": "muscle"
+    },
+    {
+        "prefix": "myos",
+        "definition": "muscle"
+    },
+    {
+        "prefix": "myringo",
+        "definition": "eardrum (tympanic membrane)"
+    },
+    {
+        "prefix": "myring",
+        "definition": "eardrum (tympanic membrane)"
+    },
+    {
+        "prefix": "myxo",
+        "definition": "mucus"
+    },
+    {
+        "prefix": "myx",
+        "definition": "mucus"
+    },
+    {
+        "prefix": "nano",
+        "definition": "one billionth"
+    },
+    {
+        "prefix": "narco",
+        "definition": "numbness, stupor"
+    },
+    {
+        "prefix": "narc",
+        "definition": "numbness, stupor"
+    },
+    {
+        "prefix": "naso",
+        "definition": "nose"
+    },
+    {
+        "prefix": "nas",
+        "definition": "nose"
+    },
+    {
+        "prefix": "nati",
+        "definition": "birth"
+    },
+    {
+        "prefix": "nat",
+        "definition": "birth"
+    },
+    {
+        "prefix": "nato",
+        "definition": "birth"
+    },
+    {
+        "prefix": "nat",
+        "definition": "birth"
+    },
+    {
+        "prefix": "natro",
+        "definition": "sodium"
+    },
+    {
+        "prefix": "natr",
+        "definition": "sodium"
+    },
+    {
+        "prefix": "necro",
+        "definition": "death"
+    },
+    {
+        "prefix": "necr",
+        "definition": "death"
+    },
+    {
+        "prefix": "neo",
+        "definition": "new"
+    },
+    {
+        "prefix": "nephro",
+        "definition": "kidney"
+    },
+    {
+        "prefix": "nephr",
+        "definition": "kidney"
+    },
+    {
+        "prefix": "neuri",
+        "definition": "nerve"
+    },
+    {
+        "prefix": "neur",
+        "definition": "nerve"
+    },
+    {
+        "prefix": "neuro",
+        "definition": "nerve"
+    },
+    {
+        "prefix": "neur",
+        "definition": "nerve"
+    },
+    {
+        "prefix": "neutro",
+        "definition": "neither, neutral (L. neutralis)"
+    },
+    {
+        "prefix": "neutr",
+        "definition": "neither, neutral (L. neutralis)"
+    },
+    {
+        "prefix": "nocto",
+        "definition": "night"
+    },
+    {
+        "prefix": "noct",
+        "definition": "night"
+    },
+    {
+        "prefix": "non",
+        "definition": "not, negative of"
+    },
+    {
+        "prefix": "normo",
+        "definition": "normal, conforms to rule"
+    },
+    {
+        "prefix": "norm",
+        "definition": "normal, conforms to rule"
+    },
+    {
+        "prefix": "nucleo",
+        "definition": "nucleus"
+    },
+    {
+        "prefix": "nucl",
+        "definition": "nucleus"
+    },
+    {
+        "prefix": "nulli",
+        "definition": "none"
+    },
+    {
+        "prefix": "oo",
+        "definition": "egg (ovum)"
+    },
+    {
+        "prefix": "o",
+        "definition": "egg (ovum)"
+    },
+    {
+        "prefix": "obstetro",
+        "definition": "midwife"
+    },
+    {
+        "prefix": "obstetr",
+        "definition": "midwife"
+    },
+    {
+        "prefix": "occluso",
+        "definition": "close, obstruct"
+    },
+    {
+        "prefix": "occlus",
+        "definition": "close, obstruct"
+    },
+    {
+        "prefix": "oculo",
+        "definition": "eye"
+    },
+    {
+        "prefix": "ocul",
+        "definition": "eye"
+    },
+    {
+        "prefix": "odonto",
+        "definition": "tooth"
+    },
+    {
+        "prefix": "odont",
+        "definition": "tooth"
+    },
+    {
+        "prefix": "olecrano",
+        "definition": "olecranon (elbow)"
+    },
+    {
+        "prefix": "olecran",
+        "definition": "olecranon (elbow)"
+    },
+    {
+        "prefix": "olfacto",
+        "definition": "smell"
+    },
+    {
+        "prefix": "olfact",
+        "definition": "smell"
+    },
+    {
+        "prefix": "oligo",
+        "definition": "few, scant"
+    },
+    {
+        "prefix": "omphalo",
+        "definition": "navel"
+    },
+    {
+        "prefix": "omphal",
+        "definition": "navel"
+    },
+    {
+        "prefix": "onco",
+        "definition": "tumor, mass"
+    },
+    {
+        "prefix": "onc",
+        "definition": "tumor, mass"
+    },
+    {
+        "prefix": "onycho",
+        "definition": "nail"
+    },
+    {
+        "prefix": "onych",
+        "definition": "nail"
+    },
+    {
+        "prefix": "oophoro",
+        "definition": "ovary"
+    },
+    {
+        "prefix": "oophor",
+        "definition": "ovary"
+    },
+    {
+        "prefix": "ophryo",
+        "definition": "eyebrow"
+    },
+    {
+        "prefix": "ophry",
+        "definition": "eyebrow"
+    },
+    {
+        "prefix": "ophthalmo",
+        "definition": "eye"
+    },
+    {
+        "prefix": "ophthalm",
+        "definition": "eye"
+    },
+    {
+        "prefix": "opto",
+        "definition": "eye, vision"
+    },
+    {
+        "prefix": "opt",
+        "definition": "eye, vision"
+    },
+    {
+        "prefix": "optico",
+        "definition": "sight, vision"
+    },
+    {
+        "prefix": "optic",
+        "definition": "sight, vision"
+    },
+    {
+        "prefix": "oro",
+        "definition": "mouth"
+    },
+    {
+        "prefix": "or",
+        "definition": "mouth"
+    },
+    {
+        "prefix": "orcho",
+        "definition": "testicle"
+    },
+    {
+        "prefix": "orch",
+        "definition": "testicle"
+    },
+    {
+        "prefix": "orchio",
+        "definition": "testis"
+    },
+    {
+        "prefix": "orchi",
+        "definition": "testis"
+    },
+    {
+        "prefix": "orchido",
+        "definition": "testicle"
+    },
+    {
+        "prefix": "orchid",
+        "definition": "testicle"
+    },
+    {
+        "prefix": "organo",
+        "definition": "organ"
+    },
+    {
+        "prefix": "organ",
+        "definition": "organ"
+    },
+    {
+        "prefix": "ortho",
+        "definition": "straight; correct"
+    },
+    {
+        "prefix": "orth",
+        "definition": "straight; correct"
+    },
+    {
+        "prefix": "oscillo",
+        "definition": "swing"
+    },
+    {
+        "prefix": "oscill",
+        "definition": "swing"
+    },
+    {
+        "prefix": "osseo",
+        "definition": "bone"
+    },
+    {
+        "prefix": "oss",
+        "definition": "bone"
+    },
+    {
+        "prefix": "ossi",
+        "definition": "bone"
+    },
+    {
+        "prefix": "oss",
+        "definition": "bone"
+    },
+    {
+        "prefix": "osteo",
+        "definition": "bone"
+    },
+    {
+        "prefix": "oste",
+        "definition": "bone"
+    },
+    {
+        "prefix": "oto",
+        "definition": "ear"
+    },
+    {
+        "prefix": "ot",
+        "definition": "ear"
+    },
+    {
+        "prefix": "ovi",
+        "definition": "egg (ovum)"
+    },
+    {
+        "prefix": "ov",
+        "definition": "egg (ovum)"
+    },
+    {
+        "prefix": "ovo",
+        "definition": "egg (ovum)"
+    },
+    {
+        "prefix": "ov",
+        "definition": "egg (ovum)"
+    },
+    {
+        "prefix": "ovario",
+        "definition": "ovary"
+    },
+    {
+        "prefix": "ovari",
+        "definition": "ovary"
+    },
+    {
+        "prefix": "oxi",
+        "definition": "oxygen"
+    },
+    {
+        "prefix": "ox",
+        "definition": "oxygen"
+    },
+    {
+        "prefix": "oxo",
+        "definition": "oxygen"
+    },
+    {
+        "prefix": "ox",
+        "definition": "oxygen"
+    },
+    {
+        "prefix": "oxy",
+        "definition": "oxygen"
+    },
+    {
+        "prefix": "ox",
+        "definition": "oxygen"
+    },
+    {
+        "prefix": "pachy",
+        "definition": "thick"
+    },
+    {
+        "prefix": "palato",
+        "definition": "palate"
+    },
+    {
+        "prefix": "palat",
+        "definition": "palate"
+    },
+    {
+        "prefix": "palpito",
+        "definition": "throb, flutter"
+    },
+    {
+        "prefix": "palpit",
+        "definition": "throb, flutter"
+    },
+    {
+        "prefix": "pan",
+        "definition": "all"
+    },
+    {
+        "prefix": "pancreato",
+        "definition": "pancreas"
+    },
+    {
+        "prefix": "pancreat",
+        "definition": "pancreas"
+    },
+    {
+        "prefix": "papillo",
+        "definition": "nipple, papilla"
+    },
+    {
+        "prefix": "papill",
+        "definition": "nipple, papilla"
+    },
+    {
+        "prefix": "papulo",
+        "definition": "papule, pimple"
+    },
+    {
+        "prefix": "papul",
+        "definition": "papule, pimple"
+    },
+    {
+        "prefix": "para",
+        "definition": "has given birth"
+    },
+    {
+        "prefix": "para",
+        "definition": "beside, near"
+    },
+    {
+        "prefix": "patello",
+        "definition": "patella (knee)"
+    },
+    {
+        "prefix": "patell",
+        "definition": "patella (knee)"
+    },
+    {
+        "prefix": "patho",
+        "definition": "disease"
+    },
+    {
+        "prefix": "path",
+        "definition": "disease"
+    },
+    {
+        "prefix": "pectoro",
+        "definition": "chest"
+    },
+    {
+        "prefix": "pector",
+        "definition": "chest"
+    },
+    {
+        "prefix": "pedi",
+        "definition": "child, foot"
+    },
+    {
+        "prefix": "ped",
+        "definition": "child, foot"
+    },
+    {
+        "prefix": "pedo",
+        "definition": "child, foot"
+    },
+    {
+        "prefix": "ped",
+        "definition": "child, foot"
+    },
+    {
+        "prefix": "pelvi",
+        "definition": "pelvis"
+    },
+    {
+        "prefix": "pelv",
+        "definition": "pelvis"
+    },
+    {
+        "prefix": "pelvo",
+        "definition": "pelvis"
+    },
+    {
+        "prefix": "pelv",
+        "definition": "pelvis"
+    },
+    {
+        "prefix": "pepto",
+        "definition": "digest"
+    },
+    {
+        "prefix": "pept",
+        "definition": "digest"
+    },
+    {
+        "prefix": "per",
+        "definition": "through"
+    },
+    {
+        "prefix": "peri",
+        "definition": "around"
+    },
+    {
+        "prefix": "perineo",
+        "definition": "perineum"
+    },
+    {
+        "prefix": "perine",
+        "definition": "perineum"
+    },
+    {
+        "prefix": "peritoneo",
+        "definition": "peritoneum"
+    },
+    {
+        "prefix": "peritone",
+        "definition": "peritoneum"
+    },
+    {
+        "prefix": "peta",
+        "definition": "quadrillion"
+    },
+    {
+        "prefix": "phaco",
+        "definition": "lens (eye)"
+    },
+    {
+        "prefix": "phac",
+        "definition": "lens (eye)"
+    },
+    {
+        "prefix": "phago",
+        "definition": "eat, ingest"
+    },
+    {
+        "prefix": "phag",
+        "definition": "eat, ingest"
+    },
+    {
+        "prefix": "phako",
+        "definition": "lens (eye)"
+    },
+    {
+        "prefix": "phak",
+        "definition": "lens (eye)"
+    },
+    {
+        "prefix": "phalango",
+        "definition": "finger or toe bone (phalanges)"
+    },
+    {
+        "prefix": "phalang",
+        "definition": "finger or toe bone (phalanges)"
+    },
+    {
+        "prefix": "phallo",
+        "definition": "penis"
+    },
+    {
+        "prefix": "phall",
+        "definition": "penis"
+    },
+    {
+        "prefix": "pharmaco",
+        "definition": "drug"
+    },
+    {
+        "prefix": "pharmac",
+        "definition": "drug"
+    },
+    {
+        "prefix": "pharyngo",
+        "definition": "pharynx, throat"
+    },
+    {
+        "prefix": "pharyng",
+        "definition": "pharynx, throat"
+    },
+    {
+        "prefix": "phaso",
+        "definition": "speech"
+    },
+    {
+        "prefix": "phas",
+        "definition": "speech"
+    },
+    {
+        "prefix": "pheno",
+        "definition": "show"
+    },
+    {
+        "prefix": "phen",
+        "definition": "show"
+    },
+    {
+        "prefix": "phlebo",
+        "definition": "vein"
+    },
+    {
+        "prefix": "phleb",
+        "definition": "vein"
+    },
+    {
+        "prefix": "phobo",
+        "definition": "fear, aversion to"
+    },
+    {
+        "prefix": "phob",
+        "definition": "fear, aversion to"
+    },
+    {
+        "prefix": "phono",
+        "definition": "sound, voice"
+    },
+    {
+        "prefix": "phon",
+        "definition": "sound, voice"
+    },
+    {
+        "prefix": "phos",
+        "definition": "light"
+    },
+    {
+        "prefix": "photo",
+        "definition": "light"
+    },
+    {
+        "prefix": "phot",
+        "definition": "light"
+    },
+    {
+        "prefix": "phreno",
+        "definition": "diaphragm"
+    },
+    {
+        "prefix": "phren",
+        "definition": "diaphragm"
+    },
+    {
+        "prefix": "physio",
+        "definition": "function, natural"
+    },
+    {
+        "prefix": "physi",
+        "definition": "function, natural"
+    },
+    {
+        "prefix": "physico",
+        "definition": "natural"
+    },
+    {
+        "prefix": "physic",
+        "definition": "natural"
+    },
+    {
+        "prefix": "pico",
+        "definition": "one trillionth"
+    },
+    {
+        "prefix": "pilo",
+        "definition": "hair"
+    },
+    {
+        "prefix": "pil",
+        "definition": "hair"
+    },
+    {
+        "prefix": "pinealo",
+        "definition": "pineal gland"
+    },
+    {
+        "prefix": "pineal",
+        "definition": "pineal gland"
+    },
+    {
+        "prefix": "pituitaro",
+        "definition": "pituitary (gland)"
+    },
+    {
+        "prefix": "pituitar",
+        "definition": "pituitary (gland)"
+    },
+    {
+        "prefix": "plasmo",
+        "definition": "plasma, formative"
+    },
+    {
+        "prefix": "plasm",
+        "definition": "plasma, formative"
+    },
+    {
+        "prefix": "pleura",
+        "definition": "pleura"
+    },
+    {
+        "prefix": "pleur",
+        "definition": "pleura"
+    },
+    {
+        "prefix": "pleuro",
+        "definition": "pleura"
+    },
+    {
+        "prefix": "pleur",
+        "definition": "pleura"
+    },
+    {
+        "prefix": "pneuma",
+        "definition": "air, lung"
+    },
+    {
+        "prefix": "pneum",
+        "definition": "air, lung"
+    },
+    {
+        "prefix": "pneumo",
+        "definition": "air, lung"
+    },
+    {
+        "prefix": "pneum",
+        "definition": "air, lung"
+    },
+    {
+        "prefix": "pneumono",
+        "definition": "lung, breath"
+    },
+    {
+        "prefix": "pneumon",
+        "definition": "lung, breath"
+    },
+    {
+        "prefix": "podo",
+        "definition": "foot"
+    },
+    {
+        "prefix": "pod",
+        "definition": "foot"
+    },
+    {
+        "prefix": "polio",
+        "definition": "gray (Gr. polios)"
+    },
+    {
+        "prefix": "poli",
+        "definition": "gray (Gr. polios)"
+    },
+    {
+        "prefix": "poly",
+        "definition": "many, much"
+    },
+    {
+        "prefix": "poly",
+        "definition": "many"
+    },
+    {
+        "prefix": "por",
+        "definition": "opening, passage through"
+    },
+    {
+        "prefix": "post",
+        "definition": "after; behind"
+    },
+    {
+        "prefix": "postero",
+        "definition": "back, towards back"
+    },
+    {
+        "prefix": "poster",
+        "definition": "back, towards back"
+    },
+    {
+        "prefix": "pre",
+        "definition": "before, in front of (time or place)"
+    },
+    {
+        "prefix": "presby",
+        "definition": "old age"
+    },
+    {
+        "prefix": "primi",
+        "definition": "first"
+    },
+    {
+        "prefix": "pro",
+        "definition": "before, in front of (time or place)"
+    },
+    {
+        "prefix": "procto",
+        "definition": "anus, rectum"
+    },
+    {
+        "prefix": "proct",
+        "definition": "anus, rectum"
+    },
+    {
+        "prefix": "prostato",
+        "definition": "prostate (gland)"
+    },
+    {
+        "prefix": "prostat",
+        "definition": "prostate (gland)"
+    },
+    {
+        "prefix": "proto",
+        "definition": "first"
+    },
+    {
+        "prefix": "prot",
+        "definition": "first"
+    },
+    {
+        "prefix": "proximo",
+        "definition": "near, proximal to"
+    },
+    {
+        "prefix": "proxim",
+        "definition": "near, proximal to"
+    },
+    {
+        "prefix": "prurito",
+        "definition": "itching (pruritus)"
+    },
+    {
+        "prefix": "prurit",
+        "definition": "itching (pruritus)"
+    },
+    {
+        "prefix": "pseudo",
+        "definition": "false"
+    },
+    {
+        "prefix": "psycho",
+        "definition": "mind"
+    },
+    {
+        "prefix": "psych",
+        "definition": "mind"
+    },
+    {
+        "prefix": "pubo",
+        "definition": "pubis"
+    },
+    {
+        "prefix": "pub",
+        "definition": "pubis"
+    },
+    {
+        "prefix": "pulmo",
+        "definition": "lung"
+    },
+    {
+        "prefix": "pulm",
+        "definition": "lung"
+    },
+    {
+        "prefix": "pulmono",
+        "definition": "lung"
+    },
+    {
+        "prefix": "pulmon",
+        "definition": "lung"
+    },
+    {
+        "prefix": "pupillo",
+        "definition": "pupil"
+    },
+    {
+        "prefix": "pupill",
+        "definition": "pupil"
+    },
+    {
+        "prefix": "purpuro",
+        "definition": "purple (Gr. purphura)"
+    },
+    {
+        "prefix": "purpur",
+        "definition": "purple (Gr. purphura)"
+    },
+    {
+        "prefix": "pyo",
+        "definition": "pus"
+    },
+    {
+        "prefix": "py",
+        "definition": "pus"
+    },
+    {
+        "prefix": "pyelo",
+        "definition": "renal pelvis"
+    },
+    {
+        "prefix": "pyel",
+        "definition": "renal pelvis"
+    },
+    {
+        "prefix": "pyloro",
+        "definition": "pylorus"
+    },
+    {
+        "prefix": "pylor",
+        "definition": "pylorus"
+    },
+    {
+        "prefix": "pyro",
+        "definition": "fever, heat"
+    },
+    {
+        "prefix": "pyr",
+        "definition": "fever, heat"
+    },
+    {
+        "prefix": "quadri",
+        "definition": "four"
+    },
+    {
+        "prefix": "quint",
+        "definition": "five"
+    },
+    {
+        "prefix": "rachio",
+        "definition": "spine"
+    },
+    {
+        "prefix": "rachi",
+        "definition": "spine"
+    },
+    {
+        "prefix": "radio",
+        "definition": "(x-ray) radiation"
+    },
+    {
+        "prefix": "radi",
+        "definition": "(x-ray) radiation"
+    },
+    {
+        "prefix": "radiculo",
+        "definition": "nerve root"
+    },
+    {
+        "prefix": "radicul",
+        "definition": "nerve root"
+    },
+    {
+        "prefix": "ras",
+        "definition": "scrape"
+    },
+    {
+        "prefix": "re",
+        "definition": "backward; again"
+    },
+    {
+        "prefix": "recto",
+        "definition": "rectum"
+    },
+    {
+        "prefix": "rect",
+        "definition": "rectum"
+    },
+    {
+        "prefix": "reno",
+        "definition": "kidney"
+    },
+    {
+        "prefix": "ren",
+        "definition": "kidney"
+    },
+    {
+        "prefix": "respirato",
+        "definition": "breathing"
+    },
+    {
+        "prefix": "respirat",
+        "definition": "breathing"
+    },
+    {
+        "prefix": "reticulo",
+        "definition": "network"
+    },
+    {
+        "prefix": "reticul",
+        "definition": "network"
+    },
+    {
+        "prefix": "retino",
+        "definition": "retina"
+    },
+    {
+        "prefix": "retin",
+        "definition": "retina"
+    },
+    {
+        "prefix": "retro",
+        "definition": "behind, backward"
+    },
+    {
+        "prefix": "rhabdo",
+        "definition": "rod shaped"
+    },
+    {
+        "prefix": "rhabd",
+        "definition": "rod shaped"
+    },
+    {
+        "prefix": "rhabdomyo",
+        "definition": "striated/skeletal muscle"
+    },
+    {
+        "prefix": "rhabdomy",
+        "definition": "striated/skeletal muscle"
+    },
+    {
+        "prefix": "rheumato",
+        "definition": "discharge, flow, joint"
+    },
+    {
+        "prefix": "rheumat",
+        "definition": "discharge, flow, joint"
+    },
+    {
+        "prefix": "rhino",
+        "definition": "nose"
+    },
+    {
+        "prefix": "rhin",
+        "definition": "nose"
+    },
+    {
+        "prefix": "rhytido",
+        "definition": "wrinkle"
+    },
+    {
+        "prefix": "rhytid",
+        "definition": "wrinkle"
+    },
+    {
+        "prefix": "rotato",
+        "definition": "turn, rotate"
+    },
+    {
+        "prefix": "rotat",
+        "definition": "turn, rotate"
+    },
+    {
+        "prefix": "rrhythmo",
+        "definition": "rhythm"
+    },
+    {
+        "prefix": "rrhythm",
+        "definition": "rhythm"
+    },
+    {
+        "prefix": "rubeo",
+        "definition": "red"
+    },
+    {
+        "prefix": "rube",
+        "definition": "red"
+    },
+    {
+        "prefix": "sacro",
+        "definition": "sacrum"
+    },
+    {
+        "prefix": "sacr",
+        "definition": "sacrum"
+    },
+    {
+        "prefix": "salpingo",
+        "definition": "fallopian tube"
+    },
+    {
+        "prefix": "salping",
+        "definition": "fallopian tube"
+    },
+    {
+        "prefix": "sarco",
+        "definition": "flesh"
+    },
+    {
+        "prefix": "sarc",
+        "definition": "flesh"
+    },
+    {
+        "prefix": "scapulo",
+        "definition": "scapula (shoulder blade)"
+    },
+    {
+        "prefix": "scapul",
+        "definition": "scapula (shoulder blade)"
+    },
+    {
+        "prefix": "schizo",
+        "definition": "split, divide"
+    },
+    {
+        "prefix": "schiz",
+        "definition": "split, divide"
+    },
+    {
+        "prefix": "sclero",
+        "definition": "hardening, sclera"
+    },
+    {
+        "prefix": "scler",
+        "definition": "hardening, sclera"
+    },
+    {
+        "prefix": "sclerao",
+        "definition": "hard"
+    },
+    {
+        "prefix": "sclera",
+        "definition": "hard"
+    },
+    {
+        "prefix": "scolio",
+        "definition": "crooked, bent, twisted (Gr. skolios)"
+    },
+    {
+        "prefix": "scoli",
+        "definition": "crooked, bent, twisted (Gr. skolios)"
+    },
+    {
+        "prefix": "scroto",
+        "definition": "scrotum"
+    },
+    {
+        "prefix": "scrot",
+        "definition": "scrotum"
+    },
+    {
+        "prefix": "sebo",
+        "definition": "sebum"
+    },
+    {
+        "prefix": "seb",
+        "definition": "sebum"
+    },
+    {
+        "prefix": "semi",
+        "definition": "half"
+    },
+    {
+        "prefix": "semino",
+        "definition": "semen"
+    },
+    {
+        "prefix": "semin",
+        "definition": "semen"
+    },
+    {
+        "prefix": "seminat",
+        "definition": "semen"
+    },
+    {
+        "prefix": "sept",
+        "definition": "seven"
+    },
+    {
+        "prefix": "septo",
+        "definition": "infection, partition"
+    },
+    {
+        "prefix": "sept",
+        "definition": "infection, partition"
+    },
+    {
+        "prefix": "septico",
+        "definition": "infection, putrefying"
+    },
+    {
+        "prefix": "septic",
+        "definition": "infection, putrefying"
+    },
+    {
+        "prefix": "sero",
+        "definition": "serum"
+    },
+    {
+        "prefix": "ser",
+        "definition": "serum"
+    },
+    {
+        "prefix": "sialo",
+        "definition": "saliva"
+    },
+    {
+        "prefix": "sial",
+        "definition": "saliva"
+    },
+    {
+        "prefix": "sidero",
+        "definition": "iron"
+    },
+    {
+        "prefix": "sider",
+        "definition": "iron"
+    },
+    {
+        "prefix": "sigmoido",
+        "definition": "sigmoid colon"
+    },
+    {
+        "prefix": "sigmoid",
+        "definition": "sigmoid colon"
+    },
+    {
+        "prefix": "situ",
+        "definition": "in place"
+    },
+    {
+        "prefix": "somato",
+        "definition": "body"
+    },
+    {
+        "prefix": "somat",
+        "definition": "body"
+    },
+    {
+        "prefix": "somni",
+        "definition": "sleep"
+    },
+    {
+        "prefix": "somn",
+        "definition": "sleep"
+    },
+    {
+        "prefix": "somno",
+        "definition": "sleep"
+    },
+    {
+        "prefix": "somn",
+        "definition": "sleep"
+    },
+    {
+        "prefix": "sono",
+        "definition": "sound"
+    },
+    {
+        "prefix": "son",
+        "definition": "sound"
+    },
+    {
+        "prefix": "spermo",
+        "definition": "spermatozoa"
+    },
+    {
+        "prefix": "sperm",
+        "definition": "spermatozoa"
+    },
+    {
+        "prefix": "spermato",
+        "definition": "spermatozoa"
+    },
+    {
+        "prefix": "spermat",
+        "definition": "spermatozoa"
+    },
+    {
+        "prefix": "sphero",
+        "definition": "spherical"
+    },
+    {
+        "prefix": "spher",
+        "definition": "spherical"
+    },
+    {
+        "prefix": "sphygmo",
+        "definition": "pulse"
+    },
+    {
+        "prefix": "sphygm",
+        "definition": "pulse"
+    },
+    {
+        "prefix": "spino",
+        "definition": "spine"
+    },
+    {
+        "prefix": "spin",
+        "definition": "spine"
+    },
+    {
+        "prefix": "spiro",
+        "definition": "breathe"
+    },
+    {
+        "prefix": "spir",
+        "definition": "breathe"
+    },
+    {
+        "prefix": "spleno",
+        "definition": "spleen"
+    },
+    {
+        "prefix": "splen",
+        "definition": "spleen"
+    },
+    {
+        "prefix": "spondylo",
+        "definition": "vertebra"
+    },
+    {
+        "prefix": "spondyl",
+        "definition": "vertebra"
+    },
+    {
+        "prefix": "squamo",
+        "definition": "squamous (scaly)"
+    },
+    {
+        "prefix": "squam",
+        "definition": "squamous (scaly)"
+    },
+    {
+        "prefix": "stapedo",
+        "definition": "stapes"
+    },
+    {
+        "prefix": "staped",
+        "definition": "stapes"
+    },
+    {
+        "prefix": "steato",
+        "definition": "fat"
+    },
+    {
+        "prefix": "steat",
+        "definition": "fat"
+    },
+    {
+        "prefix": "steno",
+        "definition": "narrow"
+    },
+    {
+        "prefix": "sten",
+        "definition": "narrow"
+    },
+    {
+        "prefix": "sterno",
+        "definition": "sternum (breastbone)"
+    },
+    {
+        "prefix": "stern",
+        "definition": "sternum (breastbone)"
+    },
+    {
+        "prefix": "stetho",
+        "definition": "chest"
+    },
+    {
+        "prefix": "steth",
+        "definition": "chest"
+    },
+    {
+        "prefix": "stoma",
+        "definition": "mouth, opening"
+    },
+    {
+        "prefix": "stom",
+        "definition": "mouth, opening"
+    },
+    {
+        "prefix": "stomo",
+        "definition": "mouth, opening"
+    },
+    {
+        "prefix": "stom",
+        "definition": "mouth, opening"
+    },
+    {
+        "prefix": "stomato",
+        "definition": "mouth"
+    },
+    {
+        "prefix": "stomat",
+        "definition": "mouth"
+    },
+    {
+        "prefix": "strict",
+        "definition": "tighten"
+    },
+    {
+        "prefix": "sub",
+        "definition": "below, under"
+    },
+    {
+        "prefix": "sudo",
+        "definition": "sweat"
+    },
+    {
+        "prefix": "sud",
+        "definition": "sweat"
+    },
+    {
+        "prefix": "super",
+        "definition": "above"
+    },
+    {
+        "prefix": "supra",
+        "definition": "above"
+    },
+    {
+        "prefix": "sym",
+        "definition": "together, with"
+    },
+    {
+        "prefix": "syn",
+        "definition": "together, with"
+    },
+    {
+        "prefix": "synovo",
+        "definition": "synovial membrane"
+    },
+    {
+        "prefix": "synov",
+        "definition": "synovial membrane"
+    },
+    {
+        "prefix": "systol",
+        "definition": "contraction"
+    },
+    {
+        "prefix": "tachy",
+        "definition": "fast, rapid"
+    },
+    {
+        "prefix": "talo",
+        "definition": "talus (ankle)"
+    },
+    {
+        "prefix": "tal",
+        "definition": "talus (ankle)"
+    },
+    {
+        "prefix": "tarso",
+        "definition": "tarsus (ankle)"
+    },
+    {
+        "prefix": "tars",
+        "definition": "tarsus (ankle)"
+    },
+    {
+        "prefix": "tele",
+        "definition": "distant"
+    },
+    {
+        "prefix": "temporo",
+        "definition": "temple; period of time"
+    },
+    {
+        "prefix": "tempor",
+        "definition": "temple; period of time"
+    },
+    {
+        "prefix": "teno",
+        "definition": "tendon"
+    },
+    {
+        "prefix": "ten",
+        "definition": "tendon"
+    },
+    {
+        "prefix": "tendo",
+        "definition": "tendon"
+    },
+    {
+        "prefix": "tend",
+        "definition": "tendon"
+    },
+    {
+        "prefix": "tendino",
+        "definition": "tendon"
+    },
+    {
+        "prefix": "tendin",
+        "definition": "tendon"
+    },
+    {
+        "prefix": "tens",
+        "definition": "tight, tension"
+    },
+    {
+        "prefix": "tera",
+        "definition": "trillion"
+    },
+    {
+        "prefix": "terato",
+        "definition": "monster, deformed"
+    },
+    {
+        "prefix": "terat",
+        "definition": "monster, deformed"
+    },
+    {
+        "prefix": "testo",
+        "definition": "testis"
+    },
+    {
+        "prefix": "test",
+        "definition": "testis"
+    },
+    {
+        "prefix": "testiculo",
+        "definition": "testis"
+    },
+    {
+        "prefix": "testicul",
+        "definition": "testis"
+    },
+    {
+        "prefix": "tetra",
+        "definition": "four"
+    },
+    {
+        "prefix": "thalamo",
+        "definition": "thalamus"
+    },
+    {
+        "prefix": "thalam",
+        "definition": "thalamus"
+    },
+    {
+        "prefix": "thelo",
+        "definition": "nipple"
+    },
+    {
+        "prefix": "thel",
+        "definition": "nipple"
+    },
+    {
+        "prefix": "thermo",
+        "definition": "heat"
+    },
+    {
+        "prefix": "therm",
+        "definition": "heat"
+    },
+    {
+        "prefix": "thoraco",
+        "definition": "chest"
+    },
+    {
+        "prefix": "thorac",
+        "definition": "chest"
+    },
+    {
+        "prefix": "thrombo",
+        "definition": "clot"
+    },
+    {
+        "prefix": "thromb",
+        "definition": "clot"
+    },
+    {
+        "prefix": "thymo",
+        "definition": "thymus gland"
+    },
+    {
+        "prefix": "thym",
+        "definition": "thymus gland"
+    },
+    {
+        "prefix": "thyro",
+        "definition": "thyroid gland"
+    },
+    {
+        "prefix": "thyr",
+        "definition": "thyroid gland"
+    },
+    {
+        "prefix": "thyroido",
+        "definition": "thyroid gland"
+    },
+    {
+        "prefix": "thyroid",
+        "definition": "thyroid gland"
+    },
+    {
+        "prefix": "tibio",
+        "definition": "tibia"
+    },
+    {
+        "prefix": "tibi",
+        "definition": "tibia"
+    },
+    {
+        "prefix": "toco",
+        "definition": "birth, labor"
+    },
+    {
+        "prefix": "toc",
+        "definition": "birth, labor"
+    },
+    {
+        "prefix": "tomo",
+        "definition": "cut"
+    },
+    {
+        "prefix": "tom",
+        "definition": "cut"
+    },
+    {
+        "prefix": "tono",
+        "definition": "tone, tension, pressure"
+    },
+    {
+        "prefix": "ton",
+        "definition": "tone, tension, pressure"
+    },
+    {
+        "prefix": "tonsillo",
+        "definition": "tonsil"
+    },
+    {
+        "prefix": "tonsill",
+        "definition": "tonsil"
+    },
+    {
+        "prefix": "topo",
+        "definition": "put, place"
+    },
+    {
+        "prefix": "top",
+        "definition": "put, place"
+    },
+    {
+        "prefix": "torso",
+        "definition": "twisted"
+    },
+    {
+        "prefix": "tors",
+        "definition": "twisted"
+    },
+    {
+        "prefix": "torti",
+        "definition": "twisted"
+    },
+    {
+        "prefix": "tort",
+        "definition": "twisted"
+    },
+    {
+        "prefix": "toxo",
+        "definition": "poison, toxin"
+    },
+    {
+        "prefix": "tox",
+        "definition": "poison, toxin"
+    },
+    {
+        "prefix": "toxico",
+        "definition": "poison"
+    },
+    {
+        "prefix": "toxic",
+        "definition": "poison"
+    },
+    {
+        "prefix": "tracheo",
+        "definition": "trachea"
+    },
+    {
+        "prefix": "trache",
+        "definition": "trachea"
+    },
+    {
+        "prefix": "trachelo",
+        "definition": "neck"
+    },
+    {
+        "prefix": "trachel",
+        "definition": "neck"
+    },
+    {
+        "prefix": "tracto",
+        "definition": "draw"
+    },
+    {
+        "prefix": "tract",
+        "definition": "draw"
+    },
+    {
+        "prefix": "trans",
+        "definition": "across, through"
+    },
+    {
+        "prefix": "tri",
+        "definition": "three"
+    },
+    {
+        "prefix": "tricho",
+        "definition": "hair"
+    },
+    {
+        "prefix": "trich",
+        "definition": "hair"
+    },
+    {
+        "prefix": "trigono",
+        "definition": "trigone"
+    },
+    {
+        "prefix": "trigon",
+        "definition": "trigone"
+    },
+    {
+        "prefix": "trop",
+        "definition": "turn"
+    },
+    {
+        "prefix": "tropho",
+        "definition": "nourishment, growth"
+    },
+    {
+        "prefix": "troph",
+        "definition": "nourishment, growth"
+    },
+    {
+        "prefix": "tubo",
+        "definition": "tube"
+    },
+    {
+        "prefix": "tub",
+        "definition": "tube"
+    },
+    {
+        "prefix": "tuber",
+        "definition": "swelling"
+    },
+    {
+        "prefix": "tussi",
+        "definition": "cough"
+    },
+    {
+        "prefix": "tuss",
+        "definition": "cough"
+    },
+    {
+        "prefix": "tympano",
+        "definition": "middle ear, eardrum"
+    },
+    {
+        "prefix": "tympan",
+        "definition": "middle ear, eardrum"
+    },
+    {
+        "prefix": "ulno",
+        "definition": "ulna"
+    },
+    {
+        "prefix": "uln",
+        "definition": "ulna"
+    },
+    {
+        "prefix": "ultra",
+        "definition": "beyond, excessive"
+    },
+    {
+        "prefix": "umbilico",
+        "definition": "navel (umbilicus)"
+    },
+    {
+        "prefix": "umbilic",
+        "definition": "navel (umbilicus)"
+    },
+    {
+        "prefix": "un",
+        "definition": "not, reversal"
+    },
+    {
+        "prefix": "unguo",
+        "definition": "nail"
+    },
+    {
+        "prefix": "ungu",
+        "definition": "nail"
+    },
+    {
+        "prefix": "uni",
+        "definition": "one"
+    },
+    {
+        "prefix": "uro",
+        "definition": "urine, urinary tract"
+    },
+    {
+        "prefix": "ur",
+        "definition": "urine, urinary tract"
+    },
+    {
+        "prefix": "urano",
+        "definition": "palate"
+    },
+    {
+        "prefix": "uran",
+        "definition": "palate"
+    },
+    {
+        "prefix": "urea",
+        "definition": "urine, urinary tract"
+    },
+    {
+        "prefix": "ure",
+        "definition": "urine, urinary tract"
+    },
+    {
+        "prefix": "ureo",
+        "definition": "urine, urinary tract"
+    },
+    {
+        "prefix": "ure",
+        "definition": "urine, urinary tract"
+    },
+    {
+        "prefix": "uretero",
+        "definition": "ureter"
+    },
+    {
+        "prefix": "ureter",
+        "definition": "ureter"
+    },
+    {
+        "prefix": "urethro",
+        "definition": "urethra"
+    },
+    {
+        "prefix": "urethr",
+        "definition": "urethra"
+    },
+    {
+        "prefix": "urino",
+        "definition": "urine"
+    },
+    {
+        "prefix": "urin",
+        "definition": "urine"
+    },
+    {
+        "prefix": "utero",
+        "definition": "uterus"
+    },
+    {
+        "prefix": "uter",
+        "definition": "uterus"
+    },
+    {
+        "prefix": "uveo",
+        "definition": "uvea"
+    },
+    {
+        "prefix": "uve",
+        "definition": "uvea"
+    },
+    {
+        "prefix": "uvulo",
+        "definition": "uvula"
+    },
+    {
+        "prefix": "uvul",
+        "definition": "uvula"
+    },
+    {
+        "prefix": "vago",
+        "definition": "vagus nerve"
+    },
+    {
+        "prefix": "vag",
+        "definition": "vagus nerve"
+    },
+    {
+        "prefix": "vagino",
+        "definition": "vagina"
+    },
+    {
+        "prefix": "vagin",
+        "definition": "vagina"
+    },
+    {
+        "prefix": "valvulo",
+        "definition": "valve"
+    },
+    {
+        "prefix": "valvul",
+        "definition": "valve"
+    },
+    {
+        "prefix": "varico",
+        "definition": "swollen vein"
+    },
+    {
+        "prefix": "varic",
+        "definition": "swollen vein"
+    },
+    {
+        "prefix": "vaso",
+        "definition": "vessel, vas deferens"
+    },
+    {
+        "prefix": "vas",
+        "definition": "vessel, vas deferens"
+    },
+    {
+        "prefix": "vasculo",
+        "definition": "(blood) vessel"
+    },
+    {
+        "prefix": "vascul",
+        "definition": "(blood) vessel"
+    },
+    {
+        "prefix": "veni",
+        "definition": "vein"
+    },
+    {
+        "prefix": "ven",
+        "definition": "vein"
+    },
+    {
+        "prefix": "veno",
+        "definition": "vein"
+    },
+    {
+        "prefix": "ven",
+        "definition": "vein"
+    },
+    {
+        "prefix": "venereo",
+        "definition": "sexual intercourse"
+    },
+    {
+        "prefix": "venere",
+        "definition": "sexual intercourse"
+    },
+    {
+        "prefix": "ventri",
+        "definition": "front of body, belly"
+    },
+    {
+        "prefix": "ventr",
+        "definition": "front of body, belly"
+    },
+    {
+        "prefix": "ventro",
+        "definition": "front of body, belly"
+    },
+    {
+        "prefix": "ventr",
+        "definition": "front of body, belly"
+    },
+    {
+        "prefix": "vermi",
+        "definition": "worm"
+    },
+    {
+        "prefix": "verm",
+        "definition": "worm"
+    },
+    {
+        "prefix": "verso",
+        "definition": "turn(ing)"
+    },
+    {
+        "prefix": "vers",
+        "definition": "turn(ing)"
+    },
+    {
+        "prefix": "vertebro",
+        "definition": "vertebra"
+    },
+    {
+        "prefix": "vertebr",
+        "definition": "vertebra"
+    },
+    {
+        "prefix": "vesico",
+        "definition": "urinary bladder"
+    },
+    {
+        "prefix": "vesic",
+        "definition": "urinary bladder"
+    },
+    {
+        "prefix": "vesiculo",
+        "definition": "seminal vesicle"
+    },
+    {
+        "prefix": "vesicul",
+        "definition": "seminal vesicle"
+    },
+    {
+        "prefix": "viro",
+        "definition": "virus"
+    },
+    {
+        "prefix": "vir",
+        "definition": "virus"
+    },
+    {
+        "prefix": "virilo",
+        "definition": "masculine"
+    },
+    {
+        "prefix": "viril",
+        "definition": "masculine"
+    },
+    {
+        "prefix": "viscero",
+        "definition": "internal organs"
+    },
+    {
+        "prefix": "viscer",
+        "definition": "internal organs"
+    },
+    {
+        "prefix": "vitreo",
+        "definition": "glassy"
+    },
+    {
+        "prefix": "vitre",
+        "definition": "glassy"
+    },
+    {
+        "prefix": "vulvo",
+        "definition": "vulva"
+    },
+    {
+        "prefix": "vulv",
+        "definition": "vulva"
+    },
+    {
+        "prefix": "xantho",
+        "definition": "yellow (Gr. xanthos)"
+    },
+    {
+        "prefix": "xanth",
+        "definition": "yellow (Gr. xanthos)"
+    },
+    {
+        "prefix": "xeno",
+        "definition": "strange; foreign matter"
+    },
+    {
+        "prefix": "xen",
+        "definition": "strange; foreign matter"
+    },
+    {
+        "prefix": "xero",
+        "definition": "dry"
+    },
+    {
+        "prefix": "xer",
+        "definition": "dry"
+    },
+    {
+        "prefix": "xipho",
+        "definition": "sword shape"
+    },
+    {
+        "prefix": "xiph",
+        "definition": "sword shape"
+    },
+    {
+        "prefix": "zoo",
+        "definition": "animal"
+    },
+    {
+        "prefix": "zo",
+        "definition": "animal"
+    }
+]

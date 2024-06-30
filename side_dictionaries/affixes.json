@@ -1,0 +1,3947 @@
+[
+    {
+        "word": "a-",
+        "definition": "not, without, lacking",
+        "affix": "prefix"
+    },
+    {
+        "word": "ab-",
+        "definition": "away from",
+        "affix": "prefix"
+    },
+    {
+        "word": "abdomin/o",
+        "definition": "abdomen",
+        "affix": "prefix"
+    },
+    {
+        "word": "-able",
+        "definition": "capable",
+        "affix": "suffix"
+    },
+    {
+        "word": "-ac",
+        "definition": "pertaining to (Gr. akos)",
+        "affix": "suffix"
+    },
+    {
+        "word": "acanth/o",
+        "definition": "thorn, spine",
+        "affix": "prefix"
+    },
+    {
+        "word": "acetabul/o",
+        "definition": "acetabulum",
+        "affix": "prefix"
+    },
+    {
+        "word": "acou-",
+        "definition": "sound, hear, acoustic",
+        "affix": "prefix"
+    },
+    {
+        "word": "acr/o",
+        "definition": "extremity",
+        "affix": "prefix"
+    },
+    {
+        "word": "act/o",
+        "definition": "do, act",
+        "affix": "prefix"
+    },
+    {
+        "word": "ad-",
+        "definition": "toward",
+        "affix": "prefix"
+    },
+    {
+        "word": "-ad",
+        "definition": "pertaining to",
+        "affix": "suffix"
+    },
+    {
+        "word": "aden/o",
+        "definition": "gland",
+        "affix": "prefix"
+    },
+    {
+        "word": "adenoid/o",
+        "definition": "adenoid",
+        "affix": "prefix"
+    },
+    {
+        "word": "adip/o",
+        "definition": "fat",
+        "affix": "prefix"
+    },
+    {
+        "word": "adren/o",
+        "definition": "adrenal gland",
+        "affix": "prefix"
+    },
+    {
+        "word": "agglutin/o",
+        "definition": "adhere or clump",
+        "affix": "prefix"
+    },
+    {
+        "word": "agon/o",
+        "definition": "struggle",
+        "affix": "prefix"
+    },
+    {
+        "word": "agor/a",
+        "definition": "marketplace (Gr. agora)",
+        "affix": "prefix"
+    },
+    {
+        "word": "-al",
+        "definition": "pertaining to",
+        "affix": "suffix"
+    },
+    {
+        "word": "albin/o",
+        "definition": "white (L. albus)",
+        "affix": "prefix"
+    },
+    {
+        "word": "algesi/o",
+        "definition": "pain",
+        "affix": "prefix"
+    },
+    {
+        "word": "-algesia",
+        "definition": "pain",
+        "affix": "suffix"
+    },
+    {
+        "word": "-algia",
+        "definition": "pain, painful condition",
+        "affix": "suffix"
+    },
+    {
+        "word": "all/o",
+        "definition": "different",
+        "affix": "prefix"
+    },
+    {
+        "word": "alveol/o",
+        "definition": "alveolus (air sac)",
+        "affix": "prefix"
+    },
+    {
+        "word": "ambi-",
+        "definition": "both",
+        "affix": "prefix"
+    },
+    {
+        "word": "ambly/o",
+        "definition": "dull",
+        "affix": "prefix"
+    },
+    {
+        "word": "ambo-",
+        "definition": "both",
+        "affix": "prefix"
+    },
+    {
+        "word": "ambul/o",
+        "definition": "walking",
+        "affix": "prefix"
+    },
+    {
+        "word": "amni/o",
+        "definition": "amnion",
+        "affix": "prefix"
+    },
+    {
+        "word": "amphi-",
+        "definition": "both sides",
+        "affix": "prefix"
+    },
+    {
+        "word": "amyl/o",
+        "definition": "starch",
+        "affix": "prefix"
+    },
+    {
+        "word": "an-",
+        "definition": "not, without, lacking",
+        "affix": "prefix"
+    },
+    {
+        "word": "an/o",
+        "definition": "anus",
+        "affix": "prefix"
+    },
+    {
+        "word": "ana-",
+        "definition": "apart, up",
+        "affix": "prefix"
+    },
+    {
+        "word": "andr/o",
+        "definition": "male",
+        "affix": "prefix"
+    },
+    {
+        "word": "angi/o",
+        "definition": "vessel",
+        "affix": "prefix"
+    },
+    {
+        "word": "anis/o",
+        "definition": "unequal",
+        "affix": "prefix"
+    },
+    {
+        "word": "ankyl/o",
+        "definition": "stiff, crooked",
+        "affix": "prefix"
+    },
+    {
+        "word": "-ant",
+        "definition": "doing, having",
+        "affix": "suffix"
+    },
+    {
+        "word": "ante-",
+        "definition": "before",
+        "affix": "prefix"
+    },
+    {
+        "word": "anter/o",
+        "definition": "front",
+        "affix": "prefix"
+    },
+    {
+        "word": "anti-",
+        "definition": "against",
+        "affix": "prefix"
+    },
+    {
+        "word": "aort/o",
+        "definition": "aorta",
+        "affix": "prefix"
+    },
+    {
+        "word": "-apheresis",
+        "definition": "removal",
+        "affix": "suffix"
+    },
+    {
+        "word": "apo-",
+        "definition": "separation, derived from",
+        "affix": "prefix"
+    },
+    {
+        "word": "append/o",
+        "definition": "appendix",
+        "affix": "prefix"
+    },
+    {
+        "word": "appendic/o",
+        "definition": "appendix",
+        "affix": "prefix"
+    },
+    {
+        "word": "aque/o",
+        "definition": "water",
+        "affix": "prefix"
+    },
+    {
+        "word": "arch(e/i)",
+        "definition": "first",
+        "affix": "prefix"
+    },
+    {
+        "word": "arter/o",
+        "definition": "artery",
+        "affix": "prefix"
+    },
+    {
+        "word": "arteri/o",
+        "definition": "artery",
+        "affix": "prefix"
+    },
+    {
+        "word": "arteriol/o",
+        "definition": "arteriole",
+        "affix": "prefix"
+    },
+    {
+        "word": "arthr/o",
+        "definition": "joint",
+        "affix": "prefix"
+    },
+    {
+        "word": "articul/o",
+        "definition": "joint",
+        "affix": "prefix"
+    },
+    {
+        "word": "-ary",
+        "definition": "pertaining to",
+        "affix": "suffix"
+    },
+    {
+        "word": "-ase",
+        "definition": "enzyme",
+        "affix": "suffix"
+    },
+    {
+        "word": "aspir/o",
+        "definition": "inhaling",
+        "affix": "prefix"
+    },
+    {
+        "word": "aspirat/o",
+        "definition": "inhale, removal",
+        "affix": "prefix"
+    },
+    {
+        "word": "-asthenia",
+        "definition": "weakness",
+        "affix": "suffix"
+    },
+    {
+        "word": "-ate",
+        "definition": "status; state; function",
+        "affix": "suffix"
+    },
+    {
+        "word": "atel/o",
+        "definition": "incomplete, imperfect",
+        "affix": "prefix"
+    },
+    {
+        "word": "ather/o",
+        "definition": "fatty plaque",
+        "affix": "prefix"
+    },
+    {
+        "word": "atri/o",
+        "definition": "atrium",
+        "affix": "prefix"
+    },
+    {
+        "word": "audi/o",
+        "definition": "hearing",
+        "affix": "prefix"
+    },
+    {
+        "word": "audit/o",
+        "definition": "hearing",
+        "affix": "prefix"
+    },
+    {
+        "word": "aur(i/o)",
+        "definition": "ear",
+        "affix": "prefix"
+    },
+    {
+        "word": "auto-",
+        "definition": "self, same",
+        "affix": "prefix"
+    },
+    {
+        "word": "axill/o",
+        "definition": "armpit",
+        "affix": "prefix"
+    },
+    {
+        "word": "bacteri/o",
+        "definition": "bacteria",
+        "affix": "prefix"
+    },
+    {
+        "word": "balan/o",
+        "definition": "glans penis",
+        "affix": "prefix"
+    },
+    {
+        "word": "bar/o",
+        "definition": "pressure",
+        "affix": "prefix"
+    },
+    {
+        "word": "bas/o",
+        "definition": "base, foundation",
+        "affix": "prefix"
+    },
+    {
+        "word": "bi-",
+        "definition": "two",
+        "affix": "prefix"
+    },
+    {
+        "word": "bi/o",
+        "definition": "life, living",
+        "affix": "prefix"
+    },
+    {
+        "word": "bil/i",
+        "definition": "bile",
+        "affix": "prefix"
+    },
+    {
+        "word": "bin-",
+        "definition": "two",
+        "affix": "prefix"
+    },
+    {
+        "word": "bio-",
+        "definition": "life",
+        "affix": "prefix"
+    },
+    {
+        "word": "-blast",
+        "definition": "immature, early stage cell",
+        "affix": "suffix"
+    },
+    {
+        "word": "blast/o",
+        "definition": "immature, early stage cell",
+        "affix": "prefix"
+    },
+    {
+        "word": "blephar/o",
+        "definition": "eyelid",
+        "affix": "prefix"
+    },
+    {
+        "word": "brachi/o",
+        "definition": "arm",
+        "affix": "prefix"
+    },
+    {
+        "word": "brachy-",
+        "definition": "short",
+        "affix": "prefix"
+    },
+    {
+        "word": "brady-",
+        "definition": "slow",
+        "affix": "prefix"
+    },
+    {
+        "word": "bronch/o",
+        "definition": "bronchus",
+        "affix": "prefix"
+    },
+    {
+        "word": "bucc/o",
+        "definition": "cheek",
+        "affix": "prefix"
+    },
+    {
+        "word": "burs/o",
+        "definition": "bursa (small fluid-filled sac)",
+        "affix": "prefix"
+    },
+    {
+        "word": "cac-",
+        "definition": "bad, abnormal",
+        "affix": "prefix"
+    },
+    {
+        "word": "calc/o",
+        "definition": "calcium",
+        "affix": "prefix"
+    },
+    {
+        "word": "calcane/o",
+        "definition": "calcaneus (heel)",
+        "affix": "prefix"
+    },
+    {
+        "word": "canth/o",
+        "definition": "angle",
+        "affix": "prefix"
+    },
+    {
+        "word": "capit/o",
+        "definition": "head",
+        "affix": "prefix"
+    },
+    {
+        "word": "capn/o",
+        "definition": "carbon dioxide",
+        "affix": "prefix"
+    },
+    {
+        "word": "capsul/o",
+        "definition": "capsule",
+        "affix": "prefix"
+    },
+    {
+        "word": "carcin/o",
+        "definition": "cancer",
+        "affix": "prefix"
+    },
+    {
+        "word": "cardi/o",
+        "definition": "heart",
+        "affix": "prefix"
+    },
+    {
+        "word": "carp/o",
+        "definition": "wrist (carpal)",
+        "affix": "prefix"
+    },
+    {
+        "word": "cata-",
+        "definition": "down",
+        "affix": "prefix"
+    },
+    {
+        "word": "caud/o",
+        "definition": "tail, down",
+        "affix": "prefix"
+    },
+    {
+        "word": "caus/o",
+        "definition": "burn(ing)",
+        "affix": "prefix"
+    },
+    {
+        "word": "cec/o",
+        "definition": "cecum",
+        "affix": "prefix"
+    },
+    {
+        "word": "-cele",
+        "definition": "hernia, swelling",
+        "affix": "suffix"
+    },
+    {
+        "word": "celi/o",
+        "definition": "abdomen",
+        "affix": "prefix"
+    },
+    {
+        "word": "cellul/o",
+        "definition": "cell",
+        "affix": "prefix"
+    },
+    {
+        "word": "-centesis",
+        "definition": "surgical puncture",
+        "affix": "suffix"
+    },
+    {
+        "word": "centi-",
+        "definition": "one hundredth",
+        "affix": "prefix"
+    },
+    {
+        "word": "centr/o",
+        "definition": "center",
+        "affix": "prefix"
+    },
+    {
+        "word": "cephal/o",
+        "definition": "head",
+        "affix": "prefix"
+    },
+    {
+        "word": "-ceps",
+        "definition": "head, leader",
+        "affix": "suffix"
+    },
+    {
+        "word": "cept-",
+        "definition": "received",
+        "affix": "prefix"
+    },
+    {
+        "word": "cerebell/o",
+        "definition": "cerebellum",
+        "affix": "prefix"
+    },
+    {
+        "word": "cerebr/o",
+        "definition": "cerebrum",
+        "affix": "prefix"
+    },
+    {
+        "word": "cerumin/o",
+        "definition": "cerumen (earwax)",
+        "affix": "prefix"
+    },
+    {
+        "word": "cervic/o",
+        "definition": "neck, cervix",
+        "affix": "prefix"
+    },
+    {
+        "word": "cheil/o",
+        "definition": "lip",
+        "affix": "prefix"
+    },
+    {
+        "word": "cheir/o",
+        "definition": "hand",
+        "affix": "prefix"
+    },
+    {
+        "word": "chem/o",
+        "definition": "drug, chemical",
+        "affix": "prefix"
+    },
+    {
+        "word": "chil/o",
+        "definition": "lip",
+        "affix": "prefix"
+    },
+    {
+        "word": "chir/o",
+        "definition": "hand",
+        "affix": "prefix"
+    },
+    {
+        "word": "chlor/o",
+        "definition": "green",
+        "affix": "prefix"
+    },
+    {
+        "word": "chol/e",
+        "definition": "gall, bile",
+        "affix": "prefix"
+    },
+    {
+        "word": "cholangi/o",
+        "definition": "bile duct",
+        "affix": "prefix"
+    },
+    {
+        "word": "chondr/o",
+        "definition": "cartilage",
+        "affix": "prefix"
+    },
+    {
+        "word": "chori/o",
+        "definition": "chorion",
+        "affix": "prefix"
+    },
+    {
+        "word": "choroid/o",
+        "definition": "choroid",
+        "affix": "prefix"
+    },
+    {
+        "word": "chrom/o",
+        "definition": "color",
+        "affix": "prefix"
+    },
+    {
+        "word": "chromat/o",
+        "definition": "color",
+        "affix": "prefix"
+    },
+    {
+        "word": "chron-",
+        "definition": "time",
+        "affix": "prefix"
+    },
+    {
+        "word": "-cidal",
+        "definition": "killing, destroying",
+        "affix": "suffix"
+    },
+    {
+        "word": "-cide",
+        "definition": "killing",
+        "affix": "suffix"
+    },
+    {
+        "word": "cine-",
+        "definition": "movement",
+        "affix": "prefix"
+    },
+    {
+        "word": "circulat/o",
+        "definition": "circle shape",
+        "affix": "prefix"
+    },
+    {
+        "word": "circum-",
+        "definition": "around",
+        "affix": "prefix"
+    },
+    {
+        "word": "cirrh/o",
+        "definition": "orange-yellow (Gr. kirrhos)",
+        "affix": "prefix"
+    },
+    {
+        "word": "cis/o",
+        "definition": "cut",
+        "affix": "prefix"
+    },
+    {
+        "word": "-clasia",
+        "definition": "break",
+        "affix": "suffix"
+    },
+    {
+        "word": "-clasis",
+        "definition": "breaking",
+        "affix": "suffix"
+    },
+    {
+        "word": "clavicul/o",
+        "definition": "clavicle",
+        "affix": "prefix"
+    },
+    {
+        "word": "-cle",
+        "definition": "small",
+        "affix": "suffix"
+    },
+    {
+        "word": "cleid/o",
+        "definition": "clavicle",
+        "affix": "prefix"
+    },
+    {
+        "word": "co-",
+        "definition": "together",
+        "affix": "prefix"
+    },
+    {
+        "word": "coagul/o",
+        "definition": "coagulation, clotting",
+        "affix": "prefix"
+    },
+    {
+        "word": "cochle/o",
+        "definition": "cochlea",
+        "affix": "prefix"
+    },
+    {
+        "word": "col/o",
+        "definition": "colon",
+        "affix": "prefix"
+    },
+    {
+        "word": "coll/a",
+        "definition": "neckline",
+        "affix": "prefix"
+    },
+    {
+        "word": "colon/o",
+        "definition": "colon",
+        "affix": "prefix"
+    },
+    {
+        "word": "colp/o",
+        "definition": "vagina",
+        "affix": "prefix"
+    },
+    {
+        "word": "com-",
+        "definition": "together, with",
+        "affix": "prefix"
+    },
+    {
+        "word": "comat/o",
+        "definition": "deep sleep",
+        "affix": "prefix"
+    },
+    {
+        "word": "con-",
+        "definition": "with, together",
+        "affix": "prefix"
+    },
+    {
+        "word": "coni/o",
+        "definition": "dust",
+        "affix": "prefix"
+    },
+    {
+        "word": "consci/o",
+        "definition": "aware",
+        "affix": "prefix"
+    },
+    {
+        "word": "contra-",
+        "definition": "against, opposed",
+        "affix": "prefix"
+    },
+    {
+        "word": "cor(e/o)",
+        "definition": "pupil",
+        "affix": "prefix"
+    },
+    {
+        "word": "cord/o",
+        "definition": "cord",
+        "affix": "prefix"
+    },
+    {
+        "word": "corne/o",
+        "definition": "cornea",
+        "affix": "prefix"
+    },
+    {
+        "word": "coron/o",
+        "definition": "heart",
+        "affix": "prefix"
+    },
+    {
+        "word": "corpor/o",
+        "definition": "body",
+        "affix": "prefix"
+    },
+    {
+        "word": "cortic/o",
+        "definition": "cortex",
+        "affix": "prefix"
+    },
+    {
+        "word": "cost/o",
+        "definition": "rib",
+        "affix": "prefix"
+    },
+    {
+        "word": "coxa-",
+        "definition": "hip",
+        "affix": "prefix"
+    },
+    {
+        "word": "crani/o",
+        "definition": "skull",
+        "affix": "prefix"
+    },
+    {
+        "word": "crin/o",
+        "definition": "secrete",
+        "affix": "prefix"
+    },
+    {
+        "word": "-crine",
+        "definition": "secreting",
+        "affix": "suffix"
+    },
+    {
+        "word": "-crit",
+        "definition": "separate (Gr. kritos)",
+        "affix": "suffix"
+    },
+    {
+        "word": "crur/o",
+        "definition": "shin, leg",
+        "affix": "prefix"
+    },
+    {
+        "word": "cry/o",
+        "definition": "cold (Gr. kryos)",
+        "affix": "prefix"
+    },
+    {
+        "word": "crypt/o",
+        "definition": "hidden, obscured",
+        "affix": "prefix"
+    },
+    {
+        "word": "cubit/o",
+        "definition": "elbow",
+        "affix": "prefix"
+    },
+    {
+        "word": "culd/o",
+        "definition": "cul-de-sac",
+        "affix": "prefix"
+    },
+    {
+        "word": "-cusis",
+        "definition": "hearing",
+        "affix": "suffix"
+    },
+    {
+        "word": "cutane/o",
+        "definition": "skin",
+        "affix": "prefix"
+    },
+    {
+        "word": "cyan/o",
+        "definition": "blue (Gr. kuanos)",
+        "affix": "prefix"
+    },
+    {
+        "word": "cycl/o",
+        "definition": "ciliary body",
+        "affix": "prefix"
+    },
+    {
+        "word": "-cyesis",
+        "definition": "pregnancy",
+        "affix": "suffix"
+    },
+    {
+        "word": "cyst/o",
+        "definition": "bladder, cyst",
+        "affix": "prefix"
+    },
+    {
+        "word": "cyt/o",
+        "definition": "cell",
+        "affix": "prefix"
+    },
+    {
+        "word": "-cyte",
+        "definition": "cell",
+        "affix": "suffix"
+    },
+    {
+        "word": "dacry/o",
+        "definition": "tear (duct)",
+        "affix": "prefix"
+    },
+    {
+        "word": "dactyl/o",
+        "definition": "finger or toe (digit)",
+        "affix": "prefix"
+    },
+    {
+        "word": "de-",
+        "definition": "away from, down",
+        "affix": "prefix"
+    },
+    {
+        "word": "deca-",
+        "definition": "ten",
+        "affix": "prefix"
+    },
+    {
+        "word": "deci-",
+        "definition": "one tenth",
+        "affix": "prefix"
+    },
+    {
+        "word": "dem-",
+        "definition": "people",
+        "affix": "prefix"
+    },
+    {
+        "word": "dendr/o",
+        "definition": "tree",
+        "affix": "prefix"
+    },
+    {
+        "word": "dent(i/o)",
+        "definition": "tooth",
+        "affix": "prefix"
+    },
+    {
+        "word": "derm(a/o)",
+        "definition": "skin",
+        "affix": "prefix"
+    },
+    {
+        "word": "dermat/o",
+        "definition": "skin",
+        "affix": "prefix"
+    },
+    {
+        "word": "-desis",
+        "definition": "surgical binding",
+        "affix": "suffix"
+    },
+    {
+        "word": "dextr/o",
+        "definition": "right (side)",
+        "affix": "prefix"
+    },
+    {
+        "word": "di-",
+        "definition": "twice, two",
+        "affix": "prefix"
+    },
+    {
+        "word": "dia-",
+        "definition": "across, through",
+        "affix": "prefix"
+    },
+    {
+        "word": "didym/o",
+        "definition": "testis",
+        "affix": "prefix"
+    },
+    {
+        "word": "dif-",
+        "definition": "separate",
+        "affix": "prefix"
+    },
+    {
+        "word": "digit/o",
+        "definition": "finger, toe",
+        "affix": "prefix"
+    },
+    {
+        "word": "dilat/o",
+        "definition": "expand",
+        "affix": "prefix"
+    },
+    {
+        "word": "dipl/o",
+        "definition": "double (Gr. Diploos)",
+        "affix": "prefix"
+    },
+    {
+        "word": "dips/o",
+        "definition": "thirst",
+        "affix": "prefix"
+    },
+    {
+        "word": "-dipsia",
+        "definition": "thirst",
+        "affix": "suffix"
+    },
+    {
+        "word": "dis-",
+        "definition": "apart, separate",
+        "affix": "prefix"
+    },
+    {
+        "word": "disk/o",
+        "definition": "disk",
+        "affix": "prefix"
+    },
+    {
+        "word": "dist/o",
+        "definition": "distant from origin",
+        "affix": "prefix"
+    },
+    {
+        "word": "dors/o",
+        "definition": "back",
+        "affix": "prefix"
+    },
+    {
+        "word": "duct/o",
+        "definition": "lead",
+        "affix": "prefix"
+    },
+    {
+        "word": "duoden/o",
+        "definition": "duodenum",
+        "affix": "prefix"
+    },
+    {
+        "word": "dur/o",
+        "definition": "dura mater",
+        "affix": "prefix"
+    },
+    {
+        "word": "dynam/o",
+        "definition": "power, force",
+        "affix": "prefix"
+    },
+    {
+        "word": "-dynia",
+        "definition": "pain",
+        "affix": "suffix"
+    },
+    {
+        "word": "dys-",
+        "definition": "abnormal, bad, difficult",
+        "affix": "prefix"
+    },
+    {
+        "word": "e-",
+        "definition": "out from, from",
+        "affix": "prefix"
+    },
+    {
+        "word": "-eal",
+        "definition": "pertaining to",
+        "affix": "suffix"
+    },
+    {
+        "word": "ec-",
+        "definition": "out, outside",
+        "affix": "prefix"
+    },
+    {
+        "word": "ech/o",
+        "definition": "(reflected) sound",
+        "affix": "prefix"
+    },
+    {
+        "word": "ect(o)-",
+        "definition": "out of, outside",
+        "affix": "prefix"
+    },
+    {
+        "word": "-ectasia",
+        "definition": "dilation",
+        "affix": "suffix"
+    },
+    {
+        "word": "-ectasis",
+        "definition": "dilation, expansion",
+        "affix": "suffix"
+    },
+    {
+        "word": "-ectomy",
+        "definition": "(surgical) removal",
+        "affix": "suffix"
+    },
+    {
+        "word": "-edema",
+        "definition": "swelling",
+        "affix": "suffix"
+    },
+    {
+        "word": "electr/o",
+        "definition": "electricity",
+        "affix": "prefix"
+    },
+    {
+        "word": "em-",
+        "definition": "in",
+        "affix": "prefix"
+    },
+    {
+        "word": "embol/o",
+        "definition": "embolus",
+        "affix": "prefix"
+    },
+    {
+        "word": "embry/o",
+        "definition": "embryo",
+        "affix": "prefix"
+    },
+    {
+        "word": "-emesis",
+        "definition": "vomiting",
+        "affix": "suffix"
+    },
+    {
+        "word": "-emia",
+        "definition": "blood condition",
+        "affix": "suffix"
+    },
+    {
+        "word": "emmetr/o",
+        "definition": "proportioned, correct measure",
+        "affix": "prefix"
+    },
+    {
+        "word": "en-",
+        "definition": "inside, within",
+        "affix": "prefix"
+    },
+    {
+        "word": "encephal/o",
+        "definition": "brain",
+        "affix": "prefix"
+    },
+    {
+        "word": "end-",
+        "definition": "within, inner",
+        "affix": "prefix"
+    },
+    {
+        "word": "endo-",
+        "definition": "within, inner",
+        "affix": "prefix"
+    },
+    {
+        "word": "ent-",
+        "definition": "within",
+        "affix": "prefix"
+    },
+    {
+        "word": "enter/o",
+        "definition": "(small) intestine",
+        "affix": "prefix"
+    },
+    {
+        "word": "eosin/o",
+        "definition": "red",
+        "affix": "prefix"
+    },
+    {
+        "word": "ep-",
+        "definition": "above, on, over",
+        "affix": "prefix"
+    },
+    {
+        "word": "epi-",
+        "definition": "above, on, over",
+        "affix": "prefix"
+    },
+    {
+        "word": "epiglott/o",
+        "definition": "epiglottis",
+        "affix": "prefix"
+    },
+    {
+        "word": "episi/o",
+        "definition": "vulva",
+        "affix": "prefix"
+    },
+    {
+        "word": "equi-",
+        "definition": "equal, same",
+        "affix": "prefix"
+    },
+    {
+        "word": "erg/o",
+        "definition": "work",
+        "affix": "prefix"
+    },
+    {
+        "word": "-ergy",
+        "definition": "work",
+        "affix": "suffix"
+    },
+    {
+        "word": "erythem/o",
+        "definition": "redness",
+        "affix": "prefix"
+    },
+    {
+        "word": "erythr/o",
+        "definition": "red (Gr. erythros)",
+        "affix": "prefix"
+    },
+    {
+        "word": "-esis",
+        "definition": "condition or state",
+        "affix": "suffix"
+    },
+    {
+        "word": "eso-",
+        "definition": "within",
+        "affix": "prefix"
+    },
+    {
+        "word": "esophag/o",
+        "definition": "esophagus",
+        "affix": "prefix"
+    },
+    {
+        "word": "esthesi/o",
+        "definition": "feeling, sensation",
+        "affix": "prefix"
+    },
+    {
+        "word": "-esthesia",
+        "definition": "feeling, sensation",
+        "affix": "suffix"
+    },
+    {
+        "word": "estr/o",
+        "definition": "female",
+        "affix": "prefix"
+    },
+    {
+        "word": "eti(o)-",
+        "definition": "cause",
+        "affix": "prefix"
+    },
+    {
+        "word": "eu-",
+        "definition": "good, normal, well",
+        "affix": "prefix"
+    },
+    {
+        "word": "ex-",
+        "definition": "away from, out",
+        "affix": "prefix"
+    },
+    {
+        "word": "exa-",
+        "definition": "quintillion",
+        "affix": "prefix"
+    },
+    {
+        "word": "exo-",
+        "definition": "outside",
+        "affix": "prefix"
+    },
+    {
+        "word": "extra-",
+        "definition": "outside",
+        "affix": "prefix"
+    },
+    {
+        "word": "faci/o",
+        "definition": "face",
+        "affix": "prefix"
+    },
+    {
+        "word": "fasci/o",
+        "definition": "band of tissue (fascia)",
+        "affix": "prefix"
+    },
+    {
+        "word": "femor/o",
+        "definition": "thigh bone (femur)",
+        "affix": "prefix"
+    },
+    {
+        "word": "femto-",
+        "definition": "one quadrillionth",
+        "affix": "prefix"
+    },
+    {
+        "word": "fet/o",
+        "definition": "fetus",
+        "affix": "prefix"
+    },
+    {
+        "word": "fibr/o",
+        "definition": "fiber",
+        "affix": "prefix"
+    },
+    {
+        "word": "fibul/o",
+        "definition": "fibula",
+        "affix": "prefix"
+    },
+    {
+        "word": "flex/o",
+        "definition": "bend",
+        "affix": "prefix"
+    },
+    {
+        "word": "fluor/o",
+        "definition": "light, luminous, fluorine, fluoresce",
+        "affix": "prefix"
+    },
+    {
+        "word": "follicul/o",
+        "definition": "small sac",
+        "affix": "prefix"
+    },
+    {
+        "word": "-form",
+        "definition": "shape of",
+        "affix": "suffix"
+    },
+    {
+        "word": "galact/o",
+        "definition": "milk",
+        "affix": "prefix"
+    },
+    {
+        "word": "gangli/o",
+        "definition": "ganglion",
+        "affix": "prefix"
+    },
+    {
+        "word": "ganglion/o",
+        "definition": "ganglion",
+        "affix": "prefix"
+    },
+    {
+        "word": "gastr/o",
+        "definition": "stomach",
+        "affix": "prefix"
+    },
+    {
+        "word": "-gen",
+        "definition": "formation, producing",
+        "affix": "suffix"
+    },
+    {
+        "word": "gen/o",
+        "definition": "produce",
+        "affix": "prefix"
+    },
+    {
+        "word": "-genesis",
+        "definition": "formation, producing",
+        "affix": "suffix"
+    },
+    {
+        "word": "-genic",
+        "definition": "produced by",
+        "affix": "suffix"
+    },
+    {
+        "word": "ger/o",
+        "definition": "old age",
+        "affix": "prefix"
+    },
+    {
+        "word": "giga-",
+        "definition": "billion",
+        "affix": "prefix"
+    },
+    {
+        "word": "gigant/o",
+        "definition": "huge",
+        "affix": "prefix"
+    },
+    {
+        "word": "gingiv/o",
+        "definition": "gums",
+        "affix": "prefix"
+    },
+    {
+        "word": "glauc/o",
+        "definition": "gray (Gr. glaukos)",
+        "affix": "prefix"
+    },
+    {
+        "word": "gli/o",
+        "definition": "glue",
+        "affix": "prefix"
+    },
+    {
+        "word": "-globin",
+        "definition": "protein",
+        "affix": "suffix"
+    },
+    {
+        "word": "glomerul/o",
+        "definition": "glomerulus",
+        "affix": "prefix"
+    },
+    {
+        "word": "gloss/o",
+        "definition": "tongue",
+        "affix": "prefix"
+    },
+    {
+        "word": "gluc/o",
+        "definition": "glucose, sugar",
+        "affix": "prefix"
+    },
+    {
+        "word": "glyc/o",
+        "definition": "glucose, sugar",
+        "affix": "prefix"
+    },
+    {
+        "word": "gnath/o",
+        "definition": "jaw",
+        "affix": "prefix"
+    },
+    {
+        "word": "-gnosis",
+        "definition": "knowledge",
+        "affix": "suffix"
+    },
+    {
+        "word": "gon/o",
+        "definition": "genitals",
+        "affix": "prefix"
+    },
+    {
+        "word": "gonad/o",
+        "definition": "sex gland",
+        "affix": "prefix"
+    },
+    {
+        "word": "goni/o",
+        "definition": "angle",
+        "affix": "prefix"
+    },
+    {
+        "word": "-grade",
+        "definition": "step",
+        "affix": "suffix"
+    },
+    {
+        "word": "-gram",
+        "definition": "image/record",
+        "affix": "suffix"
+    },
+    {
+        "word": "granul/o",
+        "definition": "granule",
+        "affix": "prefix"
+    },
+    {
+        "word": "-graph",
+        "definition": "recording instrument",
+        "affix": "suffix"
+    },
+    {
+        "word": "-graphy",
+        "definition": "recording (process)",
+        "affix": "suffix"
+    },
+    {
+        "word": "gravida-",
+        "definition": "pregnant woman",
+        "affix": "prefix"
+    },
+    {
+        "word": "gryp-",
+        "definition": "curvature",
+        "affix": "prefix"
+    },
+    {
+        "word": "gyn/o",
+        "definition": "woman",
+        "affix": "prefix"
+    },
+    {
+        "word": "gynec/o",
+        "definition": "female",
+        "affix": "prefix"
+    },
+    {
+        "word": "halit/o",
+        "definition": "breath",
+        "affix": "prefix"
+    },
+    {
+        "word": "hecto-",
+        "definition": "hundred",
+        "affix": "prefix"
+    },
+    {
+        "word": "hem/o",
+        "definition": "blood",
+        "affix": "prefix"
+    },
+    {
+        "word": "hemangi/o",
+        "definition": "blood vessel",
+        "affix": "prefix"
+    },
+    {
+        "word": "hemat/o",
+        "definition": "blood",
+        "affix": "prefix"
+    },
+    {
+        "word": "hemi-",
+        "definition": "half (one side)",
+        "affix": "prefix"
+    },
+    {
+        "word": "hepat/o",
+        "definition": "liver",
+        "affix": "prefix"
+    },
+    {
+        "word": "heter(o)-",
+        "definition": "other, different",
+        "affix": "prefix"
+    },
+    {
+        "word": "hex-",
+        "definition": "six",
+        "affix": "prefix"
+    },
+    {
+        "word": "-hexia",
+        "definition": "condition",
+        "affix": "suffix"
+    },
+    {
+        "word": "hidr/o",
+        "definition": "sweat",
+        "affix": "prefix"
+    },
+    {
+        "word": "hist/o",
+        "definition": "tissue",
+        "affix": "prefix"
+    },
+    {
+        "word": "histi/o",
+        "definition": "tissue",
+        "affix": "prefix"
+    },
+    {
+        "word": "hom(o)-",
+        "definition": "same, similar",
+        "affix": "prefix"
+    },
+    {
+        "word": "homeo-",
+        "definition": "same, similar",
+        "affix": "prefix"
+    },
+    {
+        "word": "humer/o",
+        "definition": "humerus",
+        "affix": "prefix"
+    },
+    {
+        "word": "hydr/o",
+        "definition": "water",
+        "affix": "prefix"
+    },
+    {
+        "word": "hyp-",
+        "definition": "below normal, deficient",
+        "affix": "prefix"
+    },
+    {
+        "word": "hyper-",
+        "definition": "high, above normal",
+        "affix": "prefix"
+    },
+    {
+        "word": "hypn/o",
+        "definition": "sleep",
+        "affix": "prefix"
+    },
+    {
+        "word": "hypo-",
+        "definition": "low, below normal",
+        "affix": "prefix"
+    },
+    {
+        "word": "hyster/o",
+        "definition": "uterus",
+        "affix": "prefix"
+    },
+    {
+        "word": "-ia",
+        "definition": "condition",
+        "affix": "suffix"
+    },
+    {
+        "word": "-ian",
+        "definition": "specialist",
+        "affix": "suffix"
+    },
+    {
+        "word": "-iasis",
+        "definition": "condition or state",
+        "affix": "suffix"
+    },
+    {
+        "word": "iatr/o",
+        "definition": "treatment",
+        "affix": "prefix"
+    },
+    {
+        "word": "-iatrics",
+        "definition": "medical specialty",
+        "affix": "suffix"
+    },
+    {
+        "word": "-iatry",
+        "definition": "medical specialty",
+        "affix": "suffix"
+    },
+    {
+        "word": "-ic",
+        "definition": "pertaining to",
+        "affix": "suffix"
+    },
+    {
+        "word": "-ician",
+        "definition": "specialist",
+        "affix": "suffix"
+    },
+    {
+        "word": "-ics",
+        "definition": "specialty",
+        "affix": "suffix"
+    },
+    {
+        "word": "icter/o",
+        "definition": "jaundice",
+        "affix": "prefix"
+    },
+    {
+        "word": "-ile",
+        "definition": "pertaining to",
+        "affix": "suffix"
+    },
+    {
+        "word": "ile/o",
+        "definition": "ileum",
+        "affix": "prefix"
+    },
+    {
+        "word": "ili/o",
+        "definition": "ilium",
+        "affix": "prefix"
+    },
+    {
+        "word": "im-",
+        "definition": "not",
+        "affix": "prefix"
+    },
+    {
+        "word": "immun/o",
+        "definition": "immunity, safe",
+        "affix": "prefix"
+    },
+    {
+        "word": "in-",
+        "definition": "into, not, within",
+        "affix": "prefix"
+    },
+    {
+        "word": "-ine",
+        "definition": "pertaining to",
+        "affix": "suffix"
+    },
+    {
+        "word": "infra-",
+        "definition": "below, beneath",
+        "affix": "prefix"
+    },
+    {
+        "word": "-ing",
+        "definition": "action, process (verb)",
+        "affix": "suffix"
+    },
+    {
+        "word": "inguin/o",
+        "definition": "groin",
+        "affix": "prefix"
+    },
+    {
+        "word": "inter-",
+        "definition": "between",
+        "affix": "prefix"
+    },
+    {
+        "word": "intra-",
+        "definition": "within",
+        "affix": "prefix"
+    },
+    {
+        "word": "intro-",
+        "definition": "within",
+        "affix": "prefix"
+    },
+    {
+        "word": "-ion",
+        "definition": "process of",
+        "affix": "suffix"
+    },
+    {
+        "word": "-ior",
+        "definition": "pertaining to",
+        "affix": "suffix"
+    },
+    {
+        "word": "ir-",
+        "definition": "not",
+        "affix": "prefix"
+    },
+    {
+        "word": "irid/o",
+        "definition": "iris",
+        "affix": "prefix"
+    },
+    {
+        "word": "-is",
+        "definition": "(noun form)",
+        "affix": "suffix"
+    },
+    {
+        "word": "is/o",
+        "definition": "equal",
+        "affix": "prefix"
+    },
+    {
+        "word": "isch/o",
+        "definition": "hold back, restrain",
+        "affix": "prefix"
+    },
+    {
+        "word": "ischi/o",
+        "definition": "ischium",
+        "affix": "prefix"
+    },
+    {
+        "word": "-ism",
+        "definition": "condition",
+        "affix": "suffix"
+    },
+    {
+        "word": "iso-",
+        "definition": "equal, same",
+        "affix": "prefix"
+    },
+    {
+        "word": "-ist",
+        "definition": "specialist",
+        "affix": "suffix"
+    },
+    {
+        "word": "-itis",
+        "definition": "inflammation",
+        "affix": "suffix"
+    },
+    {
+        "word": "-ity",
+        "definition": "condition",
+        "affix": "suffix"
+    },
+    {
+        "word": "-ive",
+        "definition": "character, quality",
+        "affix": "suffix"
+    },
+    {
+        "word": "-ize",
+        "definition": "do, make (verb)",
+        "affix": "suffix"
+    },
+    {
+        "word": "jaund/o",
+        "definition": "yellow (L. galbinus)",
+        "affix": "prefix"
+    },
+    {
+        "word": "jejun/o",
+        "definition": "jejunum",
+        "affix": "prefix"
+    },
+    {
+        "word": "juxta-",
+        "definition": "near, close to",
+        "affix": "prefix"
+    },
+    {
+        "word": "kal/i",
+        "definition": "potassium",
+        "affix": "prefix"
+    },
+    {
+        "word": "kary/o",
+        "definition": "(cell) nucleus",
+        "affix": "prefix"
+    },
+    {
+        "word": "kel/o",
+        "definition": "tumor, growth",
+        "affix": "prefix"
+    },
+    {
+        "word": "kerat/o",
+        "definition": "cornea, horny tissue",
+        "affix": "prefix"
+    },
+    {
+        "word": "keton/o",
+        "definition": "ketone",
+        "affix": "prefix"
+    },
+    {
+        "word": "kilo-",
+        "definition": "one thousand",
+        "affix": "prefix"
+    },
+    {
+        "word": "kin/e",
+        "definition": "movement",
+        "affix": "prefix"
+    },
+    {
+        "word": "kinesi/o",
+        "definition": "movement",
+        "affix": "prefix"
+    },
+    {
+        "word": "-kinesia",
+        "definition": "movement",
+        "affix": "suffix"
+    },
+    {
+        "word": "-kinesis",
+        "definition": "movement",
+        "affix": "suffix"
+    },
+    {
+        "word": "kyph/o",
+        "definition": "hump(back) (Gr. kuphos)",
+        "affix": "prefix"
+    },
+    {
+        "word": "labi/o",
+        "definition": "lip",
+        "affix": "prefix"
+    },
+    {
+        "word": "lacrim/o",
+        "definition": "tear (duct), lacrimal duct",
+        "affix": "prefix"
+    },
+    {
+        "word": "lact/o",
+        "definition": "milk",
+        "affix": "prefix"
+    },
+    {
+        "word": "-lalia",
+        "definition": "speech, verbalize",
+        "affix": "suffix"
+    },
+    {
+        "word": "lamin/o",
+        "definition": "lamina",
+        "affix": "prefix"
+    },
+    {
+        "word": "lapar/o",
+        "definition": "abdomen",
+        "affix": "prefix"
+    },
+    {
+        "word": "laryng/o",
+        "definition": "larynx (voice box)",
+        "affix": "prefix"
+    },
+    {
+        "word": "later/o",
+        "definition": "side",
+        "affix": "prefix"
+    },
+    {
+        "word": "lei/o",
+        "definition": "smooth",
+        "affix": "prefix"
+    },
+    {
+        "word": "-lemma",
+        "definition": "rind",
+        "affix": "suffix"
+    },
+    {
+        "word": "lent/i",
+        "definition": "lens",
+        "affix": "prefix"
+    },
+    {
+        "word": "-lepsy",
+        "definition": "seizure",
+        "affix": "suffix"
+    },
+    {
+        "word": "leuk/o",
+        "definition": "white (Gr. leukos)",
+        "affix": "prefix"
+    },
+    {
+        "word": "-lexia",
+        "definition": "speech, spoken word",
+        "affix": "suffix"
+    },
+    {
+        "word": "lingu/o",
+        "definition": "tongue",
+        "affix": "prefix"
+    },
+    {
+        "word": "lip/o",
+        "definition": "fat, lipid",
+        "affix": "prefix"
+    },
+    {
+        "word": "lipid/o",
+        "definition": "fat",
+        "affix": "prefix"
+    },
+    {
+        "word": "-lith",
+        "definition": "stone, calcification",
+        "affix": "suffix"
+    },
+    {
+        "word": "lith/o",
+        "definition": "stone",
+        "affix": "prefix"
+    },
+    {
+        "word": "lob/o",
+        "definition": "lobe",
+        "affix": "prefix"
+    },
+    {
+        "word": "log/o",
+        "definition": "word",
+        "affix": "prefix"
+    },
+    {
+        "word": "logad/o",
+        "definition": "white of the eye",
+        "affix": "prefix"
+    },
+    {
+        "word": "-logy",
+        "definition": "study of",
+        "affix": "suffix"
+    },
+    {
+        "word": "lord/o",
+        "definition": "curve, bending",
+        "affix": "prefix"
+    },
+    {
+        "word": "lumb/o",
+        "definition": "lumbar, lower back",
+        "affix": "prefix"
+    },
+    {
+        "word": "lymph/o",
+        "definition": "lymph",
+        "affix": "prefix"
+    },
+    {
+        "word": "-lysis",
+        "definition": "breakdown, destruction",
+        "affix": "suffix"
+    },
+    {
+        "word": "-lytic",
+        "definition": "decomposition",
+        "affix": "suffix"
+    },
+    {
+        "word": "macro-",
+        "definition": "large",
+        "affix": "prefix"
+    },
+    {
+        "word": "mal-",
+        "definition": "bad, abnormal",
+        "affix": "prefix"
+    },
+    {
+        "word": "-malacia",
+        "definition": "softening",
+        "affix": "suffix"
+    },
+    {
+        "word": "mamm/o",
+        "definition": "breast",
+        "affix": "prefix"
+    },
+    {
+        "word": "mandibul/o",
+        "definition": "mandible (lower jaw)",
+        "affix": "prefix"
+    },
+    {
+        "word": "-mania",
+        "definition": "madness, obsession",
+        "affix": "suffix"
+    },
+    {
+        "word": "manus-",
+        "definition": "hand",
+        "affix": "prefix"
+    },
+    {
+        "word": "mast/o",
+        "definition": "breast",
+        "affix": "prefix"
+    },
+    {
+        "word": "mastoid/o",
+        "definition": "mastoid process",
+        "affix": "prefix"
+    },
+    {
+        "word": "maxill/o",
+        "definition": "maxilla (upper jaw)",
+        "affix": "prefix"
+    },
+    {
+        "word": "medi/o",
+        "definition": "middle",
+        "affix": "prefix"
+    },
+    {
+        "word": "medull/o",
+        "definition": "medulla, marrow",
+        "affix": "prefix"
+    },
+    {
+        "word": "mega-",
+        "definition": "very large, million",
+        "affix": "prefix"
+    },
+    {
+        "word": "-megaly",
+        "definition": "enlargement",
+        "affix": "suffix"
+    },
+    {
+        "word": "melan/o",
+        "definition": "black (Gr. melas)",
+        "affix": "prefix"
+    },
+    {
+        "word": "men/o",
+        "definition": "menstruation",
+        "affix": "prefix"
+    },
+    {
+        "word": "mening/o",
+        "definition": "meninges, membrane",
+        "affix": "prefix"
+    },
+    {
+        "word": "menisc/o",
+        "definition": "meniscus",
+        "affix": "prefix"
+    },
+    {
+        "word": "ment/o",
+        "definition": "mind",
+        "affix": "prefix"
+    },
+    {
+        "word": "mes/o",
+        "definition": "middle, central",
+        "affix": "prefix"
+    },
+    {
+        "word": "meso-",
+        "definition": "middle",
+        "affix": "prefix"
+    },
+    {
+        "word": "meta-",
+        "definition": "alter, beyond, change",
+        "affix": "prefix"
+    },
+    {
+        "word": "metacarp/o",
+        "definition": "metacarpal (hand bone)",
+        "affix": "prefix"
+    },
+    {
+        "word": "metatars/o",
+        "definition": "metatarsal (foot bone)",
+        "affix": "prefix"
+    },
+    {
+        "word": "-meter",
+        "definition": "instrument for measuring",
+        "affix": "suffix"
+    },
+    {
+        "word": "metr(i/o)",
+        "definition": "uterus, measure",
+        "affix": "prefix"
+    },
+    {
+        "word": "-metry",
+        "definition": "process of measuring",
+        "affix": "suffix"
+    },
+    {
+        "word": "mi/o",
+        "definition": "less, smaller",
+        "affix": "prefix"
+    },
+    {
+        "word": "micro-",
+        "definition": "small, one millionth",
+        "affix": "prefix"
+    },
+    {
+        "word": "milli-",
+        "definition": "one thousandth",
+        "affix": "prefix"
+    },
+    {
+        "word": "-mimetic",
+        "definition": "mimic, simulating",
+        "affix": "suffix"
+    },
+    {
+        "word": "minim-",
+        "definition": "smallest, least; fluid measure (1/60 of a fluidrachm)",
+        "affix": "prefix"
+    },
+    {
+        "word": "mit/o",
+        "definition": "thread",
+        "affix": "prefix"
+    },
+    {
+        "word": "-mnesia",
+        "definition": "memory",
+        "affix": "suffix"
+    },
+    {
+        "word": "mon(o)-",
+        "definition": "one, single",
+        "affix": "prefix"
+    },
+    {
+        "word": "morph/o",
+        "definition": "form, shape",
+        "affix": "prefix"
+    },
+    {
+        "word": "multi-",
+        "definition": "more than one",
+        "affix": "prefix"
+    },
+    {
+        "word": "muscul/o",
+        "definition": "muscle",
+        "affix": "prefix"
+    },
+    {
+        "word": "my/o",
+        "definition": "muscle",
+        "affix": "prefix"
+    },
+    {
+        "word": "myc/o",
+        "definition": "fungus",
+        "affix": "prefix"
+    },
+    {
+        "word": "myel/o",
+        "definition": "bone marrow, spinal cord",
+        "affix": "prefix"
+    },
+    {
+        "word": "myos/o",
+        "definition": "muscle",
+        "affix": "prefix"
+    },
+    {
+        "word": "myring/o",
+        "definition": "eardrum (tympanic membrane)",
+        "affix": "prefix"
+    },
+    {
+        "word": "myx/o",
+        "definition": "mucus",
+        "affix": "prefix"
+    },
+    {
+        "word": "nano-",
+        "definition": "one billionth",
+        "affix": "prefix"
+    },
+    {
+        "word": "narc/o",
+        "definition": "numbness, stupor",
+        "affix": "prefix"
+    },
+    {
+        "word": "nas/o",
+        "definition": "nose",
+        "affix": "prefix"
+    },
+    {
+        "word": "nat(i/o)",
+        "definition": "birth",
+        "affix": "prefix"
+    },
+    {
+        "word": "natr/o",
+        "definition": "sodium",
+        "affix": "prefix"
+    },
+    {
+        "word": "necr/o",
+        "definition": "death",
+        "affix": "prefix"
+    },
+    {
+        "word": "neo-",
+        "definition": "new",
+        "affix": "prefix"
+    },
+    {
+        "word": "nephr/o",
+        "definition": "kidney",
+        "affix": "prefix"
+    },
+    {
+        "word": "neur(i/o)",
+        "definition": "nerve",
+        "affix": "prefix"
+    },
+    {
+        "word": "neutr/o",
+        "definition": "neither, neutral (L. neutralis)",
+        "affix": "prefix"
+    },
+    {
+        "word": "noct/o",
+        "definition": "night",
+        "affix": "prefix"
+    },
+    {
+        "word": "-noia",
+        "definition": "mind",
+        "affix": "suffix"
+    },
+    {
+        "word": "non-",
+        "definition": "not, negative of",
+        "affix": "prefix"
+    },
+    {
+        "word": "norm/o",
+        "definition": "normal, conforms to rule",
+        "affix": "prefix"
+    },
+    {
+        "word": "nucl/eo",
+        "definition": "nucleus",
+        "affix": "prefix"
+    },
+    {
+        "word": "nulli-",
+        "definition": "none",
+        "affix": "prefix"
+    },
+    {
+        "word": "o/o",
+        "definition": "egg (ovum)",
+        "affix": "prefix"
+    },
+    {
+        "word": "obstetr/o",
+        "definition": "midwife",
+        "affix": "prefix"
+    },
+    {
+        "word": "occlus/o",
+        "definition": "close, obstruct",
+        "affix": "prefix"
+    },
+    {
+        "word": "ocul/o",
+        "definition": "eye",
+        "affix": "prefix"
+    },
+    {
+        "word": "odont/o",
+        "definition": "tooth",
+        "affix": "prefix"
+    },
+    {
+        "word": "-oid",
+        "definition": "pertaining to, resemble",
+        "affix": "suffix"
+    },
+    {
+        "word": "-ole",
+        "definition": "small opening",
+        "affix": "suffix"
+    },
+    {
+        "word": "olecran/o",
+        "definition": "olecranon (elbow)",
+        "affix": "prefix"
+    },
+    {
+        "word": "olfact/o",
+        "definition": "smell",
+        "affix": "prefix"
+    },
+    {
+        "word": "oligo-",
+        "definition": "few, scant",
+        "affix": "prefix"
+    },
+    {
+        "word": "-ologist",
+        "definition": "one who studies",
+        "affix": "suffix"
+    },
+    {
+        "word": "-ology",
+        "definition": "study of",
+        "affix": "suffix"
+    },
+    {
+        "word": "-oma",
+        "definition": "tumor, mass",
+        "affix": "suffix"
+    },
+    {
+        "word": "omphal/o",
+        "definition": "navel",
+        "affix": "prefix"
+    },
+    {
+        "word": "-on",
+        "definition": "that goes",
+        "affix": "suffix"
+    },
+    {
+        "word": "onc/o",
+        "definition": "tumor, mass",
+        "affix": "prefix"
+    },
+    {
+        "word": "onych/o",
+        "definition": "nail",
+        "affix": "prefix"
+    },
+    {
+        "word": "oophor/o",
+        "definition": "ovary",
+        "affix": "prefix"
+    },
+    {
+        "word": "ophry/o",
+        "definition": "eyebrow",
+        "affix": "prefix"
+    },
+    {
+        "word": "ophthalm/o",
+        "definition": "eye",
+        "affix": "prefix"
+    },
+    {
+        "word": "-opia",
+        "definition": "vision",
+        "affix": "suffix"
+    },
+    {
+        "word": "-opsia",
+        "definition": "vision",
+        "affix": "suffix"
+    },
+    {
+        "word": "-opsy",
+        "definition": "viewing",
+        "affix": "suffix"
+    },
+    {
+        "word": "opt/o",
+        "definition": "eye, vision",
+        "affix": "prefix"
+    },
+    {
+        "word": "optic/o",
+        "definition": "sight, vision",
+        "affix": "prefix"
+    },
+    {
+        "word": "-or",
+        "definition": "doer, one who",
+        "affix": "suffix"
+    },
+    {
+        "word": "or/o",
+        "definition": "mouth",
+        "affix": "prefix"
+    },
+    {
+        "word": "orch/o",
+        "definition": "testicle",
+        "affix": "prefix"
+    },
+    {
+        "word": "orchi/o",
+        "definition": "testis",
+        "affix": "prefix"
+    },
+    {
+        "word": "orchid/o",
+        "definition": "testicle",
+        "affix": "prefix"
+    },
+    {
+        "word": "-orexia",
+        "definition": "appetite",
+        "affix": "suffix"
+    },
+    {
+        "word": "organ/o",
+        "definition": "organ",
+        "affix": "prefix"
+    },
+    {
+        "word": "orth/o",
+        "definition": "straight; correct",
+        "affix": "prefix"
+    },
+    {
+        "word": "-ory",
+        "definition": "relating to",
+        "affix": "suffix"
+    },
+    {
+        "word": "oscill/o",
+        "definition": "swing",
+        "affix": "prefix"
+    },
+    {
+        "word": "-ose",
+        "definition": "sugar",
+        "affix": "suffix"
+    },
+    {
+        "word": "-osis",
+        "definition": "(abnormal) condition",
+        "affix": "suffix"
+    },
+    {
+        "word": "oss(eo/i)",
+        "definition": "bone",
+        "affix": "prefix"
+    },
+    {
+        "word": "oste/o",
+        "definition": "bone",
+        "affix": "prefix"
+    },
+    {
+        "word": "-ostomy",
+        "definition": "artificial opening",
+        "affix": "suffix"
+    },
+    {
+        "word": "ot/o",
+        "definition": "ear",
+        "affix": "prefix"
+    },
+    {
+        "word": "-otomy",
+        "definition": "cut in",
+        "affix": "suffix"
+    },
+    {
+        "word": "-ous",
+        "definition": "pertaining to",
+        "affix": "suffix"
+    },
+    {
+        "word": "ov(i/o)",
+        "definition": "egg (ovum)",
+        "affix": "prefix"
+    },
+    {
+        "word": "ovari/o",
+        "definition": "ovary",
+        "affix": "prefix"
+    },
+    {
+        "word": "ox(i/o/y)",
+        "definition": "oxygen",
+        "affix": "prefix"
+    },
+    {
+        "word": "pachy-",
+        "definition": "thick",
+        "affix": "prefix"
+    },
+    {
+        "word": "palat/o",
+        "definition": "palate",
+        "affix": "prefix"
+    },
+    {
+        "word": "palpit/o",
+        "definition": "throb, flutter",
+        "affix": "prefix"
+    },
+    {
+        "word": "pan-",
+        "definition": "all",
+        "affix": "prefix"
+    },
+    {
+        "word": "pancreat/o",
+        "definition": "pancreas",
+        "affix": "prefix"
+    },
+    {
+        "word": "papill/o",
+        "definition": "nipple, papilla",
+        "affix": "prefix"
+    },
+    {
+        "word": "papul/o",
+        "definition": "papule, pimple",
+        "affix": "prefix"
+    },
+    {
+        "word": "para-",
+        "definition": "has given birth",
+        "affix": "prefix"
+    },
+    {
+        "word": "para-",
+        "definition": "beside, near",
+        "affix": "prefix"
+    },
+    {
+        "word": "-paresis",
+        "definition": "weakness, slight paralysis",
+        "affix": "suffix"
+    },
+    {
+        "word": "patell/o",
+        "definition": "patella (knee)",
+        "affix": "prefix"
+    },
+    {
+        "word": "path/o",
+        "definition": "disease",
+        "affix": "prefix"
+    },
+    {
+        "word": "-pathy",
+        "definition": "disease",
+        "affix": "suffix"
+    },
+    {
+        "word": "pector/o",
+        "definition": "chest",
+        "affix": "prefix"
+    },
+    {
+        "word": "ped(i/o)",
+        "definition": "child, foot",
+        "affix": "prefix"
+    },
+    {
+        "word": "pelv(i/o)",
+        "definition": "pelvis",
+        "affix": "prefix"
+    },
+    {
+        "word": "-penia",
+        "definition": "deficiency",
+        "affix": "suffix"
+    },
+    {
+        "word": "-pepsia",
+        "definition": "digestion",
+        "affix": "suffix"
+    },
+    {
+        "word": "pept/o",
+        "definition": "digest",
+        "affix": "prefix"
+    },
+    {
+        "word": "per-",
+        "definition": "through",
+        "affix": "prefix"
+    },
+    {
+        "word": "peri-",
+        "definition": "around",
+        "affix": "prefix"
+    },
+    {
+        "word": "perine/o",
+        "definition": "perineum",
+        "affix": "prefix"
+    },
+    {
+        "word": "peritone/o",
+        "definition": "peritoneum",
+        "affix": "prefix"
+    },
+    {
+        "word": "peta-",
+        "definition": "quadrillion",
+        "affix": "prefix"
+    },
+    {
+        "word": "-pexy",
+        "definition": "fixation (surgical)",
+        "affix": "suffix"
+    },
+    {
+        "word": "phac/o",
+        "definition": "lens (eye)",
+        "affix": "prefix"
+    },
+    {
+        "word": "phag/o",
+        "definition": "eat, ingest",
+        "affix": "prefix"
+    },
+    {
+        "word": "-phagia",
+        "definition": "eating, ingestion",
+        "affix": "suffix"
+    },
+    {
+        "word": "phak/o",
+        "definition": "lens (eye)",
+        "affix": "prefix"
+    },
+    {
+        "word": "phalang/o",
+        "definition": "finger or toe bone (phalanges)",
+        "affix": "prefix"
+    },
+    {
+        "word": "phall/o",
+        "definition": "penis",
+        "affix": "prefix"
+    },
+    {
+        "word": "pharmac/o",
+        "definition": "drug",
+        "affix": "prefix"
+    },
+    {
+        "word": "pharyng/o",
+        "definition": "pharynx, throat",
+        "affix": "prefix"
+    },
+    {
+        "word": "phas/o",
+        "definition": "speech",
+        "affix": "prefix"
+    },
+    {
+        "word": "-phasia",
+        "definition": "speech",
+        "affix": "suffix"
+    },
+    {
+        "word": "phen/o",
+        "definition": "show",
+        "affix": "prefix"
+    },
+    {
+        "word": "-pheresis",
+        "definition": "removal",
+        "affix": "suffix"
+    },
+    {
+        "word": "-phil(ia)",
+        "definition": "affinity for, attraction",
+        "affix": "suffix"
+    },
+    {
+        "word": "phleb/o",
+        "definition": "vein",
+        "affix": "prefix"
+    },
+    {
+        "word": "phob/o",
+        "definition": "fear, aversion to",
+        "affix": "prefix"
+    },
+    {
+        "word": "-phobia",
+        "definition": "fear, aversion to",
+        "affix": "suffix"
+    },
+    {
+        "word": "phon/o",
+        "definition": "sound, voice",
+        "affix": "prefix"
+    },
+    {
+        "word": "-phoresis",
+        "definition": "transmit, carry",
+        "affix": "suffix"
+    },
+    {
+        "word": "phos-",
+        "definition": "light",
+        "affix": "prefix"
+    },
+    {
+        "word": "phot/o",
+        "definition": "light",
+        "affix": "prefix"
+    },
+    {
+        "word": "-phragm",
+        "definition": "separation, wall",
+        "affix": "suffix"
+    },
+    {
+        "word": "phren/o",
+        "definition": "diaphragm",
+        "affix": "prefix"
+    },
+    {
+        "word": "-phylaxis",
+        "definition": "protection, prevention",
+        "affix": "suffix"
+    },
+    {
+        "word": "physi/o",
+        "definition": "function, natural",
+        "affix": "prefix"
+    },
+    {
+        "word": "physic/o",
+        "definition": "natural",
+        "affix": "prefix"
+    },
+    {
+        "word": "-physis",
+        "definition": "growth",
+        "affix": "suffix"
+    },
+    {
+        "word": "-phyte",
+        "definition": "plant",
+        "affix": "suffix"
+    },
+    {
+        "word": "pico-",
+        "definition": "one trillionth",
+        "affix": "prefix"
+    },
+    {
+        "word": "pil/o",
+        "definition": "hair",
+        "affix": "prefix"
+    },
+    {
+        "word": "pineal/o",
+        "definition": "pineal gland",
+        "affix": "prefix"
+    },
+    {
+        "word": "pituitar/o",
+        "definition": "pituitary (gland)",
+        "affix": "prefix"
+    },
+    {
+        "word": "-plakia",
+        "definition": "plaque",
+        "affix": "suffix"
+    },
+    {
+        "word": "-plasia",
+        "definition": "formation, growth",
+        "affix": "suffix"
+    },
+    {
+        "word": "-plasm",
+        "definition": "formation, thing formed",
+        "affix": "suffix"
+    },
+    {
+        "word": "plasm/o",
+        "definition": "plasma, formative",
+        "affix": "prefix"
+    },
+    {
+        "word": "-plast",
+        "definition": "formation, cell",
+        "affix": "suffix"
+    },
+    {
+        "word": "-plasty",
+        "definition": "surgical repair",
+        "affix": "suffix"
+    },
+    {
+        "word": "-plegia",
+        "definition": "paralysis",
+        "affix": "suffix"
+    },
+    {
+        "word": "pleur(a/o)",
+        "definition": "pleura",
+        "affix": "prefix"
+    },
+    {
+        "word": "-pnea",
+        "definition": "breathing",
+        "affix": "suffix"
+    },
+    {
+        "word": "pneum(a/o)",
+        "definition": "air, lung",
+        "affix": "prefix"
+    },
+    {
+        "word": "pneumon/o",
+        "definition": "lung, breath",
+        "affix": "prefix"
+    },
+    {
+        "word": "pod/o",
+        "definition": "foot",
+        "affix": "prefix"
+    },
+    {
+        "word": "-poiesis",
+        "definition": "formation",
+        "affix": "suffix"
+    },
+    {
+        "word": "poli/o",
+        "definition": "gray (Gr. polios)",
+        "affix": "prefix"
+    },
+    {
+        "word": "poly-",
+        "definition": "many, much",
+        "affix": "prefix"
+    },
+    {
+        "word": "poly-",
+        "definition": "many",
+        "affix": "prefix"
+    },
+    {
+        "word": "por-",
+        "definition": "opening, passage through",
+        "affix": "prefix"
+    },
+    {
+        "word": "post-",
+        "definition": "after; behind",
+        "affix": "prefix"
+    },
+    {
+        "word": "poster/o",
+        "definition": "back, towards back",
+        "affix": "prefix"
+    },
+    {
+        "word": "-praxia",
+        "definition": "activity",
+        "affix": "suffix"
+    },
+    {
+        "word": "pre-",
+        "definition": "before, in front of (time or place)",
+        "affix": "prefix"
+    },
+    {
+        "word": "presby-",
+        "definition": "old age",
+        "affix": "prefix"
+    },
+    {
+        "word": "primi-",
+        "definition": "first",
+        "affix": "prefix"
+    },
+    {
+        "word": "pro-",
+        "definition": "before, in front of (time or place)",
+        "affix": "prefix"
+    },
+    {
+        "word": "proct/o",
+        "definition": "anus, rectum",
+        "affix": "prefix"
+    },
+    {
+        "word": "prostat/o",
+        "definition": "prostate (gland)",
+        "affix": "prefix"
+    },
+    {
+        "word": "prot(o)-",
+        "definition": "first",
+        "affix": "prefix"
+    },
+    {
+        "word": "proxim/o",
+        "definition": "near, proximal to",
+        "affix": "prefix"
+    },
+    {
+        "word": "prurit/o",
+        "definition": "itching (pruritus)",
+        "affix": "prefix"
+    },
+    {
+        "word": "pseudo-",
+        "definition": "false",
+        "affix": "prefix"
+    },
+    {
+        "word": "psych/o",
+        "definition": "mind",
+        "affix": "prefix"
+    },
+    {
+        "word": "-ptosis",
+        "definition": "prolapse, drooping",
+        "affix": "suffix"
+    },
+    {
+        "word": "-ptysis",
+        "definition": "spitting",
+        "affix": "suffix"
+    },
+    {
+        "word": "pub/o",
+        "definition": "pubis",
+        "affix": "prefix"
+    },
+    {
+        "word": "pulm/o",
+        "definition": "lung",
+        "affix": "prefix"
+    },
+    {
+        "word": "pulmon/o",
+        "definition": "lung",
+        "affix": "prefix"
+    },
+    {
+        "word": "pupill/o",
+        "definition": "pupil",
+        "affix": "prefix"
+    },
+    {
+        "word": "purpur/o",
+        "definition": "purple (Gr. purphura)",
+        "affix": "prefix"
+    },
+    {
+        "word": "py/o",
+        "definition": "pus",
+        "affix": "prefix"
+    },
+    {
+        "word": "pyel/o",
+        "definition": "renal pelvis",
+        "affix": "prefix"
+    },
+    {
+        "word": "pylor/o",
+        "definition": "pylorus",
+        "affix": "prefix"
+    },
+    {
+        "word": "pyr/o",
+        "definition": "fever, heat",
+        "affix": "prefix"
+    },
+    {
+        "word": "quadri-",
+        "definition": "four",
+        "affix": "prefix"
+    },
+    {
+        "word": "quint-",
+        "definition": "five",
+        "affix": "prefix"
+    },
+    {
+        "word": "rachi/o",
+        "definition": "spine",
+        "affix": "prefix"
+    },
+    {
+        "word": "radi/o",
+        "definition": "(x-ray) radiation",
+        "affix": "prefix"
+    },
+    {
+        "word": "radicul/o",
+        "definition": "nerve root",
+        "affix": "prefix"
+    },
+    {
+        "word": "ras-",
+        "definition": "scrape",
+        "affix": "prefix"
+    },
+    {
+        "word": "re-",
+        "definition": "backward; again",
+        "affix": "prefix"
+    },
+    {
+        "word": "rect/o",
+        "definition": "rectum",
+        "affix": "prefix"
+    },
+    {
+        "word": "ren/o",
+        "definition": "kidney",
+        "affix": "prefix"
+    },
+    {
+        "word": "respirat/o",
+        "definition": "breathing",
+        "affix": "prefix"
+    },
+    {
+        "word": "reticul/o",
+        "definition": "network",
+        "affix": "prefix"
+    },
+    {
+        "word": "retin/o",
+        "definition": "retina",
+        "affix": "prefix"
+    },
+    {
+        "word": "retro-",
+        "definition": "behind, backward",
+        "affix": "prefix"
+    },
+    {
+        "word": "rhabd/o",
+        "definition": "rod shaped",
+        "affix": "prefix"
+    },
+    {
+        "word": "rhabdomy/o",
+        "definition": "striated/skeletal muscle",
+        "affix": "prefix"
+    },
+    {
+        "word": "rheumat/o",
+        "definition": "discharge, flow, joint",
+        "affix": "prefix"
+    },
+    {
+        "word": "rhin/o",
+        "definition": "nose",
+        "affix": "prefix"
+    },
+    {
+        "word": "rhytid/o",
+        "definition": "wrinkle",
+        "affix": "prefix"
+    },
+    {
+        "word": "rotat/o",
+        "definition": "turn, rotate",
+        "affix": "prefix"
+    },
+    {
+        "word": "-rrhage",
+        "definition": "excessive flow",
+        "affix": "suffix"
+    },
+    {
+        "word": "-rrhagia",
+        "definition": "excessive flow",
+        "affix": "suffix"
+    },
+    {
+        "word": "-rrhaphy",
+        "definition": "suture",
+        "affix": "suffix"
+    },
+    {
+        "word": "-rrhea",
+        "definition": "flow, discharge",
+        "affix": "suffix"
+    },
+    {
+        "word": "-rrhexis",
+        "definition": "rupture",
+        "affix": "suffix"
+    },
+    {
+        "word": "rrhythm/o",
+        "definition": "rhythm",
+        "affix": "prefix"
+    },
+    {
+        "word": "rube/o",
+        "definition": "red",
+        "affix": "prefix"
+    },
+    {
+        "word": "sacr/o",
+        "definition": "sacrum",
+        "affix": "prefix"
+    },
+    {
+        "word": "salping/o",
+        "definition": "fallopian tube",
+        "affix": "prefix"
+    },
+    {
+        "word": "sarc/o",
+        "definition": "flesh",
+        "affix": "prefix"
+    },
+    {
+        "word": "scapul/o",
+        "definition": "scapula (shoulder blade)",
+        "affix": "prefix"
+    },
+    {
+        "word": "schiz/o",
+        "definition": "split, divide",
+        "affix": "prefix"
+    },
+    {
+        "word": "scler/o",
+        "definition": "hardening, sclera",
+        "affix": "prefix"
+    },
+    {
+        "word": "sclera/o",
+        "definition": "hard",
+        "affix": "prefix"
+    },
+    {
+        "word": "-sclerosis",
+        "definition": "hardening",
+        "affix": "suffix"
+    },
+    {
+        "word": "scoli/o",
+        "definition": "crooked, bent, twisted (Gr. skolios)",
+        "affix": "prefix"
+    },
+    {
+        "word": "-scope",
+        "definition": "visual examination instrument",
+        "affix": "suffix"
+    },
+    {
+        "word": "-scopy",
+        "definition": "visual examination",
+        "affix": "suffix"
+    },
+    {
+        "word": "scrot/o",
+        "definition": "scrotum",
+        "affix": "prefix"
+    },
+    {
+        "word": "seb/o",
+        "definition": "sebum",
+        "affix": "prefix"
+    },
+    {
+        "word": "semi-",
+        "definition": "half",
+        "affix": "prefix"
+    },
+    {
+        "word": "semin/o",
+        "definition": "semen",
+        "affix": "prefix"
+    },
+    {
+        "word": "seminat-",
+        "definition": "semen",
+        "affix": "prefix"
+    },
+    {
+        "word": "-sepsis",
+        "definition": "putrefying",
+        "affix": "suffix"
+    },
+    {
+        "word": "sept-",
+        "definition": "seven",
+        "affix": "prefix"
+    },
+    {
+        "word": "sept/o",
+        "definition": "infection, partition",
+        "affix": "prefix"
+    },
+    {
+        "word": "septic/o",
+        "definition": "infection, putrefying",
+        "affix": "prefix"
+    },
+    {
+        "word": "ser/o",
+        "definition": "serum",
+        "affix": "prefix"
+    },
+    {
+        "word": "sial/o",
+        "definition": "saliva",
+        "affix": "prefix"
+    },
+    {
+        "word": "sider/o",
+        "definition": "iron",
+        "affix": "prefix"
+    },
+    {
+        "word": "sigmoid/o",
+        "definition": "sigmoid colon",
+        "affix": "prefix"
+    },
+    {
+        "word": "-sis",
+        "definition": "condition, state of",
+        "affix": "suffix"
+    },
+    {
+        "word": "situ-",
+        "definition": "in place",
+        "affix": "prefix"
+    },
+    {
+        "word": "somat/o",
+        "definition": "body",
+        "affix": "prefix"
+    },
+    {
+        "word": "-some",
+        "definition": "body",
+        "affix": "suffix"
+    },
+    {
+        "word": "somn(i/o)",
+        "definition": "sleep",
+        "affix": "prefix"
+    },
+    {
+        "word": "son/o",
+        "definition": "sound",
+        "affix": "prefix"
+    },
+    {
+        "word": "-spasm",
+        "definition": "contraction, spasm",
+        "affix": "suffix"
+    },
+    {
+        "word": "sperm/o",
+        "definition": "spermatozoa",
+        "affix": "prefix"
+    },
+    {
+        "word": "spermat/o",
+        "definition": "spermatozoa",
+        "affix": "prefix"
+    },
+    {
+        "word": "spher/o",
+        "definition": "spherical",
+        "affix": "prefix"
+    },
+    {
+        "word": "sphygm/o",
+        "definition": "pulse",
+        "affix": "prefix"
+    },
+    {
+        "word": "spin/o",
+        "definition": "spine",
+        "affix": "prefix"
+    },
+    {
+        "word": "spir/o",
+        "definition": "breathe",
+        "affix": "prefix"
+    },
+    {
+        "word": "splen/o",
+        "definition": "spleen",
+        "affix": "prefix"
+    },
+    {
+        "word": "spondyl/o",
+        "definition": "vertebra",
+        "affix": "prefix"
+    },
+    {
+        "word": "squam/o",
+        "definition": "squamous (scaly)",
+        "affix": "prefix"
+    },
+    {
+        "word": "-stalsis",
+        "definition": "contraction",
+        "affix": "suffix"
+    },
+    {
+        "word": "staped/o",
+        "definition": "stapes",
+        "affix": "prefix"
+    },
+    {
+        "word": "-stasis",
+        "definition": "control, stop",
+        "affix": "suffix"
+    },
+    {
+        "word": "steat/o",
+        "definition": "fat",
+        "affix": "prefix"
+    },
+    {
+        "word": "sten/o",
+        "definition": "narrow",
+        "affix": "prefix"
+    },
+    {
+        "word": "stern/o",
+        "definition": "sternum (breastbone)",
+        "affix": "prefix"
+    },
+    {
+        "word": "steth/o",
+        "definition": "chest",
+        "affix": "prefix"
+    },
+    {
+        "word": "stom(a/o)",
+        "definition": "mouth, opening",
+        "affix": "prefix"
+    },
+    {
+        "word": "stomat/o",
+        "definition": "mouth",
+        "affix": "prefix"
+    },
+    {
+        "word": "-stomy",
+        "definition": "surgical opening",
+        "affix": "suffix"
+    },
+    {
+        "word": "strict-",
+        "definition": "tighten",
+        "affix": "prefix"
+    },
+    {
+        "word": "sub-",
+        "definition": "below, under",
+        "affix": "prefix"
+    },
+    {
+        "word": "sud/o",
+        "definition": "sweat",
+        "affix": "prefix"
+    },
+    {
+        "word": "super-",
+        "definition": "above",
+        "affix": "prefix"
+    },
+    {
+        "word": "supra-",
+        "definition": "above",
+        "affix": "prefix"
+    },
+    {
+        "word": "sym-",
+        "definition": "together, with",
+        "affix": "prefix"
+    },
+    {
+        "word": "syn-",
+        "definition": "together, with",
+        "affix": "prefix"
+    },
+    {
+        "word": "synov/o",
+        "definition": "synovial membrane",
+        "affix": "prefix"
+    },
+    {
+        "word": "systol-",
+        "definition": "contraction",
+        "affix": "prefix"
+    },
+    {
+        "word": "tachy-",
+        "definition": "fast, rapid",
+        "affix": "prefix"
+    },
+    {
+        "word": "tal/o",
+        "definition": "talus (ankle)",
+        "affix": "prefix"
+    },
+    {
+        "word": "tars/o",
+        "definition": "tarsus (ankle)",
+        "affix": "prefix"
+    },
+    {
+        "word": "-taxia",
+        "definition": "coordination",
+        "affix": "suffix"
+    },
+    {
+        "word": "tele-",
+        "definition": "distant",
+        "affix": "prefix"
+    },
+    {
+        "word": "tempor/o",
+        "definition": "temple; period of time",
+        "affix": "prefix"
+    },
+    {
+        "word": "ten/o",
+        "definition": "tendon",
+        "affix": "prefix"
+    },
+    {
+        "word": "tend/o",
+        "definition": "tendon",
+        "affix": "prefix"
+    },
+    {
+        "word": "tendin/o",
+        "definition": "tendon",
+        "affix": "prefix"
+    },
+    {
+        "word": "tens-",
+        "definition": "tight, tension",
+        "affix": "prefix"
+    },
+    {
+        "word": "tera-",
+        "definition": "trillion",
+        "affix": "prefix"
+    },
+    {
+        "word": "terat/o",
+        "definition": "monster, deformed",
+        "affix": "prefix"
+    },
+    {
+        "word": "test/o",
+        "definition": "testis",
+        "affix": "prefix"
+    },
+    {
+        "word": "testicul/o",
+        "definition": "testis",
+        "affix": "prefix"
+    },
+    {
+        "word": "tetra-",
+        "definition": "four",
+        "affix": "prefix"
+    },
+    {
+        "word": "thalam/o",
+        "definition": "thalamus",
+        "affix": "prefix"
+    },
+    {
+        "word": "thel/o",
+        "definition": "nipple",
+        "affix": "prefix"
+    },
+    {
+        "word": "-therapy",
+        "definition": "treatment",
+        "affix": "suffix"
+    },
+    {
+        "word": "therm/o",
+        "definition": "heat",
+        "affix": "prefix"
+    },
+    {
+        "word": "thorac/o",
+        "definition": "chest",
+        "affix": "prefix"
+    },
+    {
+        "word": "thromb/o",
+        "definition": "clot",
+        "affix": "prefix"
+    },
+    {
+        "word": "thym/o",
+        "definition": "thymus gland",
+        "affix": "prefix"
+    },
+    {
+        "word": "thyr/o",
+        "definition": "thyroid gland",
+        "affix": "prefix"
+    },
+    {
+        "word": "thyroid/o",
+        "definition": "thyroid gland",
+        "affix": "prefix"
+    },
+    {
+        "word": "tibi/o",
+        "definition": "tibia",
+        "affix": "prefix"
+    },
+    {
+        "word": "-tic",
+        "definition": "pertaining to",
+        "affix": "suffix"
+    },
+    {
+        "word": "toc/o",
+        "definition": "birth, labor",
+        "affix": "prefix"
+    },
+    {
+        "word": "tom/o",
+        "definition": "cut",
+        "affix": "prefix"
+    },
+    {
+        "word": "-tome",
+        "definition": "cutting instrument",
+        "affix": "suffix"
+    },
+    {
+        "word": "-tomy",
+        "definition": "incision",
+        "affix": "suffix"
+    },
+    {
+        "word": "ton/o",
+        "definition": "tone, tension, pressure",
+        "affix": "prefix"
+    },
+    {
+        "word": "tonsill/o",
+        "definition": "tonsil",
+        "affix": "prefix"
+    },
+    {
+        "word": "top/o",
+        "definition": "put, place",
+        "affix": "prefix"
+    },
+    {
+        "word": "tors/o",
+        "definition": "twisted",
+        "affix": "prefix"
+    },
+    {
+        "word": "tort/i",
+        "definition": "twisted",
+        "affix": "prefix"
+    },
+    {
+        "word": "tox/o",
+        "definition": "poison, toxin",
+        "affix": "prefix"
+    },
+    {
+        "word": "toxic/o",
+        "definition": "poison",
+        "affix": "prefix"
+    },
+    {
+        "word": "trache/o",
+        "definition": "trachea",
+        "affix": "prefix"
+    },
+    {
+        "word": "trachel/o",
+        "definition": "neck",
+        "affix": "prefix"
+    },
+    {
+        "word": "tract/o",
+        "definition": "draw",
+        "affix": "prefix"
+    },
+    {
+        "word": "trans-",
+        "definition": "across, through",
+        "affix": "prefix"
+    },
+    {
+        "word": "tri-",
+        "definition": "three",
+        "affix": "prefix"
+    },
+    {
+        "word": "trich/o",
+        "definition": "hair",
+        "affix": "prefix"
+    },
+    {
+        "word": "trigon/o",
+        "definition": "trigone",
+        "affix": "prefix"
+    },
+    {
+        "word": "-tripsy",
+        "definition": "crushing",
+        "affix": "suffix"
+    },
+    {
+        "word": "trop-",
+        "definition": "turn",
+        "affix": "prefix"
+    },
+    {
+        "word": "-troph(y)",
+        "definition": "nourishment, growth",
+        "affix": "suffix"
+    },
+    {
+        "word": "troph/o",
+        "definition": "nourishment, growth",
+        "affix": "prefix"
+    },
+    {
+        "word": "-trophic",
+        "definition": "growth, development",
+        "affix": "suffix"
+    },
+    {
+        "word": "-tropic",
+        "definition": "turning to, affinity for",
+        "affix": "suffix"
+    },
+    {
+        "word": "tub/o",
+        "definition": "tube",
+        "affix": "prefix"
+    },
+    {
+        "word": "tuber-",
+        "definition": "swelling",
+        "affix": "prefix"
+    },
+    {
+        "word": "tuss/i",
+        "definition": "cough",
+        "affix": "prefix"
+    },
+    {
+        "word": "tympan/o",
+        "definition": "middle ear, eardrum",
+        "affix": "prefix"
+    },
+    {
+        "word": "-type",
+        "definition": "class, grouping, type",
+        "affix": "suffix"
+    },
+    {
+        "word": "-ule",
+        "definition": "small",
+        "affix": "suffix"
+    },
+    {
+        "word": "uln/o",
+        "definition": "ulna",
+        "affix": "prefix"
+    },
+    {
+        "word": "ultra-",
+        "definition": "beyond, excessive",
+        "affix": "prefix"
+    },
+    {
+        "word": "-um",
+        "definition": "structure",
+        "affix": "suffix"
+    },
+    {
+        "word": "umbilic/o",
+        "definition": "navel (umbilicus)",
+        "affix": "prefix"
+    },
+    {
+        "word": "un-",
+        "definition": "not, reversal",
+        "affix": "prefix"
+    },
+    {
+        "word": "ungu/o",
+        "definition": "nail",
+        "affix": "prefix"
+    },
+    {
+        "word": "uni-",
+        "definition": "one",
+        "affix": "prefix"
+    },
+    {
+        "word": "ur/o",
+        "definition": "urine, urinary tract",
+        "affix": "prefix"
+    },
+    {
+        "word": "uran/o",
+        "definition": "palate",
+        "affix": "prefix"
+    },
+    {
+        "word": "-ure",
+        "definition": "process",
+        "affix": "suffix"
+    },
+    {
+        "word": "ure(a/o)",
+        "definition": "urine, urinary tract",
+        "affix": "prefix"
+    },
+    {
+        "word": "ureter/o",
+        "definition": "ureter",
+        "affix": "prefix"
+    },
+    {
+        "word": "urethr/o",
+        "definition": "urethra",
+        "affix": "prefix"
+    },
+    {
+        "word": "-uria",
+        "definition": "urine condition",
+        "affix": "suffix"
+    },
+    {
+        "word": "urin/o",
+        "definition": "urine",
+        "affix": "prefix"
+    },
+    {
+        "word": "-us",
+        "definition": "structure",
+        "affix": "suffix"
+    },
+    {
+        "word": "uter/o",
+        "definition": "uterus",
+        "affix": "prefix"
+    },
+    {
+        "word": "uve/o",
+        "definition": "uvea",
+        "affix": "prefix"
+    },
+    {
+        "word": "uvul/o",
+        "definition": "uvula",
+        "affix": "prefix"
+    },
+    {
+        "word": "vag/o",
+        "definition": "vagus nerve",
+        "affix": "prefix"
+    },
+    {
+        "word": "vagin/o",
+        "definition": "vagina",
+        "affix": "prefix"
+    },
+    {
+        "word": "valvul/o",
+        "definition": "valve",
+        "affix": "prefix"
+    },
+    {
+        "word": "varic/o",
+        "definition": "swollen vein",
+        "affix": "prefix"
+    },
+    {
+        "word": "vas/o",
+        "definition": "vessel, vas deferens",
+        "affix": "prefix"
+    },
+    {
+        "word": "vascul/o",
+        "definition": "(blood) vessel",
+        "affix": "prefix"
+    },
+    {
+        "word": "ven(i/o)",
+        "definition": "vein",
+        "affix": "prefix"
+    },
+    {
+        "word": "venere/o",
+        "definition": "sexual intercourse",
+        "affix": "prefix"
+    },
+    {
+        "word": "ventr(i/o)",
+        "definition": "front of body, belly",
+        "affix": "prefix"
+    },
+    {
+        "word": "verm/i",
+        "definition": "worm",
+        "affix": "prefix"
+    },
+    {
+        "word": "vers/o",
+        "definition": "turn(ing)",
+        "affix": "prefix"
+    },
+    {
+        "word": "vertebr/o",
+        "definition": "vertebra",
+        "affix": "prefix"
+    },
+    {
+        "word": "vesic/o",
+        "definition": "urinary bladder",
+        "affix": "prefix"
+    },
+    {
+        "word": "vesicul/o",
+        "definition": "seminal vesicle",
+        "affix": "prefix"
+    },
+    {
+        "word": "vir/o",
+        "definition": "virus",
+        "affix": "prefix"
+    },
+    {
+        "word": "viril/o",
+        "definition": "masculine",
+        "affix": "prefix"
+    },
+    {
+        "word": "viscer/o",
+        "definition": "internal organs",
+        "affix": "prefix"
+    },
+    {
+        "word": "vitre/o",
+        "definition": "glassy",
+        "affix": "prefix"
+    },
+    {
+        "word": "vulv/o",
+        "definition": "vulva",
+        "affix": "prefix"
+    },
+    {
+        "word": "xanth/o",
+        "definition": "yellow (Gr. xanthos)",
+        "affix": "prefix"
+    },
+    {
+        "word": "xen/o",
+        "definition": "strange; foreign matter",
+        "affix": "prefix"
+    },
+    {
+        "word": "xer/o",
+        "definition": "dry",
+        "affix": "prefix"
+    },
+    {
+        "word": "xiph/o",
+        "definition": "sword shape",
+        "affix": "prefix"
+    },
+    {
+        "word": "-y",
+        "definition": "condition, process",
+        "affix": "suffix"
+    },
+    {
+        "word": "zo/o",
+        "definition": "animal",
+        "affix": "prefix"
+    }
+]

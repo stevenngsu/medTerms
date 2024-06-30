@@ -1,0 +1,658 @@
+[
+    {
+        "suffix": "able",
+        "definition": "capable"
+    },
+    {
+        "suffix": "ac",
+        "definition": "pertaining to (Gr. akos)"
+    },
+    {
+        "suffix": "ad",
+        "definition": "pertaining to"
+    },
+    {
+        "suffix": "al",
+        "definition": "pertaining to"
+    },
+    {
+        "suffix": "algesia",
+        "definition": "pain"
+    },
+    {
+        "suffix": "algia",
+        "definition": "pain, painful condition"
+    },
+    {
+        "suffix": "ant",
+        "definition": "doing, having"
+    },
+    {
+        "suffix": "apheresis",
+        "definition": "removal"
+    },
+    {
+        "suffix": "ary",
+        "definition": "pertaining to"
+    },
+    {
+        "suffix": "ase",
+        "definition": "enzyme"
+    },
+    {
+        "suffix": "asthenia",
+        "definition": "weakness"
+    },
+    {
+        "suffix": "ate",
+        "definition": "status; state; function"
+    },
+    {
+        "suffix": "blast",
+        "definition": "immature, early stage cell"
+    },
+    {
+        "suffix": "cele",
+        "definition": "hernia, swelling"
+    },
+    {
+        "suffix": "centesis",
+        "definition": "surgical puncture"
+    },
+    {
+        "suffix": "ceps",
+        "definition": "head, leader"
+    },
+    {
+        "suffix": "cidal",
+        "definition": "killing, destroying"
+    },
+    {
+        "suffix": "cide",
+        "definition": "killing"
+    },
+    {
+        "suffix": "clasia",
+        "definition": "break"
+    },
+    {
+        "suffix": "clasis",
+        "definition": "breaking"
+    },
+    {
+        "suffix": "cle",
+        "definition": "small"
+    },
+    {
+        "suffix": "crine",
+        "definition": "secreting"
+    },
+    {
+        "suffix": "crit",
+        "definition": "separate (Gr. kritos)"
+    },
+    {
+        "suffix": "cusis",
+        "definition": "hearing"
+    },
+    {
+        "suffix": "cyesis",
+        "definition": "pregnancy"
+    },
+    {
+        "suffix": "cyte",
+        "definition": "cell"
+    },
+    {
+        "suffix": "desis",
+        "definition": "surgical binding"
+    },
+    {
+        "suffix": "dipsia",
+        "definition": "thirst"
+    },
+    {
+        "suffix": "dynia",
+        "definition": "pain"
+    },
+    {
+        "suffix": "eal",
+        "definition": "pertaining to"
+    },
+    {
+        "suffix": "ectasia",
+        "definition": "dilation"
+    },
+    {
+        "suffix": "ectasis",
+        "definition": "dilation, expansion"
+    },
+    {
+        "suffix": "ectomy",
+        "definition": "(surgical) removal"
+    },
+    {
+        "suffix": "edema",
+        "definition": "swelling"
+    },
+    {
+        "suffix": "emesis",
+        "definition": "vomiting"
+    },
+    {
+        "suffix": "emia",
+        "definition": "blood condition"
+    },
+    {
+        "suffix": "ergy",
+        "definition": "work"
+    },
+    {
+        "suffix": "esis",
+        "definition": "condition or state"
+    },
+    {
+        "suffix": "esthesia",
+        "definition": "feeling, sensation"
+    },
+    {
+        "suffix": "form",
+        "definition": "shape of"
+    },
+    {
+        "suffix": "gen",
+        "definition": "formation, producing"
+    },
+    {
+        "suffix": "genesis",
+        "definition": "formation, producing"
+    },
+    {
+        "suffix": "genic",
+        "definition": "produced by"
+    },
+    {
+        "suffix": "globin",
+        "definition": "protein"
+    },
+    {
+        "suffix": "gnosis",
+        "definition": "knowledge"
+    },
+    {
+        "suffix": "grade",
+        "definition": "step"
+    },
+    {
+        "suffix": "gram",
+        "definition": "image/record"
+    },
+    {
+        "suffix": "graph",
+        "definition": "recording instrument"
+    },
+    {
+        "suffix": "graphy",
+        "definition": "recording (process)"
+    },
+    {
+        "suffix": "hexia",
+        "definition": "condition"
+    },
+    {
+        "suffix": "ia",
+        "definition": "condition"
+    },
+    {
+        "suffix": "ian",
+        "definition": "specialist"
+    },
+    {
+        "suffix": "iasis",
+        "definition": "condition or state"
+    },
+    {
+        "suffix": "iatrics",
+        "definition": "medical specialty"
+    },
+    {
+        "suffix": "iatry",
+        "definition": "medical specialty"
+    },
+    {
+        "suffix": "ic",
+        "definition": "pertaining to"
+    },
+    {
+        "suffix": "ician",
+        "definition": "specialist"
+    },
+    {
+        "suffix": "ics",
+        "definition": "specialty"
+    },
+    {
+        "suffix": "ile",
+        "definition": "pertaining to"
+    },
+    {
+        "suffix": "ine",
+        "definition": "pertaining to"
+    },
+    {
+        "suffix": "ing",
+        "definition": "action, process (verb)"
+    },
+    {
+        "suffix": "ion",
+        "definition": "process of"
+    },
+    {
+        "suffix": "ior",
+        "definition": "pertaining to"
+    },
+    {
+        "suffix": "is",
+        "definition": "(noun form)"
+    },
+    {
+        "suffix": "ism",
+        "definition": "condition"
+    },
+    {
+        "suffix": "ist",
+        "definition": "specialist"
+    },
+    {
+        "suffix": "itis",
+        "definition": "inflammation"
+    },
+    {
+        "suffix": "ity",
+        "definition": "condition"
+    },
+    {
+        "suffix": "ive",
+        "definition": "character, quality"
+    },
+    {
+        "suffix": "ize",
+        "definition": "do, make (verb)"
+    },
+    {
+        "suffix": "kinesia",
+        "definition": "movement"
+    },
+    {
+        "suffix": "kinesis",
+        "definition": "movement"
+    },
+    {
+        "suffix": "lalia",
+        "definition": "speech, verbalize"
+    },
+    {
+        "suffix": "lemma",
+        "definition": "rind"
+    },
+    {
+        "suffix": "lepsy",
+        "definition": "seizure"
+    },
+    {
+        "suffix": "lexia",
+        "definition": "speech, spoken word"
+    },
+    {
+        "suffix": "lith",
+        "definition": "stone, calcification"
+    },
+    {
+        "suffix": "logy",
+        "definition": "study of"
+    },
+    {
+        "suffix": "lysis",
+        "definition": "breakdown, destruction"
+    },
+    {
+        "suffix": "lytic",
+        "definition": "decomposition"
+    },
+    {
+        "suffix": "malacia",
+        "definition": "softening"
+    },
+    {
+        "suffix": "mania",
+        "definition": "madness, obsession"
+    },
+    {
+        "suffix": "megaly",
+        "definition": "enlargement"
+    },
+    {
+        "suffix": "meter",
+        "definition": "instrument for measuring"
+    },
+    {
+        "suffix": "metry",
+        "definition": "process of measuring"
+    },
+    {
+        "suffix": "mimetic",
+        "definition": "mimic, simulating"
+    },
+    {
+        "suffix": "mnesia",
+        "definition": "memory"
+    },
+    {
+        "suffix": "noia",
+        "definition": "mind"
+    },
+    {
+        "suffix": "oid",
+        "definition": "pertaining to, resemble"
+    },
+    {
+        "suffix": "ole",
+        "definition": "small opening"
+    },
+    {
+        "suffix": "ologist",
+        "definition": "one who studies"
+    },
+    {
+        "suffix": "ology",
+        "definition": "study of"
+    },
+    {
+        "suffix": "oma",
+        "definition": "tumor, mass"
+    },
+    {
+        "suffix": "on",
+        "definition": "that goes"
+    },
+    {
+        "suffix": "opia",
+        "definition": "vision"
+    },
+    {
+        "suffix": "opsia",
+        "definition": "vision"
+    },
+    {
+        "suffix": "opsy",
+        "definition": "viewing"
+    },
+    {
+        "suffix": "or",
+        "definition": "doer, one who"
+    },
+    {
+        "suffix": "orexia",
+        "definition": "appetite"
+    },
+    {
+        "suffix": "ory",
+        "definition": "relating to"
+    },
+    {
+        "suffix": "ose",
+        "definition": "sugar"
+    },
+    {
+        "suffix": "osis",
+        "definition": "(abnormal) condition"
+    },
+    {
+        "suffix": "ostomy",
+        "definition": "artificial opening"
+    },
+    {
+        "suffix": "otomy",
+        "definition": "cut in"
+    },
+    {
+        "suffix": "ous",
+        "definition": "pertaining to"
+    },
+    {
+        "suffix": "paresis",
+        "definition": "weakness, slight paralysis"
+    },
+    {
+        "suffix": "pathy",
+        "definition": "disease"
+    },
+    {
+        "suffix": "penia",
+        "definition": "deficiency"
+    },
+    {
+        "suffix": "pepsia",
+        "definition": "digestion"
+    },
+    {
+        "suffix": "pexy",
+        "definition": "fixation (surgical)"
+    },
+    {
+        "suffix": "phagia",
+        "definition": "eating, ingestion"
+    },
+    {
+        "suffix": "phasia",
+        "definition": "speech"
+    },
+    {
+        "suffix": "pheresis",
+        "definition": "removal"
+    },
+    {
+        "suffix": "philia",
+        "definition": "affinity for, attraction"
+    },
+    {
+        "suffix": "phil",
+        "definition": "affinity for, attraction"
+    },
+    {
+        "suffix": "phobia",
+        "definition": "fear, aversion to"
+    },
+    {
+        "suffix": "phoresis",
+        "definition": "transmit, carry"
+    },
+    {
+        "suffix": "phragm",
+        "definition": "separation, wall"
+    },
+    {
+        "suffix": "phylaxis",
+        "definition": "protection, prevention"
+    },
+    {
+        "suffix": "physis",
+        "definition": "growth"
+    },
+    {
+        "suffix": "phyte",
+        "definition": "plant"
+    },
+    {
+        "suffix": "plakia",
+        "definition": "plaque"
+    },
+    {
+        "suffix": "plasia",
+        "definition": "formation, growth"
+    },
+    {
+        "suffix": "plasm",
+        "definition": "formation, thing formed"
+    },
+    {
+        "suffix": "plast",
+        "definition": "formation, cell"
+    },
+    {
+        "suffix": "plasty",
+        "definition": "surgical repair"
+    },
+    {
+        "suffix": "plegia",
+        "definition": "paralysis"
+    },
+    {
+        "suffix": "pnea",
+        "definition": "breathing"
+    },
+    {
+        "suffix": "poiesis",
+        "definition": "formation"
+    },
+    {
+        "suffix": "praxia",
+        "definition": "activity"
+    },
+    {
+        "suffix": "ptosis",
+        "definition": "prolapse, drooping"
+    },
+    {
+        "suffix": "ptysis",
+        "definition": "spitting"
+    },
+    {
+        "suffix": "rrhage",
+        "definition": "excessive flow"
+    },
+    {
+        "suffix": "rrhagia",
+        "definition": "excessive flow"
+    },
+    {
+        "suffix": "rrhaphy",
+        "definition": "suture"
+    },
+    {
+        "suffix": "rrhea",
+        "definition": "flow, discharge"
+    },
+    {
+        "suffix": "rrhexis",
+        "definition": "rupture"
+    },
+    {
+        "suffix": "sclerosis",
+        "definition": "hardening"
+    },
+    {
+        "suffix": "scope",
+        "definition": "visual examination instrument"
+    },
+    {
+        "suffix": "scopy",
+        "definition": "visual examination"
+    },
+    {
+        "suffix": "sepsis",
+        "definition": "putrefying"
+    },
+    {
+        "suffix": "sis",
+        "definition": "condition, state of"
+    },
+    {
+        "suffix": "some",
+        "definition": "body"
+    },
+    {
+        "suffix": "spasm",
+        "definition": "contraction, spasm"
+    },
+    {
+        "suffix": "stalsis",
+        "definition": "contraction"
+    },
+    {
+        "suffix": "stasis",
+        "definition": "control, stop"
+    },
+    {
+        "suffix": "stomy",
+        "definition": "surgical opening"
+    },
+    {
+        "suffix": "taxia",
+        "definition": "coordination"
+    },
+    {
+        "suffix": "therapy",
+        "definition": "treatment"
+    },
+    {
+        "suffix": "tic",
+        "definition": "pertaining to"
+    },
+    {
+        "suffix": "tome",
+        "definition": "cutting instrument"
+    },
+    {
+        "suffix": "tomy",
+        "definition": "incision"
+    },
+    {
+        "suffix": "tripsy",
+        "definition": "crushing"
+    },
+    {
+        "suffix": "trophy",
+        "definition": "nourishment, growth"
+    },
+    {
+        "suffix": "troph",
+        "definition": "nourishment, growth"
+    },
+    {
+        "suffix": "trophic",
+        "definition": "growth, development"
+    },
+    {
+        "suffix": "tropic",
+        "definition": "turning to, affinity for"
+    },
+    {
+        "suffix": "type",
+        "definition": "class, grouping, type"
+    },
+    {
+        "suffix": "ule",
+        "definition": "small"
+    },
+    {
+        "suffix": "um",
+        "definition": "structure"
+    },
+    {
+        "suffix": "ure",
+        "definition": "process"
+    },
+    {
+        "suffix": "uria",
+        "definition": "urine condition"
+    },
+    {
+        "suffix": "us",
+        "definition": "structure"
+    },
+    {
+        "suffix": "y",
+        "definition": "condition, process"
+    }
+]
