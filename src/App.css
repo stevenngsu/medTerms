@@ -132,6 +132,12 @@ h1 {
   cursor: pointer;
 }
 
+@media (max-height: 600px) {
+  .key {
+    height: 29px;
+  }
+}
+
 #big {
   width: 80px;
 }
