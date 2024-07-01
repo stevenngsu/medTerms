@@ -329,19 +329,11 @@
     },
     {
         "word": "allotrophic",
-        "definition": "Changed or modified in nutritive power by the process of digestion.",
+        "definition": "having an altered and especially a lowered nutritive value.",
         "prefix": "allo",
         "prefix_definition": "different",
         "suffix": "trophic",
         "suffix_definition": "growth, development"
-    },
-    {
-        "word": "allotropic",
-        "definition": "Of or pertaining to allotropism.",
-        "prefix": "allo",
-        "prefix_definition": "different",
-        "suffix": "tropic",
-        "suffix_definition": "turning to, affinity for"
     },
     {
         "word": "alveolary",
@@ -350,14 +342,6 @@
         "prefix_definition": "alveolus (air sac)",
         "suffix": "ary",
         "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "alveolus",
-        "definition": "A cell in a honeycomb.",
-        "prefix": "alveol",
-        "prefix_definition": "alveolus (air sac)",
-        "suffix": "us",
-        "suffix_definition": "structure"
     },
     {
         "word": "amblyopia",
@@ -369,7 +353,7 @@
     },
     {
         "word": "ambulant",
-        "definition": "Walking; moving from place to place.",
+        "definition": "(Of a pateint) able to walk around; moving from place to place.",
         "prefix": "ambul",
         "prefix_definition": "walking",
         "suffix": "ant",
@@ -377,7 +361,7 @@
     },
     {
         "word": "ambulate",
-        "definition": "To walk; to move about. [R.] Southey.",
+        "definition": "To walk; to move about.",
         "prefix": "ambul",
         "prefix_definition": "walking",
         "suffix": "ate",
@@ -390,22 +374,6 @@
         "prefix_definition": "membrane around the fetus",
         "suffix": "tic",
         "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "amphigenesis",
-        "definition": "Sexual generation.",
-        "prefix": "amphi",
-        "prefix_definition": "both sides",
-        "suffix": "genesis",
-        "suffix_definition": "formation, producing"
-    },
-    {
-        "word": "amylogen",
-        "definition": "That part of the starch granule or granulose which is soluble in water.",
-        "prefix": "amylo",
-        "prefix_definition": "starch",
-        "suffix": "gen",
-        "suffix_definition": "formation, producing"
     },
     {
         "word": "amylolysis",
@@ -448,14 +416,6 @@
         "suffix_definition": "pertaining to, resemble"
     },
     {
-        "word": "amylose",
-        "definition": "One of the starch group (C6H10O5)n of the carbohydrates; as, starch, arabin, dextrin, cellulose, etc.",
-        "prefix": "amyl",
-        "prefix_definition": "starch",
-        "suffix": "ose",
-        "suffix_definition": "sugar"
-    },
-    {
         "word": "analgesia",
         "definition": "Absence of sensibility to pain.",
         "prefix": "an",
@@ -465,7 +425,7 @@
     },
     {
         "word": "anergy",
-        "definition": "Lack of energy; inactivity.",
+        "definition": "Absence of the normal immune response to a particular antigen or allergen.",
         "prefix": "an",
         "prefix_definition": "not, without, lacking",
         "suffix": "ergy",
@@ -504,44 +464,12 @@
         "suffix_definition": "blood condition"
     },
     {
-        "word": "anaesthesia",
-        "definition": "Entire or partial loss or absence of feeling or sensation; a state of general or local insensibility produced by disease.",
-        "prefix": "ana",
-        "prefix_definition": "apart, up",
-        "suffix": "esthesia",
-        "suffix_definition": "feeling, sensation"
-    },
-    {
         "word": "analepsy",
-        "definition": "(a) Recovery of strength after sickness. (b) A species of epileptic attack, originating from gastric disorder.",
+        "definition": "Recovery of strength after sickness.",
         "prefix": "ana",
         "prefix_definition": "apart, up",
         "suffix": "lepsy",
         "suffix_definition": "seizure"
-    },
-    {
-        "word": "analogy",
-        "definition": "1. A resemblance of relations; an agreement or likeness between things in some circumstances or effects, when the things are otherwise entirely different. Thus, learning enlightens the mind, because it is to the mind what light is to the eye, enabling it to discover things before hidden. Note: Followed by between, to, or with; as, there is an analogy between these objects, or one thing has an analogy to or with another. Note: Analogy is very commonly used to denote similarity or essential resemblance; but its specific meaning is a similarity of relations, and in this consists the difference between the argument from example and that from analogy. In the former, we argue from the mere similarity of two things; in the latter, from the similarity of their relations. Karslake. 2. (Biol.)  A relation or correspondence in function, between organs or parts which are decidedly different. 3. (Geom.)  Proportion; equality of ratios. 4. (Gram.)  Conformity of words to the genius, structure, or general rules of a language; similarity of origin, inflection, or principle of pronunciation, and the like, as opposed to pl. analogies. Johnson.",
-        "prefix": "ana",
-        "prefix_definition": "apart, up",
-        "suffix": "logy",
-        "suffix_definition": "study of"
-    },
-    {
-        "word": "analysis",
-        "definition": "1. A resolution of anything, whether an object of the senses or of the intellect, into its constituent or original elements; an examination of the component parts of a subject, each separately, as the words which compose a sentence, the tones of a tune, or the simple propositions which enter into an argument. It is opposed to synthesis. 2. (Chem.)  The separation of a compound substance, by chemical processes, into its constituents, with a view to ascertain either (a) what elements it contains, or (b) how much of each element is present. The former is called qualitative, and the latter quantitative analysis. 3. (Logic)  The tracing of things to their source, and the resolving of knowledge into its original principles. 4. (Math.)  The resolving of problems by reducing the conditions that are in them to equations. 5. (a) A syllabus, or table of the principal heads of a discourse, disposed in their natural order. (b) A brief, methodical illustration of the principles of a science. In this sense it is nearly synonymous with synopsis. 6. (Nat. Hist.)  The process of ascertaining the name of a species, or its place in a system of classification, by means of an analytical table or key. Ultimate, Proximate, Qualitative, Quantitative, and Volumetric analysis. (Chem.) See under Ultimate, Proximate, Qualitative, etc.",
-        "prefix": "ana",
-        "prefix_definition": "apart, up",
-        "suffix": "lysis",
-        "suffix_definition": "breakdown, destruction"
-    },
-    {
-        "word": "analytic",
-        "definition": "Of or pertaining to analysis; resolving into elements or constituent parts; as, an analytical experiment; analytic reasoning; -- opposed to synthetic. Analytical or co\u00c3\u00b6rdinate geometry. See under Geometry. -- Analytic language, a noninflectional language or one not characterized by grammatical endings. -- Analytical table (Nat. Hist.), a table in which the characteristics of the species or other groups are arranged so as to facilitate the determination of their names.",
-        "prefix": "ana",
-        "prefix_definition": "apart, up",
-        "suffix": "lytic",
-        "suffix_definition": "decomposition"
     },
     {
         "word": "anaplasty",
@@ -553,7 +481,7 @@
     },
     {
         "word": "anatomy",
-        "definition": "1. The art of dissecting, or artificially separating the different parts of any organized body, to discover their situation, structure, and economy; dissection. 2. The science which treats of the structure of organic bodies; anatomical structure or organization. Let the muscles be well inserted and bound together, according to the knowledge of them which is given us by anatomy. Dryden. Note: \"Animal anatomy\" is sometimes called zomy; \"vegetable anatomy,\" phytotomy; \"human anatomy,\" anthropotomy. Comparative anatomy compares the structure of different kinds and classes of animals. 3. A treatise or book on anatomy. 4. The act of dividing anything, corporeal or intellectual, for the purpose of examining its parts; analysis; as, the anatomy of a discourse. 5. A skeleton; anything anatomized or dissected, or which has the appearance of being so. The anatomy of a little child, representing all parts thereof, is accounted a greater rarity than the skeleton of a man in full stature. Fuller. They brought one Pinch, a hungry, lean-faced villain, A mere anatomy. Shak.",
+        "definition": "The art of dissecting, or artificially separating the different parts of any organized body.",
         "prefix": "ana",
         "prefix_definition": "apart, up",
         "suffix": "tomy",
@@ -561,35 +489,11 @@
     },
     {
         "word": "androtomy",
-        "definition": "Dissection of the human body, as distinguished from zo\u00c3\u00b6tomy; anthropotomy. [R.]",
+        "definition": "Dissection of the human body.",
         "prefix": "andro",
         "prefix_definition": "male",
         "suffix": "tomy",
         "suffix_definition": "incision"
-    },
-    {
-        "word": "androus",
-        "definition": "A terminal combining form: Having a stamen or stamens; staminate; as, monandrous, with one stamen; polyandrous, with many stamens.",
-        "prefix": "andro",
-        "prefix_definition": "male",
-        "suffix": "us",
-        "suffix_definition": "structure"
-    },
-    {
-        "word": "android",
-        "definition": "Resembling a man. A machine or automaton in the form of a human being.",
-        "prefix": "andr",
-        "prefix_definition": "male",
-        "suffix": "oid",
-        "suffix_definition": "pertaining to, resemble"
-    },
-    {
-        "word": "andron",
-        "definition": "The apartment appropriated for the males. This was in the lower part of the house.",
-        "prefix": "andr",
-        "prefix_definition": "male",
-        "suffix": "on",
-        "suffix_definition": "that goes"
     },
     {
         "word": "angiography",
@@ -617,7 +521,7 @@
     },
     {
         "word": "angioscope",
-        "definition": "An instrument for examining the capillary vessels of animals and plants. Morin.",
+        "definition": "An instrument for examining the capillary vessels of animals and plants.",
         "prefix": "angio",
         "prefix_definition": "vessel",
         "suffix": "scope",
@@ -640,92 +544,20 @@
         "suffix_definition": "tumor, mass"
     },
     {
-        "word": "anisotropic",
-        "definition": "Not isotropic; having different properties in different directions; thus, crystals of the isometric system are optically isotropic, but all other crystals are anisotropic.",
-        "prefix": "aniso",
-        "prefix_definition": "unequal",
-        "suffix": "tropic",
-        "suffix_definition": "turning to, affinity for"
-    },
-    {
-        "word": "anisic",
-        "definition": "Of or derived from anise; as, anisic acid; anisic alcohol.",
-        "prefix": "anis",
-        "prefix_definition": "unequal",
-        "suffix": "ic",
-        "suffix_definition": "pertaining to"
-    },
-    {
         "word": "ankylosis",
-        "definition": "1. (Med.)  Stiffness or fixation of a joint; formation of a stiff joint. Dunglison. 2. (Anat.)  The union of two or more separate bones to from a single bone; the close union of bones or other structures in various animals. Same as Anchylosis.",
+        "definition": "1. (Med.) Stiffness or fixation of a joint; formation of a stiff joint. 2. (Anat.) The union of two or more separate bones to from a single bone; the close union of bones or other structures in various animals.",
         "prefix": "ankylo",
         "prefix_definition": "stiff, crooked",
         "suffix": "sis",
         "suffix_definition": "condition, state of"
     },
     {
-        "word": "ankylose",
-        "definition": "Same as Anchylose.",
-        "prefix": "ankyl",
-        "prefix_definition": "stiff, crooked",
-        "suffix": "ose",
-        "suffix_definition": "sugar"
-    },
-    {
-        "word": "anteal",
-        "definition": "Being before, or in front. [R.] J. Fleming.",
-        "prefix": "ante",
-        "prefix_definition": "before",
-        "suffix": "al",
-        "suffix_definition": "pertaining to"
-    },
-    {
         "word": "anterior",
-        "definition": "1. Before in time; antecedent. Antigonus, who was anterior to Polybius. Sir G. C. Lewis. 2. Before, or toward the front, in place; as, the anterior part of the mouth; -- opposed to posterior. Note: In comparative anatomy, anterior often signifies at or toward the head, cephalic; and in human anatomy it is often used for ventral. Syn. -- Antecedent; previous; precedent; preceding; former; foregoing.",
+        "definition": "at or toward the head, cephalic; and in human anatomy it is often used for ventral.",
         "prefix": "anter",
         "prefix_definition": "front",
         "suffix": "ior",
         "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "antigraph",
-        "definition": "A copy or transcript.",
-        "prefix": "anti",
-        "prefix_definition": "against",
-        "suffix": "graph",
-        "suffix_definition": "recording instrument"
-    },
-    {
-        "word": "antilogy",
-        "definition": "A contradiction between any words or passages in an author. Sir W. Hamilton.",
-        "prefix": "anti",
-        "prefix_definition": "against",
-        "suffix": "logy",
-        "suffix_definition": "study of"
-    },
-    {
-        "word": "antimeter",
-        "definition": "A modification of the quadrant, for measuring small angles. [Obs.]",
-        "prefix": "anti",
-        "prefix_definition": "against",
-        "suffix": "meter",
-        "suffix_definition": "instrument for measuring"
-    },
-    {
-        "word": "antipathy",
-        "definition": "1. Contrariety or opposition in feeling; settled aversion or dislike; repugnance; distaste. Inveterate antipathies against particular nations, and passionate attachments to others, are to be avoided. Washington. 2. Natural contrariety; incompatibility; repugnancy of qualities; as, oil and water have antipathy. A habit is generated of thinking that a natural antipathy exists between hope and reason. I. Taylor. Note: Any is opposed to sympathy. It is followed by to, against, or between; also sometimes by for. Syn. -- Hatred; aversion; dislike; disgust; distaste; enmity; ill will; repugnance; contrariety; opposition. See Dislike.",
-        "prefix": "anti",
-        "prefix_definition": "against",
-        "suffix": "pathy",
-        "suffix_definition": "disease"
-    },
-    {
-        "word": "antiptosis",
-        "definition": "The putting of one case for another.",
-        "prefix": "anti",
-        "prefix_definition": "against",
-        "suffix": "ptosis",
-        "suffix_definition": "prolapse, drooping"
     },
     {
         "word": "antisepsis",
@@ -733,15 +565,7 @@
         "prefix": "anti",
         "prefix_definition": "against",
         "suffix": "sepsis",
-        "suffix_definition": "putrefying"
-    },
-    {
-        "word": "antitype",
-        "definition": "That of which the type pattern or representation; that which is represented by the type or symbol.",
-        "prefix": "anti",
-        "prefix_definition": "against",
-        "suffix": "type",
-        "suffix_definition": "class, grouping, type"
+        "suffix_definition": "infection"
     },
     {
         "word": "aortic",
@@ -760,44 +584,12 @@
         "suffix_definition": "inflammation"
     },
     {
-        "word": "apograph",
-        "definition": "A copy or transcript. Blount.",
-        "prefix": "apo",
-        "prefix_definition": "separation, derived from",
-        "suffix": "graph",
-        "suffix_definition": "recording instrument"
-    },
-    {
-        "word": "apology",
-        "definition": "1. Something said or written in defense or justification of what appears to others wrong, or of what may be liable to disapprobation; justification; as, Tertullian's Apology for Christianity. It is not my intention to make an apology for my poem; some will think it needs no excuse, and others will receive none. Dryden. 2. An acknowledgment intended as an atonement for some improper or injurious remark or act; an admission to another of a wrong or discourtesy done him, accompanied by an expression of regret. 3. Anything provided as a substitute; a makeshift. He goes to work devising apologies for window curtains. Dickens. Syn. -- Excuse. An apology, in the original sense of the word, was a pleading off from some charge or imputation, by explaining and defending one's principles or conduct. It therefore amounted to a vindication. One who offers an apology, admits himself to have been, at least apparently, in the wrong, but brings forward some palliating circumstance, or tenders a frank acknowledgment, by way of reparation. We make an apology for some breach of propriety or decorum (like rude expressions, unbecoming conduct, etc.), or some deficiency in what might be reasonably expected. We offer an excuse when we have been guilty of some breach or neglect of duty; and we do it by way of extenuating our fault, and with a view to be forgiven. When an excuse has been accepted, an apology may still, in some cases, be necessary or appropriate. \"An excuse is not grounded on the claim of innocence, but is rather an appeal for favor resting on some collateral circumstance. An apology mostly respects the conduct of individuals toward each other as equals; it is a voluntary act produced by feelings of decorum, or a desire for the good opinion of others.\" Crabb. To offer an apology. [Obs.] For which he can not well apology. J. Webster.",
-        "prefix": "apo",
-        "prefix_definition": "separation, derived from",
-        "suffix": "logy",
-        "suffix_definition": "study of"
-    },
-    {
         "word": "apophysis",
-        "definition": "1. (Anat.)  A marked prominence or process on any part of a bone. 2. (Bot.)  An enlargement at the top of a pedicel or stem, as seen in certain mosses. Gray.",
+        "definition": "1. (Anat.)  A marked prominence or process on any part of a bone.",
         "prefix": "apo",
         "prefix_definition": "separation, derived from",
         "suffix": "physis",
         "suffix_definition": "growth"
-    },
-    {
-        "word": "apotome",
-        "definition": "1. (Math.)  The difference between two quantities commensurable only in power, as between sq. root2 and 1, or between the diagonal and side of a square. 2. (Mus)  The remaining part of a whole tone after a smaller semitone has been deducted from it; a major semitone. [Obs.]",
-        "prefix": "apo",
-        "prefix_definition": "separation, derived from",
-        "suffix": "tome",
-        "suffix_definition": "cutting instrument"
-    },
-    {
-        "word": "appendant",
-        "definition": "1. Hanging; annexed; adjunct; concomitant; as, a seal appendant to a paper. As they have transmitted the benefit to us, it is but reasonable we should suffer the appendant calamity. Jer. Taylor. 2. (Law)  Appended by prescription, that is, a personal usage for a considerable time; -- said of a thing of inheritance belonging to another inheritance which is superior or more worthy; as, an advowson, common, etc. , which may be appendant to a manor, common of fishing to a freehold, a seat in church to a house. Wharton. Coke. 1. Anything attached to another as incidental or subordinate to it. 2. (Law)  A inheritance annexed by prescription to a superior inheritance.",
-        "prefix": "append",
-        "prefix_definition": "appendix",
-        "suffix": "ant",
-        "suffix_definition": "doing, having"
     },
     {
         "word": "appendectomy",
@@ -816,14 +608,6 @@
         "suffix_definition": "pertaining to"
     },
     {
-        "word": "appendicate",
-        "definition": "To append. [Obs.]",
-        "prefix": "appendic",
-        "prefix_definition": "appendix",
-        "suffix": "ate",
-        "suffix_definition": "status; state; function"
-    },
-    {
         "word": "appendicectomy",
         "definition": "Excision of the vermiform appendix.",
         "prefix": "appendic",
@@ -840,112 +624,16 @@
         "suffix_definition": "inflammation"
     },
     {
-        "word": "aqueous",
-        "definition": "1. Partaking of the nature of water, or abounding with it; watery. The aqueous vapor of the air. Tyndall. 2. Made from, or by means of, water. An aqueous deposit. Dana. Aqueous extract, an extract obtained from a vegetable substance by steeping it in water. -- Aqueous humor (Anat.), one the humors of the eye; a limpid fluid, occupying the space between the crystalline lens and the cornea. (See Eye.) -- Aqueous rocks (Geol.), those which are deposited from water and lie in strata, as opposed to volcanic rocks, which are of igneous origin; -- called also sedimentary rocks.",
-        "prefix": "aqueo",
-        "prefix_definition": "water",
-        "suffix": "us",
-        "suffix_definition": "structure"
-    },
-    {
-        "word": "aqueity",
-        "definition": "Wateriness. [Obs.]",
-        "prefix": "aque",
-        "prefix_definition": "water",
-        "suffix": "ity",
-        "suffix_definition": "condition"
-    },
-    {
-        "word": "archelogy",
-        "definition": "The science of, or a treatise on, first principles. Fleming.",
-        "prefix": "arche",
-        "prefix_definition": "first",
-        "suffix": "logy",
-        "suffix_definition": "study of"
-    },
-    {
-        "word": "archeology",
-        "definition": "Same as Arch\u00c3\u00a6ology, etc.",
-        "prefix": "arche",
-        "prefix_definition": "first",
-        "suffix": "ology",
-        "suffix_definition": "study of"
-    },
-    {
-        "word": "archetype",
-        "definition": "1. The original pattern or model of a work; or the model from which a thing is made or formed. The House of Commons, the archetype of all the representative assemblies which now meet. Macaulay. Types and shadows of that glorious archetype that was to come into the world. South. 2. (Coinage)  The standard weight or coin by which others are adjusted. 3. (Biol.)  The plan or fundamental structure on which a natural group of animals or plants or their systems of organs are assumed to have been constructed; as, the vertebrate archetype.",
-        "prefix": "arche",
-        "prefix_definition": "first",
-        "suffix": "type",
-        "suffix_definition": "class, grouping, type"
-    },
-    {
-        "word": "archeus",
-        "definition": "The vital principle or force which (according to the Paracelsians) presides over the growth and continuation of living beings; the anima mundi or plastic power of the old philosophers. [Obs.] Johnson.",
-        "prefix": "arche",
-        "prefix_definition": "first",
-        "suffix": "us",
-        "suffix_definition": "structure"
-    },
-    {
-        "word": "arching",
-        "definition": "1. The arched part of a structure. 2. (Naut.)  Hogging; -- opposed to sagging.",
-        "prefix": "arch",
-        "prefix_definition": "first",
-        "suffix": "ing",
-        "suffix_definition": "action, process (verb)"
-    },
-    {
-        "word": "archive",
-        "definition": "1. pl.  The place in which public records or historic documents are kept. Our words . . . . become records in God's court, and are laid up in his archives as witnesses. Gov. of Tongue. 2. pl.  Public records or documents preserved as evidence of facts; as, the archives of a country or family. [Rarely used in sing.] Some rotten archive, rummaged out of some seldom explored press. Lamb. Syn. -- Registers; records; chronicles.",
-        "prefix": "arch",
-        "prefix_definition": "first",
-        "suffix": "ive",
-        "suffix_definition": "character, quality"
-    },
-    {
-        "word": "archon",
-        "definition": "One of the chief magistrates in ancient Athens, especially, by pre\u00c3\u00abminence, the first of the nine chief magistrates. -- Ar*chon\"tic, a.",
-        "prefix": "arch",
-        "prefix_definition": "first",
-        "suffix": "on",
-        "suffix_definition": "that goes"
-    },
-    {
-        "word": "archy",
-        "definition": "Arched; as, archy brows. A suffix properly meaning a rule, ruling, as in monarchy, the rule of one only. Cf. -arch.",
-        "prefix": "arch",
-        "prefix_definition": "first",
-        "suffix": "y",
-        "suffix_definition": "condition, process"
-    },
-    {
         "word": "arteritis",
-        "definition": "Inflammation of an artery or arteries. Dunglison.",
+        "definition": "Inflammation of an artery or arteries.",
         "prefix": "arter",
         "prefix_definition": "artery",
         "suffix": "itis",
         "suffix_definition": "inflammation"
     },
     {
-        "word": "artery",
-        "definition": "1. The trachea or windpipe. [Obs.] \"Under the artery, or windpipe, is the mouth of the stomach.\" Holland. 2. (Anat.)  One of the vessels or tubes which carry either venous or arterial blood from the heart. They have tricker and more muscular walls than veins, and are connected with them by capillaries. Note: In man and other mammals, the arteries which contain arterialized blood receive it from the left ventricle of the heart through the aorta. See Aorta. The pulmonary artery conveys the venous blood from the right ventricle to the lungs, whence the arterialized blood is returned through the pulmonary veins. 3. Hence: Any continuous or ramified channel of communication; as, arteries of trade or commerce.",
-        "prefix": "arter",
-        "prefix_definition": "artery",
-        "suffix": "y",
-        "suffix_definition": "condition, process"
-    },
-    {
-        "word": "arteriography",
-        "definition": "A systematic description of the arteries.",
-        "prefix": "arterio",
-        "prefix_definition": "artery",
-        "suffix": "graphy",
-        "suffix_definition": "recording (process)"
-    },
-    {
         "word": "arteriology",
-        "definition": "That part of anatomy which treats of arteries.",
+        "definition": "The branch of angiology dealing with the arteries.",
         "prefix": "arterio",
         "prefix_definition": "artery",
         "suffix": "logy",
@@ -953,7 +641,7 @@
     },
     {
         "word": "arteriosclerosis",
-        "definition": "Abnormal thickening and hardening of the walls of the arteries, esp. of the intima, occurring mostly in old age. -- Ar*te`ri*o*scle*rot\"ic (#), a.",
+        "definition": "Abnormal thickening and hardening of the walls of the arteries, esp. of the intima, occurring mostly in old age.",
         "prefix": "arterio",
         "prefix_definition": "artery",
         "suffix": "sclerosis",
@@ -961,7 +649,7 @@
     },
     {
         "word": "arteriotomy",
-        "definition": "1. (Med.)  The opening of an artery, esp. for bloodletting. 2. That part of anatomy which treats of the dissection of the arteries.",
+        "definition": "The opening of an artery, esp. for bloodletting.",
         "prefix": "arterio",
         "prefix_definition": "artery",
         "suffix": "tomy",
@@ -973,11 +661,11 @@
         "prefix": "arteri",
         "prefix_definition": "artery",
         "suffix": "ac",
-        "suffix_definition": "pertaining to (Gr. akos)"
+        "suffix_definition": "pertaining to"
     },
     {
         "word": "arterial",
-        "definition": "1. Of or pertaining to an artery, or the arteries; as, arterial action; the arterial system. 2. Of or pertaining to a main channel (resembling an artery), as a river, canal, or railroad. Arterial blood, blood which has been changed and vitalized (arterialized) during passage through the lungs.",
+        "definition": "1. Of or pertaining to an artery, or the arteries; as, arterial action; the arterial system. 2. Of or pertaining to a main channel (resembling an artery).",
         "prefix": "arteri",
         "prefix_definition": "artery",
         "suffix": "al",
@@ -1056,22 +744,6 @@
         "suffix_definition": "inflammation"
     },
     {
-        "word": "articulary",
-        "definition": "A bone in the base of the lower jaw of many birds, reptiles, amphibians, and fishes.",
-        "prefix": "articul",
-        "prefix_definition": "joint",
-        "suffix": "ary",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "articulate",
-        "definition": "1. Expressed in articles or in separate items or particulars. [Archaic] Bacon. 2. Jointed; formed with joints; consisting of segments united by joints; as, articulate animals or plants. 3. Distinctly uttered; spoken so as to be intelligible; characterized by division into words and syllables; as, articulate speech, sounds, words. Total changes of party and articulate opinion. Carlyle. An animal of the subkingdom Articulata. 1. To utter articulate sounds; to utter the elementary sounds of a language; to enunciate; to speak distinctly. 2. To treat or make terms. [Obs.] Shak. 3. To join or be connected by articulation. 1. To joint; to unite by means of a joint; to put together with joints or at the joints. 2. To draw up or write in separate articles; to particularize; to specify. [Obs.] 3. To form, as the elementary sounds; to utter in distinct syllables or words; to enunciate; as, to articulate letters or language. \"To articulate a word.\" Ray. 4. To express distinctly; to give utterance to. Luther articulated himself upon a process that hand already begun in the Christian church. Bibliotheca Sacra. To . . . articulate the dumb, deep want of the people. Carlyle.",
-        "prefix": "articul",
-        "prefix_definition": "joint",
-        "suffix": "ate",
-        "suffix_definition": "status; state; function"
-    },
-    {
         "word": "articulus",
         "definition": "A joint of the cirri of the Crinoidea; a joint or segment of an arthropod appendage.",
         "prefix": "articul",
@@ -1080,40 +752,8 @@
         "suffix_definition": "structure"
     },
     {
-        "word": "aspirant",
-        "definition": "Aspiring. One who aspires; one who eagerly seeks some high position or object of attainment. In consequence of the resignations . . . the way to greatness was left clear to a new set of aspirants. Macaulay.",
-        "prefix": "aspir",
-        "prefix_definition": "inhaling",
-        "suffix": "ant",
-        "suffix_definition": "doing, having"
-    },
-    {
-        "word": "aspirate",
-        "definition": "To pronounce with a breathing, an aspirate, or an h sound; as, we aspirate the words horse and house; to aspirate a vowel or a liquid consonant. 1. A sound consisting of, or characterized by, a breath like the sound of h; the breathing h or a character representing such a sound; an aspirated sound. 2. A mark of aspiration used in Greek; the asper, or rough breathing. Bentley. 3. An elementary sound produced by the breath alone; a surd, or nonvocal consonant; as, f, th in thin, etc. Pronounced with the h sound or with audible breath. But yet they are not aspirate, i. e., with such an aspiration as h. Holder.",
-        "prefix": "aspir",
-        "prefix_definition": "inhaling",
-        "suffix": "ate",
-        "suffix_definition": "status; state; function"
-    },
-    {
-        "word": "aspiring",
-        "definition": "That aspires; as, an Aspiring mind. -- As*pir\"ing*ly, adv. -- As*pir\"ing*ness, n.",
-        "prefix": "aspir",
-        "prefix_definition": "inhaling",
-        "suffix": "ing",
-        "suffix_definition": "action, process (verb)"
-    },
-    {
-        "word": "aspiration",
-        "definition": "1. The act of aspirating; the pronunciation of a letter with a full or strong emission of breath; an aspirated sound. If aspiration be defined to be an impetus of breathing. Wilkins. 2. The act of breathing; a breath; an inspiration. 3. The act of aspiring of a ardently desiring; strong wish; high desire. \"Aspirations after virtue.\" Johnson. Vague aspiration after military renown. Prescott.",
-        "prefix": "aspirat",
-        "prefix_definition": "inhale, removal",
-        "suffix": "ion",
-        "suffix_definition": "process of"
-    },
-    {
         "word": "aspirator",
-        "definition": "1. (Chem.)  An apparatus for passing air or gases through or over certain liquids or solids, or for exhausting a closed vessel, by means of suction. 2. (Med.)  An instrument for the evacuation of the fluid contents of tumors or collections of blood.",
+        "definition": "An instrument for the evacuation of the fluid contents of tumors or collections of blood.",
         "prefix": "aspirat",
         "prefix_definition": "inhale, removal",
         "suffix": "or",
@@ -1126,22 +766,6 @@
         "prefix_definition": "inhale, removal",
         "suffix": "ory",
         "suffix_definition": "relating to"
-    },
-    {
-        "word": "atherine",
-        "definition": "A small marine fish of the family Atherinid\u00c3\u00a6, having a silvery stripe along the sides. The European species (Atherina presbyter) is used as food. The American species (Menidia notata) is called silversides and sand smelt. See Silversides.",
-        "prefix": "ather",
-        "prefix_definition": "fatty plaque",
-        "suffix": "ine",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "atheroid",
-        "definition": "Shaped like an ear of grain.",
-        "prefix": "ather",
-        "prefix_definition": "fatty plaque",
-        "suffix": "oid",
-        "suffix_definition": "pertaining to, resemble"
     },
     {
         "word": "atheroma",
@@ -1161,7 +785,7 @@
     },
     {
         "word": "atrium",
-        "definition": "1. (Arch.) (a) A square hall lighted from above, into which rooms open at one or more levels. (b) An open court with a porch or gallery around three or more sides; especially at the entrance of a basilica or other church. The name was extended in the Middle Ages to the open churchyard or cemetery. 2. (Anat.)  The main part of either auricle of the heart as distinct from the auricular appendix. Also, the whole articular portion of the heart. 3. (Zo\u00c3\u00b6l.)  A cavity in ascidians into which the intestine and generative ducts open, and which also receives the water from the gills. See Ascidioidea.",
+        "definition": "The main part of either auricle of the heart as distinct from the auricular appendix. Also, the whole articular portion of the heart.",
         "prefix": "atri",
         "prefix_definition": "atrium",
         "suffix": "um",
@@ -1176,32 +800,8 @@
         "suffix_definition": "instrument for measuring"
     },
     {
-        "word": "audition",
-        "definition": "The act of hearing or listening; hearing. Audition may be active or passive; hence the difference between listening and simple hearing. Dunglison.",
-        "prefix": "audit",
-        "prefix_definition": "hearing",
-        "suffix": "ion",
-        "suffix_definition": "process of"
-    },
-    {
-        "word": "auditive",
-        "definition": "Of or pertaining to hearing; auditory. [R.] Cotgrave.",
-        "prefix": "audit",
-        "prefix_definition": "hearing",
-        "suffix": "ive",
-        "suffix_definition": "character, quality"
-    },
-    {
-        "word": "auditor",
-        "definition": "1. A hearer or listener. Macaulay. 2. A person appointed and authorized to audit or examine an account or accounts, compare the charges with the vouchers, examine the parties and witnesses, allow or reject charges, and state the balance. 3. One who hears judicially, as in an audience court. Note: In the United States government, and in the State governments, there are auditors of the treasury and of the public accounts. The name is also applied to persons employed to check the accounts of courts, corporations, companies, societies, and partnerships.",
-        "prefix": "audit",
-        "prefix_definition": "hearing",
-        "suffix": "or",
-        "suffix_definition": "doer, one who"
-    },
-    {
         "word": "auditory",
-        "definition": "Of or pertaining to hearing, or to the sense or organs of hearing; as, the auditory nerve. See Ear. Auditory canal (Anat.), the tube from the auditory meatus or opening of the ear to the tympanic membrane. 1. An assembly of hearers; an audience. 2. An auditorium. Udall.",
+        "definition": "Of or pertaining to hearing, or to the sense or organs of hearing; as, the auditory nerve. The tube from the auditory meatus or opening of the ear to the tympanic membrane.",
         "prefix": "audit",
         "prefix_definition": "hearing",
         "suffix": "ory",
@@ -1209,7 +809,7 @@
     },
     {
         "word": "auricle",
-        "definition": "1. (Anat.) (a) The external ear, or that part of the ear which is prominent from the head. (b) The chamber, or one of the two chambers, of the heart, by which the blood is received and transmitted to the ventricle or ventricles; -- so called from its resemblance to the auricle or external ear of some quadrupeds. See Heart. 2. (Zo\u00c3\u00b6l.)  An angular or ear-shaped lobe. 3. An instrument applied to the ears to give aid in hearing; a kind of ear trumpet. Mansfield.",
+        "definition": "The external ear, or that part of the ear which is prominent from the head. The chamber, or one of the two chambers, of the heart, by which the blood is received and transmitted to the ventricle or ventricles; -- so called from its resemblance to the auricle or external ear of some quadrupeds.",
         "prefix": "auri",
         "prefix_definition": "ear",
         "suffix": "cle",
@@ -1222,14 +822,6 @@
         "prefix_definition": "ear",
         "suffix": "form",
         "suffix_definition": "shape of"
-    },
-    {
-        "word": "aurigraphy",
-        "definition": "The art of writing with or in gold.",
-        "prefix": "auri",
-        "prefix_definition": "ear",
-        "suffix": "graphy",
-        "suffix_definition": "recording (process)"
     },
     {
         "word": "auriscope",
@@ -1249,51 +841,19 @@
     },
     {
         "word": "aural",
-        "definition": "Of or pertaining to the air, or to an aura. Of or pertaining to the ear; as, aural medicine and surgery.",
+        "definition": "Of or pertaining to the ear; as, aural medicine and surgery.",
         "prefix": "aur",
         "prefix_definition": "ear",
         "suffix": "al",
         "suffix_definition": "pertaining to"
     },
     {
-        "word": "aurate",
-        "definition": "A combination of auric acid with a base; as, aurate or potassium.",
-        "prefix": "aur",
-        "prefix_definition": "ear",
-        "suffix": "ate",
-        "suffix_definition": "status; state; function"
-    },
-    {
-        "word": "auric",
-        "definition": "1. Of or pertaining to gold. 2. (Chem.)  Pertaining to, or derived from, gold; -- said of those compounds of gold in which this element has its higher valence; as, auric oxide; auric chloride.",
-        "prefix": "aur",
-        "prefix_definition": "ear",
-        "suffix": "ic",
-        "suffix_definition": "pertaining to"
-    },
-    {
         "word": "aurist",
-        "definition": "One skilled in treating and curing disorders of the ear.",
+        "definition": "A physician specialized in the treatment of ear diseases.",
         "prefix": "aur",
         "prefix_definition": "ear",
         "suffix": "ist",
         "suffix_definition": "specialist"
-    },
-    {
-        "word": "aurous",
-        "definition": "1. Containing gold. 2. (Chem.)  Pertaining to, or derived from, gold; -- said of those compounds of gold in which this element has its lower valence; as, aurous oxide.",
-        "prefix": "aur",
-        "prefix_definition": "ear",
-        "suffix": "ous",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "aurum",
-        "definition": "Gold. Aurum fulminans (See Fulminate. -- Aurum mosaicum (See Mosaic.",
-        "prefix": "aur",
-        "prefix_definition": "ear",
-        "suffix": "um",
-        "suffix_definition": "structure"
     },
     {
         "word": "autogenesis",
@@ -1302,22 +862,6 @@
         "prefix_definition": "self, same",
         "suffix": "genesis",
         "suffix_definition": "formation, producing"
-    },
-    {
-        "word": "autograph",
-        "definition": "That which is written with one's own hand; an original manuscript; a person's own signature or handwriting. In one's own handwriting; as, an autograph letter; an autograph will.",
-        "prefix": "auto",
-        "prefix_definition": "self, same",
-        "suffix": "graph",
-        "suffix_definition": "recording instrument"
-    },
-    {
-        "word": "autography",
-        "definition": "1. The science of autographs; a person's own handwriting; an autograph. 2. A process in lithography by which a writing or drawing is transferred from paper to stone. Ure.",
-        "prefix": "auto",
-        "prefix_definition": "self, same",
-        "suffix": "graphy",
-        "suffix_definition": "recording (process)"
     },
     {
         "word": "autokinesis",
@@ -1337,23 +881,15 @@
     },
     {
         "word": "autotrophic",
-        "definition": "Capable of self-nourishment; -- said of all plants in which photosynthetic activity takes place, as opposed to parasitism or saprophytism.",
+        "definition": "Capable of self-nourishment; -- said of all plants in which photosynthetic activity takes place.",
         "prefix": "auto",
         "prefix_definition": "self, same",
         "suffix": "trophic",
         "suffix_definition": "growth, development"
     },
     {
-        "word": "autotype",
-        "definition": "1. A facsimile. 2. A photographic picture produced in sensitized pigmented gelatin by exposure to light under a negative; and subsequent washing out of the soluble parts; a kind of picture in ink from a gelatin plate.",
-        "prefix": "auto",
-        "prefix_definition": "self, same",
-        "suffix": "type",
-        "suffix_definition": "class, grouping, type"
-    },
-    {
         "word": "axillary",
-        "definition": "1. (Anat.)  Of or pertaining to the axilla or armpit; as, axillary gland, artery, nerve. 2. (Bot.)  Situated in, or rising from, an axil; of or pertaining to an axil. \"Axillary buds.\" Gray.",
+        "definition": "Of or pertaining to the axilla or armpit; as, axillary gland, artery, nerve.",
         "prefix": "axill",
         "prefix_definition": "armpit",
         "suffix": "ary",
@@ -1369,7 +905,7 @@
     },
     {
         "word": "bacteriolysis",
-        "definition": "1. Chemical decomposition brought about by bacteria without the addition of oxygen. 2.  The destruction or dissolution of bacterial cells. -- Bac*te`ri*o*lyt\"ic (#), a.",
+        "definition": "1. Chemical decomposition brought about by bacteria without the addition of oxygen.",
         "prefix": "bacterio",
         "prefix_definition": "bacteria",
         "suffix": "lysis",
@@ -1400,14 +936,6 @@
         "suffix_definition": "killing, destroying"
     },
     {
-        "word": "bactericide",
-        "definition": "Same as Germicide.",
-        "prefix": "bacteri",
-        "prefix_definition": "bacteria",
-        "suffix": "cide",
-        "suffix_definition": "killing"
-    },
-    {
         "word": "bacteriologist",
         "definition": "One skilled in bacteriology.",
         "prefix": "bacteri",
@@ -1417,139 +945,11 @@
     },
     {
         "word": "bacterium",
-        "definition": "A microscopic vegetable organism, belonging to the class Alg\u00c3\u00a6, usually in the form of a jointed rodlike filament, and found in putrefying organic infusions. Bacteria are destitute of chlorophyll, and are the smallest of microscopic organisms. They are very widely diffused in nature, and multiply with marvelous rapidity, both by fission and by spores. Certain species are active agents in fermentation, while others appear to be the cause of certain infectious diseases. See Bacillus.",
+        "definition": "A microscopic vegetable organism, usually in the form of a jointed rodlike filament, and found in putrefying organic infusions. Bacteria are destitute of chlorophyll, and are the smallest of microscopic organisms.",
         "prefix": "bacteri",
         "prefix_definition": "bacteria",
         "suffix": "um",
         "suffix_definition": "structure"
-    },
-    {
-        "word": "balanoid",
-        "definition": "Resembling an acorn; -- applied to a group of barnacles having shells shaped like acorns. See Acornshell, and Barnacle.",
-        "prefix": "balan",
-        "prefix_definition": "glans penis",
-        "suffix": "oid",
-        "suffix_definition": "pertaining to, resemble"
-    },
-    {
-        "word": "barogram",
-        "definition": "A tracing, usually made by the barograph, showing graphically the variations of atmospheric pressure for a given time.",
-        "prefix": "baro",
-        "prefix_definition": "pressure",
-        "suffix": "gram",
-        "suffix_definition": "image/record"
-    },
-    {
-        "word": "barograph",
-        "definition": "An instrument for recording automatically the variations of atmospheric pressure.",
-        "prefix": "baro",
-        "prefix_definition": "pressure",
-        "suffix": "graph",
-        "suffix_definition": "recording instrument"
-    },
-    {
-        "word": "barology",
-        "definition": "The science of weight or gravity.",
-        "prefix": "baro",
-        "prefix_definition": "pressure",
-        "suffix": "logy",
-        "suffix_definition": "study of"
-    },
-    {
-        "word": "barometer",
-        "definition": "An instrument for determining the weight or pressure of the atmosphere, and hence for judging of the probable changes of weather, or for ascertaining the height of any ascent. Note: The barometer was invented by Torricelli at Florence about 1643. It is made in its simplest form by filling a graduated glass tube about 34 inches long with mercury and inverting it in a cup containing mercury. The column of mercury in the tube descends until balanced by the weight of the atmosphere, and its rise or fall under varying conditions is a measure of the change in the atmospheric pressure. At the sea level its ordinary height is about 30 inches (760 millimeters). See Sympiesometer. Nichol. Aneroid barometer. See Aneroid barometer, under Aneroid. -- Marine barometer, a barometer with tube contracted at bottom to prevent rapid oscillations of the mercury, and suspended in gimbals from an arm or support on shipboard. -- Mountain barometer, a portable mercurial barometer with tripod support, and long scale, for measuring heights. -- Siphon barometer, a barometer having a tube bent like a hook with the longer leg closed at the top. The height of the mercury in the longer leg shows the pressure of the atmosphere. -- Wheel barometer, a barometer with recurved tube, and a float, from which a cord passes over a pulley and moves an index.",
-        "prefix": "baro",
-        "prefix_definition": "pressure",
-        "suffix": "meter",
-        "suffix_definition": "instrument for measuring"
-    },
-    {
-        "word": "barometry",
-        "definition": "The art or process of making barometrical measurements.",
-        "prefix": "baro",
-        "prefix_definition": "pressure",
-        "suffix": "metry",
-        "suffix_definition": "process of measuring"
-    },
-    {
-        "word": "baroscope",
-        "definition": "Any instrument showing the changes in the weight of the atmosphere; also, less appropriately, any instrument that indicates - or foreshadows changes of the weather, as a deep vial of liquid holding in suspension some substance which rises and falls with atmospheric changes.",
-        "prefix": "baro",
-        "prefix_definition": "pressure",
-        "suffix": "scope",
-        "suffix_definition": "visual examination instrument"
-    },
-    {
-        "word": "barad",
-        "definition": "The pressure of one dyne per square centimeter; -- used as a unit of pressure.",
-        "prefix": "bar",
-        "prefix_definition": "pressure",
-        "suffix": "ad",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "baria",
-        "definition": "Baryta.",
-        "prefix": "bar",
-        "prefix_definition": "pressure",
-        "suffix": "ia",
-        "suffix_definition": "condition"
-    },
-    {
-        "word": "baric",
-        "definition": "Of or pertaining to barium; as, baric oxide. Of or pertaining to weight, esp. to the weight or pressure of the atmosphere as measured by the barometer.",
-        "prefix": "bar",
-        "prefix_definition": "pressure",
-        "suffix": "ic",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "baron",
-        "definition": "1. A title or degree of nobility; originally, the possessor of a fief, who had feudal tenants under him; in modern times, in France and Germany, a nobleman next in rank below a count; in England, a nobleman of the lowest grade in the House of Lords, being next below a viscount. Note: \"The tenants in chief from the Crown, who held lands of the annual value of four hundred pounds, were styled Barons; and it is to them, and not to the members of the lowest grade of the nobility (to whom the title at the present time belongs), that reference is made when we read of the Barons of the early days of England's history . . . . Barons are addressed as 'My Lord,' and are styled 'Right Honorable.' All their sons and daughters 'Honorable.'\" Cussans. 2. (Old Law)  A husband; as, baron and feme, husband and wife. [R.] Cowell. Baron of beef, two sirloins not cut asunder at the backbone. -- Barons of the Cinque Ports, formerly members of the House of Commons, elected by the seven Cinque Ports, two for each port. -- Baron of the exchequer, the judges of the Court of Exchequer, one of the three ancient courts of England, now abolished.",
-        "prefix": "bar",
-        "prefix_definition": "pressure",
-        "suffix": "on",
-        "suffix_definition": "that goes"
-    },
-    {
-        "word": "basal",
-        "definition": "Relating to, or forming, the base. Basal cleavage. See under Cleavage. -- Basal plane (Crystallog.), one parallel to the lateral or horizontal axis.",
-        "prefix": "bas",
-        "prefix_definition": "base, foundation",
-        "suffix": "al",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "basic",
-        "definition": "1. (Chem.) (a) Relating to a base; performing the office of a base in a salt. (b) Having the base in excess, or the amount of the base atomically greater than that of the acid, or exceeding in proportion that of the related neutral salt. (c) Apparently alkaline, as certain normal salts which exhibit alkaline reactions with test paper. 2. (Min.)  Said of crystalline rocks which contain a relatively low percentage of silica, as basalt. Basic salt (Chem.), a salt formed from a base or hydroxide by the partial replacement of its hydrogen by a negative or acid element or radical.",
-        "prefix": "bas",
-        "prefix_definition": "base, foundation",
-        "suffix": "ic",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "basion",
-        "definition": "The middle of the anterior margin of the great foramen of the skull.",
-        "prefix": "bas",
-        "prefix_definition": "base, foundation",
-        "suffix": "ion",
-        "suffix_definition": "process of"
-    },
-    {
-        "word": "basis",
-        "definition": "1. The foundation of anything; that on which a thing rests. Dryden. 2. The pedestal of a column, pillar, or statue. [Obs.] If no basis bear my rising name. Pope. 3. The ground work the first or fundamental principle; that which supports. The basis of public credit is good faith. A. Hamilton. 4. The principal component part of a thing.",
-        "prefix": "bas",
-        "prefix_definition": "base, foundation",
-        "suffix": "is",
-        "suffix_definition": "(noun form)"
-    },
-    {
-        "word": "bason",
-        "definition": "A basin. [Obs. or Special form]",
-        "prefix": "bas",
-        "prefix_definition": "base, foundation",
-        "suffix": "on",
-        "suffix_definition": "that goes"
     },
     {
         "word": "biceps",
@@ -1561,7 +961,7 @@
     },
     {
         "word": "biform",
-        "definition": "Having two forms, bodies, or shapes. Croxall.",
+        "definition": "Having two forms, bodies, or shapes.",
         "prefix": "bi",
         "prefix_definition": "two",
         "suffix": "form",
@@ -1570,34 +970,18 @@
     {
         "word": "biologist",
         "definition": "A student of biology; one versed in the science of biology.",
-        "prefix": "bi",
-        "prefix_definition": "two",
-        "suffix": "ologist",
+        "prefix": "bio",
+        "prefix_definition": "life",
+        "suffix": "logist",
         "suffix_definition": "one who studies"
     },
     {
         "word": "biology",
         "definition": "The science of life; that branch of knowledge which treats of living matter as distinct from matter which is not living; the study of living tissue. It has to do with the origin, structure, development, function, and distribution of animals and plants.",
-        "prefix": "bi",
-        "prefix_definition": "two",
-        "suffix": "ology",
-        "suffix_definition": "study of"
-    },
-    {
-        "word": "bion",
-        "definition": "The physiological individual, characterized by definiteness and independence of function, in distinction from the morphological individual or morphon.",
-        "prefix": "bi",
-        "prefix_definition": "two",
-        "suffix": "on",
-        "suffix_definition": "that goes"
-    },
-    {
-        "word": "bioblast",
-        "definition": "Same as Bioplast.",
         "prefix": "bio",
-        "prefix_definition": "life, living",
-        "suffix": "blast",
-        "suffix_definition": "immature, early stage cell"
+        "prefix_definition": "life",
+        "suffix": "logy",
+        "suffix_definition": "study of"
     },
     {
         "word": "biogen",
@@ -1609,7 +993,7 @@
     },
     {
         "word": "biogenesis",
-        "definition": "(a) A doctrine that the genesis or production of living organisms can take place only through the agency of living germs or parents; -- opposed to abiogenesis. (b) Life development generally.",
+        "definition": "the synthesis of substances by living organisms.",
         "prefix": "bio",
         "prefix_definition": "life, living",
         "suffix": "genesis",
@@ -1624,44 +1008,12 @@
         "suffix_definition": "knowledge"
     },
     {
-        "word": "biograph",
-        "definition": "1.  An animated picture machine for screen projection; a cinematograph. 2.  [Cf. Biography.] A biographical sketch. [Rare]",
-        "prefix": "bio",
-        "prefix_definition": "life, living",
-        "suffix": "graph",
-        "suffix_definition": "recording instrument"
-    },
-    {
         "word": "biography",
-        "definition": "1. The written history of a person's life. 2. Biographical writings in general.",
+        "definition": "1. The written history of a person's life.",
         "prefix": "bio",
         "prefix_definition": "life, living",
         "suffix": "graphy",
         "suffix_definition": "recording (process)"
-    },
-    {
-        "word": "biolysis",
-        "definition": "The destruction of life.",
-        "prefix": "bio",
-        "prefix_definition": "life, living",
-        "suffix": "lysis",
-        "suffix_definition": "breakdown, destruction"
-    },
-    {
-        "word": "biolytic",
-        "definition": "Relating to the destruction of life.",
-        "prefix": "bio",
-        "prefix_definition": "life, living",
-        "suffix": "lytic",
-        "suffix_definition": "decomposition"
-    },
-    {
-        "word": "biometry",
-        "definition": "Measurement of life; calculation of the probable duration of human life.",
-        "prefix": "bio",
-        "prefix_definition": "life, living",
-        "suffix": "metry",
-        "suffix_definition": "process of measuring"
     },
     {
         "word": "bioplasm",
@@ -1689,7 +1041,7 @@
     },
     {
         "word": "biotic",
-        "definition": "Relating to life; as, the biotic principle.",
+        "definition": "Relating to life.",
         "prefix": "bio",
         "prefix_definition": "life, living",
         "suffix": "tic",
@@ -1697,7 +1049,7 @@
     },
     {
         "word": "biliary",
-        "definition": "Relating or belonging to bile; conveying bile; as, biliary acids; biliary ducts. Biliary calculus (Med.), a gallstone, or a concretion formed in the gall bladder or its duct.",
+        "definition": "Relating or belonging to bile.",
         "prefix": "bili",
         "prefix_definition": "bile",
         "suffix": "ary",
@@ -1705,7 +1057,7 @@
     },
     {
         "word": "bilious",
-        "definition": "1. Of or pertaining to the bile. 2. Disordered in respect to the bile; troubled with and excess of bile; as, a bilious patient; dependent on, or characterized by, an excess of bile; as, bilious symptoms. 3. Choleric; passionate; ill tempered. \"A bilious old nabob.\" Macaulay. Bilious temperament. See Temperament.",
+        "definition": "1. Of or pertaining to the bile.",
         "prefix": "bili",
         "prefix_definition": "bile",
         "suffix": "ous",
