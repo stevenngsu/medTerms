@@ -1,8 +1,10 @@
 const words = require("../main_dictionaries/psmedTerms_dictionary.json");
 
-let random = Math.floor(Math.random() * words.length);
+const random = () => {
+    return Math.floor(Math.random() * words.length);
+}
 
-export const todaysObj = words[random];
+export let todaysObj = words[random()];
 
 export const generateWordSet = async () => {
     let wordArr = [];
@@ -15,3 +17,4 @@ export const generateWordSet = async () => {
 };
 
 export const guesses = 1;
+

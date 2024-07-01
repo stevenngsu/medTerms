@@ -13,19 +13,28 @@ body {
 header {
   height: 60px;
   width: 100%;
-  margin: 0;
   border-bottom: 1px solid grey;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  padding: 0.5rem;
 }
 
-header h1 {
+h1 {
   margin: 0;
   color: white;
-  font-size: 45px;
+  font-size: 38px;
   text-align: center;
+  margin-left: 2rem;
 }
 
-header button {
-  margin-top: 0.5rem;
+.tips {
+  width: 2rem;
+  height: 2rem;
+  background-color: #121212;;
+  color: white;
+  border-color: white;
 }
 
 .game {
@@ -62,7 +71,6 @@ header button {
   justify-content: center;
   margin: 5px;
   width: 100%;
-  margin-top: 30px;
 }
 
 .letter {

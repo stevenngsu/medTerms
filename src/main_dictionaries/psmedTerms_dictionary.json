@@ -408,22 +408,6 @@
         "suffix_definition": "formation, producing"
     },
     {
-        "word": "amylogenesis",
-        "definition": "The formation of starch.",
-        "prefix": "amylo",
-        "prefix_definition": "starch",
-        "suffix": "genesis",
-        "suffix_definition": "formation, producing"
-    },
-    {
-        "word": "amylogenic",
-        "definition": "Forming starch",
-        "prefix": "amylo",
-        "prefix_definition": "starch",
-        "suffix": "genic",
-        "suffix_definition": "produced by"
-    },
-    {
         "word": "amylolysis",
         "definition": "The conversion of starch into soluble products, as dextrins and sugar, especially by the action of enzymes.",
         "prefix": "amylo",
@@ -446,14 +430,6 @@
         "prefix_definition": "starch",
         "suffix": "meter",
         "suffix_definition": "instrument for measuring"
-    },
-    {
-        "word": "amylate",
-        "definition": "A compound of the radical amyl with oxygen and a positive atom or radical.",
-        "prefix": "amyl",
-        "prefix_definition": "starch",
-        "suffix": "ate",
-        "suffix_definition": "status; state; function"
     },
     {
         "word": "amylic",
@@ -4248,148 +4224,12 @@
         "suffix_definition": "study of"
     },
     {
-        "word": "dactylic",
-        "definition": "Pertaining to, consisting chiefly or wholly of, dactyls; as, dactylic verses. 1. A line consisting chiefly or wholly of dactyls; as, these lines are dactylics. 2. pl.  Dactylic meters.",
-        "prefix": "dactyl",
-        "prefix_definition": "finger or toe (digit)",
-        "suffix": "ic",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "dactylist",
-        "definition": "A writer of dactylic verse.",
-        "prefix": "dactyl",
-        "prefix_definition": "finger or toe (digit)",
-        "suffix": "ist",
-        "suffix_definition": "specialist"
-    },
-    {
         "word": "dactylitis",
-        "definition": "An inflammatory affection of the fingers. Gross.",
+        "definition": "An inflammatory affection of the fingers.",
         "prefix": "dactyl",
         "prefix_definition": "finger or toe (digit)",
         "suffix": "itis",
         "suffix_definition": "inflammation"
-    },
-    {
-        "word": "dead",
-        "definition": "1. Deprived of life; -- opposed to alive and living; reduced to that state of a being in which the organs of motion and life have irrevocably ceased to perform their functions; as, a dead tree; a dead man. \"The queen, my lord, is dead.\" Shak. The crew, all except himself, were dead of hunger. Arbuthnot. Seek him with candle, bring him dead or living. Shak. 2. Destitute of life; inanimate; as, dead matter. 3. Resembling death in appearance or quality; without show of life; deathlike; as, a dead sleep. 4. Still as death; motionless; inactive; useless; as, dead calm; a dead load or weight. 5. So constructed as not to transmit sound; soundless; as, a dead floor. 6. Unproductive; bringing no gain; unprofitable; as, dead capital; dead stock in trade. 7. Lacking spirit; dull; lusterless; cheerless; as, dead eye; dead fire; dead color, etc. 8. Monotonous or unvaried; as, a dead level or pain; a dead wall. \"The ground is a dead flat.\" C. Reade. 9. Sure as death; unerring; fixed; complete; as, a dead shot; a dead certainty. I had them a dead bargain. Goldsmith. 10. Bringing death; deadly. Shak. 11. Wanting in religious spirit and vitality; as, dead faith; dead works. \"Dead in trespasses.\" Eph. ii. 1. 12. (Paint.) (a) Flat; without gloss; -- said of painting which has been applied purposely to have this effect. (b) Not brilliant; not rich; thus, brown is a dead color, as compared with crimson. 13. (Law)  Cut off from the rights of a citizen; deprived of the power of enjoying the rights of property; as, one banished or becoming a monk is civilly dead. 14. (Mach.)  Not imparting motion or power; as, the dead spindle of a lathe, etc. See Spindle. Dead ahead (Naut.), directly ahead; -- said of a ship or any object, esp. of the wind when blowing from that point toward which a vessel would go. -- Dead angle (Mil.), an angle or space which can not be seen or defended from behind the parapet. -- Dead block, either of two wooden or iron blocks intended to serve instead of buffers at the end of a freight car. -- Dead calm (Naut.), no wind at all. -- Dead center, or Dead point (Mach.), either of two points in the orbit of a crank, at which the crank and connecting rod lie a straight line. It corresponds to the end of a stroke; as, A and B are dead centers of the crank mechanism in which the crank C drives, or is driven by, the lever L. -- Dead color (Paint.), a color which has no gloss upon it. -- Dead coloring (Oil paint.), the layer of colors, the preparation for what is to follow. In modern painting this is usually in monochrome. -- Dead door (Shipbuilding), a storm shutter fitted to the outside of the quarter-gallery door. -- Dead flat (Naut.), the widest or midship frame. -- Dead freight (Mar. Law), a sum of money paid by a person who charters a whole vessel but fails to make out a full cargo. The payment is made for the unoccupied capacity. Abbott. -- Dead ground (Mining), the portion of a vein in which there is no ore. -- Dead hand, a hand that can not alienate, as of a person civilly dead. \"Serfs held in dead hand.\" Morley. See Mortmain. -- Dead head (Naut.), a rough block of wood used as an anchor buoy. -- Dead heat, a heat or course between two or more race horses, boats, etc., in which they come out exactly equal, so that neither wins. -- Dead horse, an expression applied to a debt for wages paid in advance. [Law] -- Dead language, a language which is no longer spoken or in common use by a people, and is known only in writings, as the Hebrew, Greek, and Latin. -- Dead letter. (a) A letter which, after lying for a certain fixed time uncalled for at the post office to which it was directed, is then sent to the general post office to be opened. (b) That which has lost its force or authority; as, the law has become a dead letter. -- Dead-letter office, a department of the general post office where dead letters are examined and disposed of. -- Dead level, a term applied to a flat country. -- Dead lift, a direct lift, without assistance from mechanical advantage, as from levers, pulleys, etc.; hence, an extreme emergency. \"(As we say) at a dead lift.\" Robynson (More's Utopia). -- Dead line (Mil.), a line drawn within or around a military prison, to cross which involves for a prisoner the penalty of being instantly shot. -- Dead load (Civil Engin.), a constant, motionless load, as the weight of a structure, in distinction from a moving load, as a train of cars, or a variable pressure, as of wind. -- Dead march (Mus.), a piece of solemn music intended to be played as an accompaniment to a funeral procession. -- Dead nettle (Bot.), a harmless plant with leaves like a nettle (Lamium album). -- Dead oil (Chem.), the heavy oil obtained in the distillation of coal tar, and containing phenol, naphthalus, etc. -- Dead plate (Mach.), a solid covering over a part of a fire grate, to prevent the entrance of air through that part. -- Dead pledge, a mortgage. See Mortgage. -- Dead point. (Mach.) See Dead center. -- Dead reckoning (Naut.), the method of determining the place of a ship from a record kept of the courses sailed as given by compass, and the distance made on each course as found by log, with allowance for leeway, etc., without the aid of celestial observations. -- Dead rise, the transverse upward curvature of a vessel's floor. -- Dead rising, an elliptical line drawn on the sheer plan to determine the sweep of the floorheads throughout the ship's length. -- Dead-Sea apple. See under Apple. -- Dead set. See under Set. -- Dead shot. (a) An unerring marksman. (b) A shot certain to be made. -- Dead smooth, the finest cut made; -- said of files. -- Dead wall (Arch.), a blank wall unbroken by windows or other openings. -- Dead water (Naut.), the eddy water closing in under a ship's stern when sailing. -- Dead weight. (a) A heavy or oppressive burden. Dryden. (b) (Shipping) A ship's lading, when it consists of heavy goods; or, the heaviest part of a ship's cargo. (c) (Railroad) The weight of rolling stock, the live weight being the load. Knight. -- Dead wind (Naut.), a wind directly ahead, or opposed to the ship's course. -- To be dead, to die. [Obs.] I deme thee, thou must algate be dead. Chaucer. Syn. -- Inanimate; deceased; extinct. See Lifeless. To a degree resembling death; to the last degree; completely; wholly. [Colloq.] I was tired of reading, and dead sleepy. Dickens. Dead drunk, so drunk as to be unconscious. 1. The most quiet or deathlike time; the period of profoundest repose, inertness, or gloom; as, the dead of winter. When the drum beat at dead of night. Campbell. 2. One who is dead; -- commonly used collectively. And Abraham stood up from before his dead. Gen. xxiii. 3. To make dead; to deaden; to deprive of life, force, or vigor. [Obs.] Heaven's stern decree, With many an ill, hath numbed and deaded me. Chapman. To die; to lose life or force. [Obs.] So iron, as soon as it is out of the fire, deadeth straightway. Bacon.",
-        "prefix": "de",
-        "prefix_definition": "away from, down",
-        "suffix": "ad",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "deal",
-        "definition": "1. A part or portion; a share; hence, an indefinite quantity, degree, or extent, degree, or extent; as, a deal of time and trouble; a deal of cold. Three tenth deals [parts of an ephah] of flour. Num. xv. 9. As an object of science it [the Celtic genius] may count for a good deal . . . as a spiritual power. M. Arnold. She was resolved to be a good deal more circumspect. W. Black. Note: It was formerly limited by some, every, never a, a thousand, etc.; as, some deal; but these are now obsolete or vulgar. In general, we now qualify the word with great or good, and often use it adverbially, by being understood; as, a great deal of time and pains; a great (or good) deal better or worse; that is, better by a great deal, or by a great part or difference. 2. The process of dealing cards to the players; also, the portion disturbed. The deal, the shuffle, and the cut. Swift. 3. Distribution; apportionment. [Colloq.] 4. An arrangement to attain a desired result by a combination of interested parties; -- applied to stock speculations and political bargains. [Slang] 5. Etym: [Prob. from D. deel a plank, threshing floor. See Thill.]  The division of a piece of timber made by sawing; a board or plank; particularly, a board or plank of fir or pine above seven inches in width, and exceeding six feet in length. If narrower than this, it is called a batten; if shorter, a deal end. Note: Whole deal is a general term for planking one and one half inches thick. 6. Wood of the pine or fir; as, a floor of deal. Deal tree, a fir tree. Dr. Prior. 1. To divide; to separate in portions; hence, to give in portions; to distribute; to bestow successively; -- sometimes with out. Is not to deal thy bread to the hungry Is. lviii. 7. And Rome deals out her blessings and her gold. Tickell. The nightly mallet deals resounding blows. Gay. Hissing through the skies, the feathery deaths were dealt. Dryden. 2. Specifically: To distribute, as cards, to the players at the commencement of a game; as, to deal the cards; to deal one a jack. 1. To make distribution; to share out in portions, as cards to the players. 2. To do a distributing or retailing business, as distinguished from that of a manufacturer or producer; to traffic; to trade; to do business; as, he deals in flour. They buy and sell, they deal and traffic. South. This is to drive to wholesale trade, when all other petty merchants deal but for parcels. Dr. H. More. 3. To act as an intermediary in business or any affairs; to manage; to make arrangements; -- followed by between or with. Sometimes he that deals between man and man, raiseth his own credit with both, by pretending greater interest than he hath in either. Bacon. 4. To conduct one's self; to behave or act in any affair or towards any one; to treat. If he will deal clearly and impartially, . . . he will acknowledge all this to be true. Tillotson. 5. To contend (with); to treat (with), by way of opposition, check, or correction; as, he has turbulent passions to deal with. To deal by, to treat, either well or ill; as, to deal well by servants. \"Such an one deals not fairly by his own mind.\" Locke. -- To deal in. (a) To have to do with; to be engaged in; to practice; as, they deal in political matters. (b) To buy and sell; to furnish, as a retailer or wholesaler; as, they deal in fish. -- To deal with. (a) To treat in any manner; to use, whether well or ill; to have to do with; specifically, to trade with. \"Dealing with witches.\" Shak. (b) To reprove solemnly; to expostulate with. The deacons of his church, who, to use their own phrase, \"dealt with him\" on the sin of rejecting the aid which Providence so manifestly held out. Hawthorne. Return . . . and I will deal well with thee. Gen. xxxii. 9.",
-        "prefix": "de",
-        "prefix_definition": "away from, down",
-        "suffix": "al",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "deary",
-        "definition": "A dear; a darling. [Familiar]",
-        "prefix": "de",
-        "prefix_definition": "away from, down",
-        "suffix": "ary",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "decide",
-        "definition": "1. To cut off; to separate. [Obs.] Our seat denies us traffic here; The sea, too near, decides us from the rest. Fuller. 2. To bring to a termination, as a question, controversy, struggle, by giving the victory to one side or party; to render judgment concerning; to determine; to settle. So shall thy judgment be; thyself hast decided it. 1 Kings xx. 40. The quarrel toucheth none but us alone; Betwixt ourselves let us decide it then. Shak. To determine; to form a definite opinion; to come to a conclusion; to give decision; as, the court decided in favor of the defendant. Who shall decide, when doctors disagree Pope.",
-        "prefix": "de",
-        "prefix_definition": "away from, down",
-        "suffix": "cide",
-        "suffix_definition": "killing"
-    },
-    {
-        "word": "deesis",
-        "definition": "An invocation of, or address to, the Supreme Being.",
-        "prefix": "de",
-        "prefix_definition": "away from, down",
-        "suffix": "esis",
-        "suffix_definition": "condition or state"
-    },
-    {
-        "word": "deform",
-        "definition": "1. To spoil the form of; to mar in form; to misshape; to disfigure. Deformed, unfinished, sent before my time Into this breathing world. Shak. 2. To render displeasing; to deprive of comeliness, grace, or perfection; to dishonor. Above those passions that this world deform. Thomson. Deformed; misshapen; shapeless; horrid. [Obs.] Sight so deform what heart of rock could long Dry-eyed behold Milton.",
-        "prefix": "de",
-        "prefix_definition": "away from, down",
-        "suffix": "form",
-        "suffix_definition": "shape of"
-    },
-    {
-        "word": "degrade",
-        "definition": "1. To reduce from a higher to a lower rank or degree; to lower in rank' to deprive of office or dignity; to strip of honors; as, to degrade a nobleman, or a general officer. Prynne was sentenced by the Star Chamber Court to be degraded from the bar. Palfrey. 2. To reduce in estimation, character, or reputation; to lessen the value of; to lower the physical, moral, or intellectual character of; to debase; to bring shame or contempt upon; to disgrace; as, vice degrades a man. O miserable mankind, to what fall Degraded, to what wretched state reserved! Milton. He pride . . . struggled hard against this degrading passion. Macaulay. 3. (Geol.)  To reduce in altitude or magnitude, as hills and mountains; to wear down. Syn. -- To abase; demean; lower; reduce. See Abase. To degenerate; to pass from a higher to a lower type of structure; as, a family of plants or animals degrades through this or that genus or group of genera.",
-        "prefix": "de",
-        "prefix_definition": "away from, down",
-        "suffix": "grade",
-        "suffix_definition": "step"
-    },
-    {
-        "word": "deis",
-        "definition": "See Dais.",
-        "prefix": "de",
-        "prefix_definition": "away from, down",
-        "suffix": "is",
-        "suffix_definition": "(noun form)"
-    },
-    {
-        "word": "deism",
-        "definition": "The doctrine or creed of a deist; the belief or system of those who acknowledge the existence of one God, but deny revelation. Note: Deism is the belief in natural religion only, or those truths, in doctrine and practice, which man is to discover by the light of reason, independent of any revelation from God. Hence, deism implies infidelity, or a disbelief in the divine origin of the Scriptures.",
-        "prefix": "de",
-        "prefix_definition": "away from, down",
-        "suffix": "ism",
-        "suffix_definition": "condition"
-    },
-    {
-        "word": "deist",
-        "definition": "One who believes in the existence of a God, but denies revealed religion; a freethinker. Note: A deist, as denying a revelation, is opposed to a Christian; as, opposed to the denier of a God, whether atheist or patheist, a deist is generally denominated theist. Latham. Syn. -- See Infidel.",
-        "prefix": "de",
-        "prefix_definition": "away from, down",
-        "suffix": "ist",
-        "suffix_definition": "specialist"
-    },
-    {
-        "word": "deity",
-        "definition": "1. The collection of attributes which make up the nature of a god; divinity; godhead; as, the deity of the Supreme Being is seen in his works. They declared with emphasis the perfect deity and the perfect manhood of Christ. Milman. 2. A god or goddess; a heathen god. To worship calves, the deities Of Egypt. Milton. The Deity, God, the Supreme Being. This great poet and philosopher [Simonides], the more he contemplated the nature of the Deity, found that he waded but the more out of his depth. Addison.",
-        "prefix": "de",
-        "prefix_definition": "away from, down",
-        "suffix": "ity",
-        "suffix_definition": "condition"
-    },
-    {
-        "word": "dey",
-        "definition": "A servant who has charge of the dairy; a dairymaid. [Obs.] Chaucer. The governor of Algiers; -- so called before the French conquest in 1830.",
-        "prefix": "de",
-        "prefix_definition": "away from, down",
-        "suffix": "y",
-        "suffix_definition": "condition, process"
-    },
-    {
-        "word": "decagram",
-        "definition": "A weight of the metric system; ten grams, equal to about 154.32 grains avoirdupois.",
-        "prefix": "deca",
-        "prefix_definition": "ten",
-        "suffix": "gram",
-        "suffix_definition": "image/record"
-    },
-    {
-        "word": "decameter",
-        "definition": "A measure of length in the metric system; ten meters, equal to about 393.7 inches.",
-        "prefix": "deca",
-        "prefix_definition": "ten",
-        "suffix": "meter",
-        "suffix_definition": "instrument for measuring"
-    },
-    {
-        "word": "decay",
-        "definition": "To pass gradually from a sound, prosperous, or perfect state, to one of imperfection, adversity, or dissolution; to waste away; to decline; to fail; to become weak, corrupt, or disintegrated; to rot; to perish; as, a tree decays; fortunes decay; hopes decay. Ill fares the land, to hastening ills a prey, Where wealth accumulates and men decay. Goldsmith. 1. To cause to decay; to impair. [R.] Infirmity, that decays the wise. Shak. 2. To destroy. [Obs.] Shak. 1. Gradual failure of health, strength, soundness, prosperity, or of any species of excellence or perfection; tendency toward dissolution or extinction; corruption; rottenness; decline; deterioration; as, the decay of the body; the decay of virtue; the decay of the Roman empire; a castle in decay. Perhaps my God, though he be far before, May turn, and take me by the hand, and more -May strengthen my decays. Herbert. His [Johnson's] failure was not to be ascribed to intellectual decay. Macaulay. Which has caused the decay of the consonants to follow somewhat different laws. James Byrne. 2. Destruction; death. [Obs.] Spenser. 3. Cause of decay. [R.] He that plots to be the only figure among ciphers, is the decay of the whole age. Bacon. Syn. -- Decline; consumption. See Decline.",
-        "prefix": "deca",
-        "prefix_definition": "ten",
-        "suffix": "y",
-        "suffix_definition": "condition, process"
     },
     {
         "word": "decigram",
@@ -4408,60 +4248,12 @@
         "suffix_definition": "instrument for measuring"
     },
     {
-        "word": "demon",
-        "definition": "1. (Gr. Antiq.)  A spirit, or immaterial being, holding a middle place between men and deities in pagan mythology. The demon kind is of an inSydenham. 2. One's genius; a tutelary spirit or internal voice; as, the demon of Socrates. [Often written d\u00c3\u00a6mon.] 3. An evil spirit; a devil. That same demon that hath gulled thee thus. Shak.",
-        "prefix": "dem",
-        "prefix_definition": "people",
-        "suffix": "on",
-        "suffix_definition": "that goes"
-    },
-    {
         "word": "demure",
         "definition": "1. Of sober or serious mien; composed and decorous in bearing; of modest look; staid; grave. Sober, steadfast, and demure. Milton. Nan was very much delighted in her demure way, and that delight showed itself in her face and in her clear bright eyes. W. Black. 2. Affectedly modest, decorous, or serious; making a show of gravity. A cat lay, and looked so demure, as if there had been neither life nor soul in her. L'Estrange. Miss Lizzy, I have no doubt, would be as demure and coquettish, as if ten winters more had gone over her head. Miss Mitford. To look demurely. [Obs.] Shak.",
         "prefix": "dem",
         "prefix_definition": "people",
         "suffix": "ure",
         "suffix_definition": "process"
-    },
-    {
-        "word": "demy",
-        "definition": "1. A printing and a writing paper of particular sizes. See under Paper. 2. A half fellow at Magdalen College, Oxford. [Written also demi.] He was elected into Magdalen College as a demy; a term by which that society denominates those elsewhere called \"scholars,\" young men who partake of the founder's benefaction, and succeed in their order to vacant fellowships. Johnson. Pertaining to, or made of, the size of paper called demy; as, a demy book.",
-        "prefix": "dem",
-        "prefix_definition": "people",
-        "suffix": "y",
-        "suffix_definition": "condition, process"
-    },
-    {
-        "word": "dendrology",
-        "definition": "A discourse or treatise on trees; the natural history of trees.",
-        "prefix": "dendro",
-        "prefix_definition": "tree",
-        "suffix": "logy",
-        "suffix_definition": "study of"
-    },
-    {
-        "word": "dendrometer",
-        "definition": "An instrument to measure the height and diameter of trees.",
-        "prefix": "dendro",
-        "prefix_definition": "tree",
-        "suffix": "meter",
-        "suffix_definition": "instrument for measuring"
-    },
-    {
-        "word": "dendroid",
-        "definition": "Resembling a shrub or tree in form; treelike.",
-        "prefix": "dendr",
-        "prefix_definition": "tree",
-        "suffix": "oid",
-        "suffix_definition": "pertaining to, resemble"
-    },
-    {
-        "word": "dendrologist",
-        "definition": "One versed in the natural history of trees.",
-        "prefix": "dendr",
-        "prefix_definition": "tree",
-        "suffix": "ologist",
-        "suffix_definition": "one who studies"
     },
     {
         "word": "denticle",

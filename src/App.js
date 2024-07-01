@@ -1,4 +1,5 @@
 import "./App.css";
+import Icons from './components/Icons'
 import { Board, boardDefault }from "./components/Board";
 import Keyboard from "./components/Keyboard";
 import { generateWordSet } from "./components/Words";
@@ -7,21 +8,28 @@ import React, { useState, createContext, useEffect } from "react";
 import GameOver from "./components/GameOver";
 import { todaysObj, guesses } from "./components/Words";
 
+
 export const AppContext = createContext();
 
 function App() {
   const [board, setBoard] = useState(boardDefault);
   const [currAttempt, setCurrAttempt] = useState({ attempt: 0, letter: 0 });
-  const [wordSet, setWordSet] = useState(new Set());
+  const [wordSet, setWordSet] = useState({});
   const [correctWord, setCorrectWord] = useState("");
   const [disabledLetters, setDisabledLetters] = useState([]);
   const [gameOver, setGameOver] = useState({
     gameOver: false,
     guessedWord: false,
   });
-  const [data, setData] = useState(null);
 
   useEffect(() => {
+    setCurrAttempt({ attempt: 0, letter: 0 });
+    setWordSet({});
+    setDisabledLetters([]);
+    setGameOver({
+      gameOver: false,
+      guessedWord: false,
+    })
     generateWordSet().then(({wordSet, todaysWord}) => {
       setWordSet(wordSet);
       setCorrectWord(todaysWord);
@@ -29,10 +37,10 @@ function App() {
   }, []);
 
   const onEnter = () => {
-    if (currAttempt.letter !== todaysObj["word"].length) return;
+    if (currAttempt.letter !== correctWord.length) return;
 
     let currWord = "";
-    for (let i = 0; i < todaysObj["word"].length; i++) {
+    for (let i = 0; i < correctWord.length; i++) {
       currWord += board[currAttempt.attempt][i];
     }
  
@@ -56,7 +64,7 @@ function App() {
   };
 
   const onSelectLetter = (key) => {
-    if (currAttempt.letter > todaysObj["word"].length - 1) return;
+    if (currAttempt.letter > correctWord.length - 1) return;
     const newBoard = [...board];
     newBoard[currAttempt.attempt][currAttempt.letter] = key;
     setBoard(newBoard);
@@ -68,9 +76,7 @@ function App() {
 
   return (
     <div className="App">
-      <header>
-        <h1>MedTerms</h1>
-      </header>
+      <Icons />
       <AppContext.Provider
         value={{
           board,
