@@ -984,14 +984,6 @@
         "suffix_definition": "study of"
     },
     {
-        "word": "biogen",
-        "definition": "Bioplasm.",
-        "prefix": "bio",
-        "prefix_definition": "life, living",
-        "suffix": "gen",
-        "suffix_definition": "formation, producing"
-    },
-    {
         "word": "biogenesis",
         "definition": "the synthesis of substances by living organisms.",
         "prefix": "bio",
@@ -1016,24 +1008,8 @@
         "suffix_definition": "recording (process)"
     },
     {
-        "word": "bioplasm",
-        "definition": "A name suggested by Dr. Beale for the germinal matter supposed to be essential to the functions of all living beings; the material through which every form of life manifests itself; unaltered protoplasm.",
-        "prefix": "bio",
-        "prefix_definition": "life, living",
-        "suffix": "plasm",
-        "suffix_definition": "formation, thing formed"
-    },
-    {
-        "word": "bioplast",
-        "definition": "A tiny mass of bioplasm, in itself a living unit and having formative power, as a living white blood corpuscle; bioblast.",
-        "prefix": "bio",
-        "prefix_definition": "life, living",
-        "suffix": "plast",
-        "suffix_definition": "formation, cell"
-    },
-    {
         "word": "bioscope",
-        "definition": "1.  A view of life; that which gives such a view. Bagman's Bioscope: Various Views of Men and Manners. [Book Title.] W. Bayley (1824). 2.  An animated picture machine for screen projection; a cinematograph (which see).",
+        "definition": "A view of life; that which gives such a view.",
         "prefix": "bio",
         "prefix_definition": "life, living",
         "suffix": "scope",
@@ -1057,79 +1033,15 @@
     },
     {
         "word": "bilious",
-        "definition": "1. Of or pertaining to the bile.",
+        "definition": "Of or pertaining to the bile.",
         "prefix": "bili",
         "prefix_definition": "bile",
         "suffix": "ous",
         "suffix_definition": "pertaining to"
     },
     {
-        "word": "binal",
-        "definition": "Twofold; double. [R.] \"Binal revenge, all this.\" Ford.",
-        "prefix": "bin",
-        "prefix_definition": "two",
-        "suffix": "al",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "binary",
-        "definition": "Compounded or consisting of two things or parts; characterized by two (things). Binary arithmetic, that in which numbers are expressed according to the binary scale, or in which two figures only, 0 and 1, are used, in lieu of ten; the cipher multiplying everything by two, as in common arithmetic by ten. Thus, 1 is one; 10 is two; 11 is three; 100 is four, etc. Davies & Peck. -- Binary compound (Chem.), a compound of two elements, or of an element and a compound performing the function of an element, or of two compounds performing the function of elements. -- Binary logarithms, a system of logarithms devised by Euler for facilitating musical calculations, in which 1 is logarithm of 2, instead of 10, as in the common logarithms, and the modulus 1.442695 instead of .43429448. -- Binary measure (Mus.), measure divisible by two or four; common time. -- Binary nomenclature (Nat. Hist.), nomenclature in which the names designate both genus and species. -- Binary scale (Arith.), a uniform scale of notation whose ratio is two. -- Binary star (Astron.), a double star whose members have a revolution round their common center of gravity. -- Binary theory (Chem.), the theory that all chemical compounds consist of two constituents of opposite and unlike qualities. That which is constituted of two figures, things, or parts; two; duality. Fotherby.",
-        "prefix": "bin",
-        "prefix_definition": "two",
-        "suffix": "ary",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "binate",
-        "definition": "Double; growing in pairs or couples. Gray.",
-        "prefix": "bin",
-        "prefix_definition": "two",
-        "suffix": "ate",
-        "suffix_definition": "status; state; function"
-    },
-    {
-        "word": "binous",
-        "definition": "Same as Binate.",
-        "prefix": "bin",
-        "prefix_definition": "two",
-        "suffix": "ous",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "blastogenesis",
-        "definition": "Multiplication or increase by gemmation or budding.",
-        "prefix": "blasto",
-        "prefix_definition": "immature, early stage cell",
-        "suffix": "genesis",
-        "suffix_definition": "formation, producing"
-    },
-    {
-        "word": "blastoid",
-        "definition": "One of the Blastoidea.",
-        "prefix": "blast",
-        "prefix_definition": "immature, early stage cell",
-        "suffix": "oid",
-        "suffix_definition": "pertaining to, resemble"
-    },
-    {
-        "word": "blastule",
-        "definition": "Same as Blastula.",
-        "prefix": "blast",
-        "prefix_definition": "immature, early stage cell",
-        "suffix": "ule",
-        "suffix_definition": "small"
-    },
-    {
-        "word": "blasty",
-        "definition": "1. Affected by blasts; gusty. 2. Causing blast or injury. [Obs.] Boyle.",
-        "prefix": "blast",
-        "prefix_definition": "immature, early stage cell",
-        "suffix": "y",
-        "suffix_definition": "condition, process"
-    },
-    {
         "word": "blepharitis",
-        "definition": "Inflammation of the eyelids. -- Bleph`a*rit\"ic (#), a.",
+        "definition": "Inflammation of the eyelids.",
         "prefix": "blephar",
         "prefix_definition": "eyelid",
         "suffix": "itis",
@@ -1137,7 +1049,7 @@
     },
     {
         "word": "brachial",
-        "definition": "1. (Anat.)  Pertaining or belonging to the arm; as, the brachial artery; the brachial nerve. 2. Of the nature of an arm; resembling an arm.",
+        "definition": "Pertaining or belonging to the arm; as, the brachial artery; the brachial nerve.",
         "prefix": "brachi",
         "prefix_definition": "arm",
         "suffix": "al",
@@ -1160,24 +1072,8 @@
         "suffix_definition": "structure"
     },
     {
-        "word": "brachygraphy",
-        "definition": "Stenograhy. B. Jonson.",
-        "prefix": "brachy",
-        "prefix_definition": "short",
-        "suffix": "graphy",
-        "suffix_definition": "recording (process)"
-    },
-    {
-        "word": "brachylogy",
-        "definition": "Conciseness of expression; brevity.",
-        "prefix": "brachy",
-        "prefix_definition": "short",
-        "suffix": "logy",
-        "suffix_definition": "study of"
-    },
-    {
         "word": "bronchocele",
-        "definition": "See Goiter.",
+        "definition": "a segment of bronchus that is filled with mucus and completely enclosed so the mucus cannot drain out.",
         "prefix": "broncho",
         "prefix_definition": "bronchus",
         "suffix": "cele",
@@ -1198,22 +1094,6 @@
         "prefix_definition": "bronchus",
         "suffix": "tomy",
         "suffix_definition": "incision"
-    },
-    {
-        "word": "bronchia",
-        "definition": "The bronchial tubes which arise from the branching of the trachea, esp. the subdivision of the bronchi. Dunglison.",
-        "prefix": "bronch",
-        "prefix_definition": "bronchus",
-        "suffix": "ia",
-        "suffix_definition": "condition"
-    },
-    {
-        "word": "bronchic",
-        "definition": "Bronchial.",
-        "prefix": "bronch",
-        "prefix_definition": "bronchus",
-        "suffix": "ic",
-        "suffix_definition": "pertaining to"
     },
     {
         "word": "bronchitis",
@@ -1241,18 +1121,10 @@
     },
     {
         "word": "bursal",
-        "definition": "Of or pertaining to a bursa or to burs\u00c3\u00a6.",
+        "definition": "Of or pertaining to a bursa.",
         "prefix": "burs",
         "prefix_definition": "bursa (small fluid-filled sac)",
         "suffix": "al",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "bursary",
-        "definition": "1. The treasury of a college or monastery. 2. A scholarship or charitable foundation in a university, as in scotland; a sum given to enable a student to pursue his studies. \"No woman of rank or fortune but would have a bursary in her gift.\" Southey.",
-        "prefix": "burs",
-        "prefix_definition": "bursa (small fluid-filled sac)",
-        "suffix": "ary",
         "suffix_definition": "pertaining to"
     },
     {
@@ -1270,46 +1142,6 @@
         "prefix_definition": "bad, abnormal",
         "suffix": "hexia",
         "suffix_definition": "condition"
-    },
-    {
-        "word": "cacology",
-        "definition": "Bad speaking; bad choice or use of words. Buchanan.",
-        "prefix": "cac",
-        "prefix_definition": "bad, abnormal",
-        "suffix": "ology",
-        "suffix_definition": "study of"
-    },
-    {
-        "word": "calcography",
-        "definition": "The art of drawing with chalk.",
-        "prefix": "calco",
-        "prefix_definition": "calcium",
-        "suffix": "graphy",
-        "suffix_definition": "recording (process)"
-    },
-    {
-        "word": "calcic",
-        "definition": "Pertaining to, derived from, or containing, calcium or lime.",
-        "prefix": "calc",
-        "prefix_definition": "calcium",
-        "suffix": "ic",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "calcine",
-        "definition": "1. To reduce to a powder, or to a friable state, by the action of heat; to expel volatile matter from by means of heat, as carbonic acid from limestone, and thus (usually) to produce disintegration; as to, calcine bones. 2. To oxidize, as a metal by the action of heat; to reduce to a metallic calx. To be convereted into a powder or friable substance, or into a calx, by the action of heat. \"Calcining without fusion\" Newton.",
-        "prefix": "calc",
-        "prefix_definition": "calcium",
-        "suffix": "ine",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "calcule",
-        "definition": "Reckoning; computation. [Obs.] Howell. To calculate [Obs.] Chaucer.",
-        "prefix": "calc",
-        "prefix_definition": "calcium",
-        "suffix": "ule",
-        "suffix_definition": "small"
     },
     {
         "word": "calcaneal",
@@ -1344,28 +1176,12 @@
         "suffix_definition": "structure"
     },
     {
-        "word": "capital",
-        "definition": "1. Of or pertaining to the head. [Obs.] Needs must the Serpent now his capital bruise Expect with mortal pain. Milton. 2. Having reference to, or involving, the forfeiture of the head or life; affecting life; punishable with death; as, capital trials; capital punishment. Many crimes that are capital among us. Swift. To put to death a capital offender. Milton. 3. First in importance; chief; principal. A capital article in religion Atterbury. Whatever is capital and essential in Christianity. I. Taylor. 4. Chief, in a political sense, as being the seat of the general government of a state or nation; as, Washington and Paris are capital cities. 5. Of first rate quality; excellent; as, a capital speech or song. [Colloq.] Capital letter Etym: [F, lettre capitale] (Print.), a leading or heading letter, used at the beginning of a sentence and as the first letter of certain words, distinguished, for the most part, both by different form and larger size, from the small (lower-case) letters, which form the greater part of common print or writing. -- Small capital letters have the form of capital letters and height of the body of the lower-case letters. -- Capital stock, money, property, or stock invested in any business, or the enterprise of any corporation or institution. Abbott. Syn. -- Chief; leading; controlling; prominent. 1. (Arch.)  The head or uppermost member of a column, pilaster, etc. It consists generally of three parts, abacus, bell (or vase), and necking. See these terms, and Column. 2. Etym: [Cf. F. capilate, fem., sc. ville.] (Geog.)  The seat of government; the chief city or town in a country; a metropolis. \"A busy and splendid capital\" Macauly. 3. Etym: [Cf. F. capital.]  Money, property, or stock employed in trade, manufactures, etc.; the sum invested or lent, as distinguished from the income or interest. See Capital stock, under Capital, a. 4. (Polit. Econ.)  That portion of the produce of industry, which may be directly employed either to support human beings or to assist in production. M'Culloch. Note: When wealth is used to assist production it is called capital. The capital of a civilized community includes fixed capital (i.e. buildings, machines, and roads used in the course of production and exchange) amd circulating capital (i.e., food, fuel, money, etc., spent in the course of production and exchange). T. Raleing. 5. Anything which can be used to increase one's power or influence. He tried to make capital out of his rival's discomfiture. London Times. 6. (Fort.)  An imaginary line dividing a bastion, ravelin, or other work, into two equal parts. 7. A chapter, or section, of a book. [Obs.] Holy St. Bernard hath said in the 59th capital. Sir W. Scott. 8. (Print.)  See Capital letter, under Capital, a. Active capital. See under Active, -- Small capital (Print.), a small capital letter. See under Capital, a. -- To live on one's capital, to consume one's capital without producing or accumulating anything to replace it.",
-        "prefix": "capit",
-        "prefix_definition": "head",
-        "suffix": "al",
-        "suffix_definition": "pertaining to"
-    },
-    {
         "word": "capitate",
         "definition": "1. Headlike in form; also, having the distal end enlarged and rounded, as the stigmas of certain flowers. 2. (Bot.)  Having the flowers gathered into a head.",
         "prefix": "capit",
         "prefix_definition": "head",
         "suffix": "ate",
         "suffix_definition": "status; state; function"
-    },
-    {
-        "word": "capitule",
-        "definition": "A summary. [Obs.]",
-        "prefix": "capit",
-        "prefix_definition": "head",
-        "suffix": "ule",
-        "suffix_definition": "small"
     },
     {
         "word": "capsulotomy",
@@ -1377,19 +1193,11 @@
     },
     {
         "word": "capsulary",
-        "definition": "Of or pertaining to a capsule; having the nature of a capsula; hollow and fibrous. Capsular ligament (Anat.), a ligamentous bag or capsule surrounding many movable joints in the skeleton.",
+        "definition": "Of or pertaining to a capsule; having the nature of a capsula; hollow and fibrous. A ligamentous bag or capsule surrounding many movable joints in the skeleton.",
         "prefix": "capsul",
         "prefix_definition": "capsule",
         "suffix": "ary",
         "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "capsulate",
-        "definition": "Inclosed in a capsule, or as in a chest or box.",
-        "prefix": "capsul",
-        "prefix_definition": "capsule",
-        "suffix": "ate",
-        "suffix_definition": "status; state; function"
     },
     {
         "word": "capsulitis",
@@ -1401,7 +1209,7 @@
     },
     {
         "word": "carcinology",
-        "definition": "The depertment of zo\u00c3\u00b6logy which treats of the Crustacea (lobsters, crabs, etc.); -- called also malacostracology and crustaceology.",
+        "definition": "The branch of science that studies crustaceans, including animals such as shrimp, crabs, lobster, crayfish, and barnacles (Yes, google it).",
         "prefix": "carcino",
         "prefix_definition": "cancer",
         "suffix": "logy",
@@ -1433,7 +1241,7 @@
     },
     {
         "word": "cardiography",
-        "definition": "1. Description of the heart. 2.  (Physiol.) Examination by the cardiograph.",
+        "definition": "Examination by the cardiograph.",
         "prefix": "cardio",
         "prefix_definition": "heart",
         "suffix": "graphy",
@@ -1457,27 +1265,11 @@
     },
     {
         "word": "cardiac",
-        "definition": "1. (Anat.)  Pertaining to, resembling, or hear the heart; as, the cardiac arteries; the cardiac, or left, end of the stomach. 2. (Med.)  Exciting action in the heart, through the medium of the stomach; cordial; stimulant. Cardiac passion (Med.) cardialgia; heartburn. [Archaic] -- Cardiac wheel. (Mach.) See Heart wheel. A medicine which excites action in the stomach; a cardial.",
+        "definition": "Pertaining to, resembling, or hear the heart; as, the cardiac arteries; the cardiac, or left, end of the stomach.",
         "prefix": "cardi",
         "prefix_definition": "heart",
         "suffix": "ac",
-        "suffix_definition": "pertaining to (Gr. akos)"
-    },
-    {
-        "word": "cardioid",
-        "definition": "An algebraic curve, so called from its resemblance to a heart.",
-        "prefix": "cardi",
-        "prefix_definition": "heart",
-        "suffix": "oid",
-        "suffix_definition": "pertaining to, resemble"
-    },
-    {
-        "word": "carpogenic",
-        "definition": "Productive of fruit, or causing fruit to be developed.",
-        "prefix": "carpo",
-        "prefix_definition": "wrist (carpal)",
-        "suffix": "genic",
-        "suffix_definition": "produced by"
+        "suffix_definition": "pertaining to"
     },
     {
         "word": "carpology",
@@ -1489,7 +1281,7 @@
     },
     {
         "word": "carpophyte",
-        "definition": "A flowerless plant which forms a true fruit as the result of fertilization, as the red seaweeds, the Ascomycetes, etc. Note: The division of alge and fungi into four classes called Carpophytes, O\u00c3\u00b6phytes, Protophytes, and Zygophytes (or Carpospore\u00c3\u00a6, O\u00c3\u00b6spore\u00c3\u00a6, Protophyta, and Zygospore\u00c3\u00a6) was proposed by Sachs about 1875.",
+        "definition": "A flowerless plant which forms a true fruit as the result of fertilization, as the red seaweeds, the Ascomycetes, etc.",
         "prefix": "carpo",
         "prefix_definition": "wrist (carpal)",
         "suffix": "phyte",
@@ -1497,19 +1289,11 @@
     },
     {
         "word": "carpal",
-        "definition": "Of or pertaining to the carpus, or wrist. -- n.  One of the bones or cartilages of the carpus; a carpale. Carpal angle (Zo\u00c3\u00b6l.), the angle at the last joint of the folded wing of a bird.",
+        "definition": "Of or pertaining to the carpus, or wrist. One of the bones or cartilages of the carpus; a carpale.",
         "prefix": "carp",
         "prefix_definition": "wrist (carpal)",
         "suffix": "al",
         "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "carping",
-        "definition": "Fault-finding; censorious caviling. See Captious. -- Carp\"ing*ly, adv.",
-        "prefix": "carp",
-        "prefix_definition": "wrist (carpal)",
-        "suffix": "ing",
-        "suffix_definition": "action, process (verb)"
     },
     {
         "word": "carpologist",
@@ -1528,14 +1312,6 @@
         "suffix_definition": "structure"
     },
     {
-        "word": "cataian",
-        "definition": "A native of Cathay or China; a foreigner; -- formerly a term of reproach. Shak.",
-        "prefix": "cata",
-        "prefix_definition": "down",
-        "suffix": "ian",
-        "suffix_definition": "specialist"
-    },
-    {
         "word": "catalepsy",
         "definition": "A sudden suspension of sensation and volition, the body and limbs preserving the position that may be given them, while the action of the heart and lungs continues.",
         "prefix": "cata",
@@ -1545,47 +1321,15 @@
     },
     {
         "word": "catalysis",
-        "definition": "1. Dissolution; degeneration; decay. [R.] Sad catalysis and declension of piety. Evelyn. 2. (Chem.) (a) A process by which reaction occurs in the presence of certain agents which were formerly believed to exert an influence by mere contact. It is now believed that such reactions are attended with the formation of an intermediate compound or compounds, so that by alternate composition and decomposition the agent is apparenty left unchanged; as, the catalysis of making ether from alcohol by means of sulphuric acid; or catalysis in the action of soluble ferments (as diastase, or ptyalin) on starch. (b) The catalytic force.",
+        "definition": "Dissolution; degeneration; decay.",
         "prefix": "cata",
         "prefix_definition": "down",
         "suffix": "lysis",
         "suffix_definition": "breakdown, destruction"
     },
     {
-        "word": "catalytic",
-        "definition": "Relating to, or causing, catalysis. \"The catalytic power is ill understood.\" Ure. Catalytic force, that form of chemical energy formerly supposed to determine catalysis. An agent employed in catalysis, as platinum black, aluminium chloride, etc.",
-        "prefix": "cata",
-        "prefix_definition": "down",
-        "suffix": "lytic",
-        "suffix_definition": "decomposition"
-    },
-    {
-        "word": "cataplasm",
-        "definition": "A soft and moist substance applied externally to some part of the body; a poultice. Dunglison.",
-        "prefix": "cata",
-        "prefix_definition": "down",
-        "suffix": "plasm",
-        "suffix_definition": "formation, thing formed"
-    },
-    {
-        "word": "catastasis",
-        "definition": "1. (Rhet.)  That part of a speech, usually the exordium, in which the orator sets forth the subject matter to be discussed. 2. (Med.)  The state, or condition of anything; constitution; habit of body.",
-        "prefix": "cata",
-        "prefix_definition": "down",
-        "suffix": "stasis",
-        "suffix_definition": "control, stop"
-    },
-    {
-        "word": "caudad",
-        "definition": "Backwards; toward the tail or posterior part.",
-        "prefix": "caud",
-        "prefix_definition": "tail, down",
-        "suffix": "ad",
-        "suffix_definition": "pertaining to"
-    },
-    {
         "word": "caudal",
-        "definition": "Of the nature of, or pertaining to, a tail; having a tail-like appendage. The male widow-bird, remarkable for his caudal plumes. Darwin. Caudal fin (Zo\u00c3\u00b6l.), the terminal fin (or \"tail\") of a fish.",
+        "definition": "Of the nature of, or pertaining to, a tail; having a tail-like appendage.",
         "prefix": "caud",
         "prefix_definition": "tail, down",
         "suffix": "al",
@@ -1593,31 +1337,15 @@
     },
     {
         "word": "caudate",
-        "definition": "Having a taill; having a termination like a tail.",
+        "definition": "Having a tail or taillike appendage.",
         "prefix": "caud",
         "prefix_definition": "tail, down",
         "suffix": "ate",
         "suffix_definition": "status; state; function"
     },
     {
-        "word": "causable",
-        "definition": "Capable of being caused.",
-        "prefix": "caus",
-        "prefix_definition": "burn(ing)",
-        "suffix": "able",
-        "suffix_definition": "capable"
-    },
-    {
-        "word": "causal",
-        "definition": "Relating to a cause or causes; inplying or containing a cause or causes; expressing a cause; causative. Causal propositions are where two propositions are joined by causal words. Watts. A causal word or form of speech. Anglo-Saxon drencan to drench, causal of Anglo-Saxon drincan to drink. Skeat.",
-        "prefix": "caus",
-        "prefix_definition": "burn(ing)",
-        "suffix": "al",
-        "suffix_definition": "pertaining to"
-    },
-    {
         "word": "caustic",
-        "definition": "1. Capable of destroying the texture of anything or eating away its substance by chemical action; burning; corrosive; searing. 2. Severe; satirical; sharp; as, a caustic remark. Caustic curve (Optics), a curve to which the ray of light, reflected or refracted by another curve, are tangents, the reflecting or refracting curve and the luminous point being in one plane. -- Caustic lime. See under Lime. -- Caustic potash, Caustic soda (Chem.), the solid hydroxides potash, KOH, and soda, NaOH, or solutions of the same. -- Caustic silver, nitrate of silver, lunar caustic. -- Caustic surface (Optics), a surface to which rays reflected or refracted by another surface are tangents. Caustic curves and surfaces are called catacaustic when formed by reflection, and diacaustic when formed by refraction. Syn. -- Stinging; cutting; pungent; searching. 1. Any substance or means which, applied to animal or other organic tissue, burns, corrodes, or destroys it by chemical action; an escharotic. 2. (Optics)  A caustic curve or caustic surface.",
+        "definition": "Capable of destroying the texture of anything or eating away its substance by chemical action; burning; corrosive; searing.",
         "prefix": "caus",
         "prefix_definition": "burn(ing)",
         "suffix": "tic",
@@ -1625,19 +1353,19 @@
     },
     {
         "word": "cecity",
-        "definition": "Blindness. [R.] Sir T. Browne.",
+        "definition": "Blindness.",
         "prefix": "cec",
-        "prefix_definition": "cecum",
+        "prefix_definition": "Blindness",
         "suffix": "ity",
-        "suffix_definition": "condition"
+        "suffix_definition": ""
     },
     {
         "word": "celiac",
-        "definition": "See Coellac. Relating to the abdomen, or to the cavity of the abdomen. Coeliac artery (Anat.), the artery which issues from the aorta just below the diaphragm; -- called also coeliac axis. -- Coeliac flux, Coeliac passion (Med.), a chronic flux or diarrhea of undigested food.",
+        "definition": "Relating to the abdomen, or to the cavity of the abdomen. The artery which issues from the aorta just below the diaphragm.",
         "prefix": "celi",
         "prefix_definition": "abdomen",
         "suffix": "ac",
-        "suffix_definition": "pertaining to (Gr. akos)"
+        "suffix_definition": "pertaining to"
     },
     {
         "word": "cellulitis",
@@ -1648,44 +1376,12 @@
         "suffix_definition": "inflammation"
     },
     {
-        "word": "celluloid",
-        "definition": "A substance composed essentially of gun cotton and camphor, and when pure resembling ivory in texture and color, but variously colored to imitate coral, tortoise shell, amber, malachite, etc. It is used in the manufacture of jewelry and many small articles, as combs, brushes, collars, and cuffs; -- originaly called xylonite.",
-        "prefix": "cellul",
-        "prefix_definition": "cell",
-        "suffix": "oid",
-        "suffix_definition": "pertaining to, resemble"
-    },
-    {
         "word": "cellulose",
-        "definition": "Consisting of, or containing, cells. The substance which constitutes the essential part of the solid framework of plants, of ordinary wood, linen, paper, etc. It is also found to a slight extent in certain animals, as the tunicates. It is a carbohydrate, (C6H10O5)n, isomeric with starch, and is convertible into starches and sugars by the action of heat and acids. When pure, it is a white amorphous mass. See Starch, Granulose, Lignin. Unsized, well bleached linen paper is merely pure cellulose. Goodale. Starch cellulose, the delicate framework which remains when the soluble part (granulose) of starch is removed by saliva or pepsin. Goodale.",
+        "definition": "Consisting of, or containing, cells.",
         "prefix": "cellul",
         "prefix_definition": "cell",
         "suffix": "ose",
         "suffix_definition": "sugar"
-    },
-    {
-        "word": "centigrade",
-        "definition": "Consisting of a hundred degrees; graduated into a hundred divisions or equal parts. Spesifically: of or pertaining the centigrade thermometer; as, 10\u00c2\u00b0 centigrade (or 10\u00c2\u00b0 C.). Centigrade thermometer, a thermometer having the zero or 0 at the point indicating the freezing state of water, and the distance between that and the point indicating the boiling state of water divided into one hundred degrees. It is called also the Celsius thermometer, from Anders Celsius, the originator of this scale.",
-        "prefix": "centi",
-        "prefix_definition": "one hundredth",
-        "suffix": "grade",
-        "suffix_definition": "step"
-    },
-    {
-        "word": "centigram",
-        "definition": "The hundredth part of a gram; a weight equal to .15432 of a grain. See Gram.",
-        "prefix": "centi",
-        "prefix_definition": "one hundredth",
-        "suffix": "gram",
-        "suffix_definition": "image/record"
-    },
-    {
-        "word": "centimeter",
-        "definition": "The hundredth part of a meter; a measure of length equal to rather more than thirty-nine hundredths (0.3937) of an inch. See Meter.",
-        "prefix": "centi",
-        "prefix_definition": "one hundredth",
-        "suffix": "meter",
-        "suffix_definition": "instrument for measuring"
     },
     {
         "word": "centrosome",
@@ -1697,51 +1393,19 @@
     },
     {
         "word": "central",
-        "definition": "Relating to the center; situated in or near the center or middle; containing the center; of or pertaining to the parts near the center; equidistant or equally accessible from certain points. Central force (Math.), a force acting upon a body towards or away from a fixed or movable center. -- Center sun (Astron.), a name given to a hypothetical body about which M\u00c3\u00a4dler supposed the solar system together with all the stars in the Milky Way, to be revolving. A point near Alcyone in the Pleiades was supposed to possess characteristics of the position of such a body. The central, or one of the central, bones of the carpus or or tarsus. In the tarsus of man it is represented by the navicular.",
+        "definition": "Relating to the center; situated in or near the center or middle; containing the center; of or pertaining to the parts near the center.",
         "prefix": "centr",
         "prefix_definition": "center",
         "suffix": "al",
         "suffix_definition": "pertaining to"
     },
     {
-        "word": "centric",
-        "definition": "Placed in the center or middle; central. At York or some other centrical place. Sir W. Scott. -- Cen\"tric*al*ly, adv. -- Cen\"tric*al*ness, n.",
-        "prefix": "centr",
-        "prefix_definition": "center",
-        "suffix": "ic",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "centring",
-        "definition": "See Centring.",
-        "prefix": "centr",
-        "prefix_definition": "center",
-        "suffix": "ing",
-        "suffix_definition": "action, process (verb)"
-    },
-    {
-        "word": "centroid",
-        "definition": "The center of mass, inertia, or gravity of a body or system of bodies.",
-        "prefix": "centr",
-        "prefix_definition": "center",
-        "suffix": "oid",
-        "suffix_definition": "pertaining to, resemble"
-    },
-    {
         "word": "centrum",
-        "definition": "The body, or axis, of a vertebra. See Vertebra.",
+        "definition": "The body, or axis, of a vertebra.",
         "prefix": "centr",
         "prefix_definition": "center",
         "suffix": "um",
         "suffix_definition": "structure"
-    },
-    {
-        "word": "centry",
-        "definition": "See Sentry. [Obs.] Gray.",
-        "prefix": "centr",
-        "prefix_definition": "center",
-        "suffix": "y",
-        "suffix_definition": "condition, process"
     },
     {
         "word": "cephalology",
@@ -1761,19 +1425,11 @@
     },
     {
         "word": "cephalometry",
-        "definition": "The measurement of the heads of living persons. -- Ceph`a*lo*met\"ric (#),a.",
+        "definition": "The measurement of the heads of living persons.",
         "prefix": "cephalo",
         "prefix_definition": "head",
         "suffix": "metry",
         "suffix_definition": "process of measuring"
-    },
-    {
-        "word": "cephalosome",
-        "definition": "The anterior region or head of insects and other arthropods. Packard.",
-        "prefix": "cephalo",
-        "prefix_definition": "head",
-        "suffix": "some",
-        "suffix_definition": "body"
     },
     {
         "word": "cephalotome",
@@ -1785,7 +1441,7 @@
     },
     {
         "word": "cephalotomy",
-        "definition": "1. Dissection or opening of the head. 2. (Med.)  Craniotomy; -- usually applied to bisection of the fetal head with a saw.",
+        "definition": "Dissection or opening of the head. Usually applied to bisection of the fetal head with a saw.",
         "prefix": "cephalo",
         "prefix_definition": "head",
         "suffix": "tomy",
@@ -1800,22 +1456,6 @@
         "suffix_definition": "crushing"
     },
     {
-        "word": "cephalous",
-        "definition": "Having a head; -- applied chiefly to the Cephalata, a division of mollusks.",
-        "prefix": "cephalo",
-        "prefix_definition": "head",
-        "suffix": "us",
-        "suffix_definition": "structure"
-    },
-    {
-        "word": "cephalad",
-        "definition": "Forwards; towards the head or anterior extremity of the body; opposed to caudad.",
-        "prefix": "cephal",
-        "prefix_definition": "head",
-        "suffix": "ad",
-        "suffix_definition": "pertaining to"
-    },
-    {
         "word": "cephalalgia",
         "definition": "Pain in the head; headache.",
         "prefix": "cephal",
@@ -1824,64 +1464,24 @@
         "suffix_definition": "pain, painful condition"
     },
     {
-        "word": "cephalate",
-        "definition": "Having a head.",
-        "prefix": "cephal",
-        "prefix_definition": "head",
-        "suffix": "ate",
-        "suffix_definition": "status; state; function"
-    },
-    {
         "word": "cephalic",
-        "definition": "Of or pertaining to the head. See the Note under Anterior. Cephalic index (Anat.), the ratio of the breadth of the cranium to the length, which is taken as the standard, and equal to 100; the breadth index. -- Cephalic vein, a large vein running from the back of the head alond the arm; -- so named because the ancients used to open it for disorders of the head. Dunglison. A medicine for headache, or other disorder in the head.",
+        "definition": "Of or pertaining to the head.",
         "prefix": "cephal",
         "prefix_definition": "head",
         "suffix": "ic",
         "suffix_definition": "pertaining to"
     },
     {
-        "word": "cephalism",
-        "definition": "Form or development of the skull; as, the races of man differ greatly in cephalism.",
-        "prefix": "cephal",
-        "prefix_definition": "head",
-        "suffix": "ism",
-        "suffix_definition": "condition"
-    },
-    {
         "word": "cephalitis",
-        "definition": "Same as Phrenitis.",
+        "definition": "Inflammation of the brain, usually caused by a virus.",
         "prefix": "cephal",
         "prefix_definition": "head",
         "suffix": "itis",
         "suffix_definition": "inflammation"
     },
     {
-        "word": "cephaloid",
-        "definition": "Shaped like the head. Craing.",
-        "prefix": "cephal",
-        "prefix_definition": "head",
-        "suffix": "oid",
-        "suffix_definition": "pertaining to, resemble"
-    },
-    {
-        "word": "cephalon",
-        "definition": "The head.",
-        "prefix": "cephal",
-        "prefix_definition": "head",
-        "suffix": "on",
-        "suffix_definition": "that goes"
-    },
-    {
-        "word": "cerebellous",
-        "definition": "Pertaining to the cerebellum.",
-        "prefix": "cerebello",
-        "prefix_definition": "cerebellum",
-        "suffix": "us",
-        "suffix_definition": "structure"
-    },
-    {
         "word": "cerebellum",
-        "definition": "The large lobe of the hind brain in front of and above the medulla; the little brain. It controls combined muscular action. See Brain.",
+        "definition": "The large lobe of the hind brain in front of and above the medulla; the little brain. It controls combined muscular action.",
         "prefix": "cerebell",
         "prefix_definition": "cerebellum",
         "suffix": "um",
@@ -1905,7 +1505,7 @@
     },
     {
         "word": "cerebroscopy",
-        "definition": "Examination of the brain for the diagnosis of diseas; esp., the act or process of diagnosticating the condition of the brain by examination of the interior of the eye (as with an ophthalmoscope). Buck.",
+        "definition": "Examination of the brain for the diagnosis of diseas; esp., the act or process of diagnosticating the condition of the brain by examination of the interior of the eye (as with an ophthalmoscope)..",
         "prefix": "cerebro",
         "prefix_definition": "cerebrum",
         "suffix": "scopy",
@@ -1913,7 +1513,7 @@
     },
     {
         "word": "cerebral",
-        "definition": "Of or pertaining to the cerebrum. Cerebral apoplexy. See under Apoplexy. One of a class of lingual consonants in the East Indian languages. See Lingual, n. Note: Prof. W. D. Whitney calls these letters linguals, and this is their usual designation in the United States.",
+        "definition": "Of or pertaining to the cerebrum.",
         "prefix": "cerebr",
         "prefix_definition": "cerebrum",
         "suffix": "al",
@@ -1929,7 +1529,7 @@
     },
     {
         "word": "cerebric",
-        "definition": "Of, pertaining to, or derived from, the brain. Cerebric acid (Physiol. Chem.), a name formerly sometimes given to cerebrin.",
+        "definition": "Of, pertaining to, or derived from, the brain.",
         "prefix": "cerebr",
         "prefix_definition": "cerebrum",
         "suffix": "ic",
@@ -1944,14 +1544,6 @@
         "suffix_definition": "inflammation"
     },
     {
-        "word": "cerebroid",
-        "definition": "Resembling, or analogous to, the cerebrum or brain.",
-        "prefix": "cerebr",
-        "prefix_definition": "cerebrum",
-        "suffix": "oid",
-        "suffix_definition": "pertaining to, resemble"
-    },
-    {
         "word": "cerebrose",
         "definition": "A sugarlike body obtained by the decomposition of the nitrogenous non-phosphorized principles of the brain.",
         "prefix": "cerebr",
@@ -1961,7 +1553,7 @@
     },
     {
         "word": "cerebrum",
-        "definition": "The anterior, and in man the larger, division of the brain; the seat of the reasoning faculties and the will. See Brain.",
+        "definition": "The anterior, and in man the larger, division of the brain; the seat of the reasoning faculties and the will.",
         "prefix": "cerebr",
         "prefix_definition": "cerebrum",
         "suffix": "um",
@@ -1977,7 +1569,7 @@
     },
     {
         "word": "cervical",
-        "definition": "Of or pertaining to the neck; as, the cervical vertebr\u00c3\u00a6.",
+        "definition": "Of or pertaining to the neck; as, the cervical vertebrae.",
         "prefix": "cervic",
         "prefix_definition": "neck, cervix",
         "suffix": "al",
@@ -5789,7 +5381,7 @@
         "prefix": "gangli",
         "prefix_definition": "ganglion",
         "suffix": "ac",
-        "suffix_definition": "pertaining to (Gr. akos)"
+        "suffix_definition": "pertaining to"
     },
     {
         "word": "ganglial",
@@ -7221,7 +6813,7 @@
         "prefix": "ile",
         "prefix_definition": "ileum",
         "suffix": "ac",
-        "suffix_definition": "pertaining to (Gr. akos)"
+        "suffix_definition": "pertaining to"
     },
     {
         "word": "ileum",
@@ -7245,7 +6837,7 @@
         "prefix": "ili",
         "prefix_definition": "ilium",
         "suffix": "ac",
-        "suffix_definition": "pertaining to (Gr. akos)"
+        "suffix_definition": "pertaining to"
     },
     {
         "word": "iliad",
@@ -7485,7 +7077,7 @@
         "prefix": "ischi",
         "prefix_definition": "ischium",
         "suffix": "ac",
-        "suffix_definition": "pertaining to (Gr. akos)"
+        "suffix_definition": "pertaining to"
     },
     {
         "word": "ischial",
@@ -14557,7 +14149,7 @@
         "prefix": "ser",
         "prefix_definition": "serum",
         "suffix": "ac",
-        "suffix_definition": "pertaining to (Gr. akos)"
+        "suffix_definition": "pertaining to"
     },
     {
         "word": "serine",
