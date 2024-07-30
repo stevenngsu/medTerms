@@ -1,16 +1,10 @@
 import React, { useContext } from "react";
 import { AppContext } from "../App";
-import { todaysObj } from './Words'
 
-const GameOver = () => {
+const GameOver = ({ todaysObj }) => {
   const {
-    board,
-    setBoard,
-    currAttempt,
     gameOver,
-    onSelectLetter,
     correctWord,
-    onDelete,
   } = useContext(AppContext);
   return (
     <div className="gameOver">

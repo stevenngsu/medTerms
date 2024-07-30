@@ -1,40 +1,29 @@
 import "./App.css";
 import Icons from './components/Icons'
-import { Board, boardDefault }from "./components/Board";
+import Board from "./components/Board";
 import Keyboard from "./components/Keyboard";
-import { generateWordSet } from "./components/Words";
 import Hints from "./components/Hints";
 import React, { useState, createContext, useEffect } from "react";
+import generateWord from "./components/Word";
 import GameOver from "./components/GameOver";
-import { todaysObj, guesses } from "./components/Words";
 
+const guesses = 1;
 
 export const AppContext = createContext();
 
 function App() {
-  const [board, setBoard] = useState(boardDefault);
   const [currAttempt, setCurrAttempt] = useState({ attempt: 0, letter: 0 });
-  const [wordSet, setWordSet] = useState({});
-  const [correctWord, setCorrectWord] = useState("");
+  const [correctObj, setCorrectObj] = useState(generateWord());
+  let correctWord = correctObj["word"];
+
   const [disabledLetters, setDisabledLetters] = useState([]);
   const [gameOver, setGameOver] = useState({
     gameOver: false,
     guessedWord: false,
   });
 
-  useEffect(() => {
-    setCurrAttempt({ attempt: 0, letter: 0 });
-    setWordSet({});
-    setDisabledLetters([]);
-    setGameOver({
-      gameOver: false,
-      guessedWord: false,
-    })
-    generateWordSet().then(({wordSet, todaysWord}) => {
-      setWordSet(wordSet);
-      setCorrectWord(todaysWord);
-    });
-  }, []);
+  const boardDefault = Array.from({ length: guesses }, () => Array(correctWord.length).fill(''))
+  const [board, setBoard] = useState(boardDefault);
 
   const onEnter = () => {
     if (currAttempt.letter !== correctWord.length) return;
@@ -76,7 +65,7 @@ function App() {
 
   return (
     <div className="App">
-      <Icons />
+      <Icons todaysObj={correctObj} />
       <AppContext.Provider
         value={{
           board,
@@ -94,10 +83,10 @@ function App() {
       >
         <div className="game">
           <div className="full-game-board">
-            <Hints />
-            <Board />
+            <Hints todaysObj={correctObj} />
+            <Board boardDefault={boardDefault}/>
           </div>
-          {gameOver.gameOver ? <GameOver /> : <Keyboard />}
+          {gameOver.gameOver ? <GameOver todaysObj={correctObj}/> : <Keyboard />}
         </div>
       </AppContext.Provider>
     </div>

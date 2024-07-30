@@ -1,10 +1,9 @@
 import React from 'react'
-import Letter from './Letter.js'
-import { todaysObj, guesses } from './Words.js'
+import Letter from './Letter'
 
-export const boardDefault = Array.from({ length: guesses }, () => Array(todaysObj["word"].length).fill(''));
+function Board({ boardDefault }) {
+    const guesses = 1;
 
-export const Board = () => {
     const renderWord = () => {
         return boardDefault.map((row, rowIndex) => (
             <div className="row">
@@ -16,7 +15,9 @@ export const Board = () => {
     }
     return (
         <div className="board">
-            {renderWord()}
+           {renderWord()}
         </div>
     )
 }
+
+export default Board;

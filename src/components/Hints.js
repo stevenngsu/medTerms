@@ -1,7 +1,6 @@
 import React from 'react'
-import { todaysObj } from './Words'
 
-function Hints() {
+function Hints({ todaysObj }) {
   return (
     <div>
       <div className="definitions">

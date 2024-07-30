@@ -7240,6 +7240,16 @@
         "suffix_definition": "pertaining to"
     },
     {
+        "word": "chorioamnionitis",
+        "definition": "A bacterial infection of the mother's placenta and the amniotic fluid that surrounds the baby.",
+        "prefix": "chorio",
+        "prefix_definition": "emrbyo membrane",
+        "root": "amnion",
+        "root_definition": "A thin membrane that surrounds the fetus during pregnancy",
+        "suffix": "itis",
+        "suffix_definition": "inflammation"
+    },
+    {
         "word": "chromolithograph",
         "definition": "A picture printed in tints and colors by repeated impressions from a series of stones prepared by the lithographic process.",
         "prefix": "chromo",

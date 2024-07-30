@@ -1,10 +1,9 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCircleInfo, faNotesMedical, faArrowsRotate } from '@fortawesome/free-solid-svg-icons';
-import { todaysObj } from './Words'
 
 const refresh = () => {window.location.reload();}
 
-function Icons() {
+function Icons({ todaysObj }) {
     function openHelp() {
         document.getElementById("helps").style.display = "block"
     }
@@ -28,7 +27,7 @@ function Icons() {
                 <FontAwesomeIcon icon={faArrowsRotate} />
                 </button>
                 <h1>MedTerms</h1>
-                <div class="group-icons">
+                <div className="group-icons">
                     <div>
                         <button className="tips" onClick={openHints}>
                             <FontAwesomeIcon icon={faNotesMedical} />
@@ -40,7 +39,7 @@ function Icons() {
                 </div>
             </header>
             <div id="helps">
-                <div class="instructions">
+                <div className="instructions">
                 <h2>Background</h2>
                 <p>There are three basic parts to medical terminology:</p>
                     <ol>

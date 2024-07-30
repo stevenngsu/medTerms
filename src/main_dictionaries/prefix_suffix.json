@@ -1593,27 +1593,11 @@
     },
     {
         "word": "chemosis",
-        "definition": "Inflammatory swelling of the conjunctival tissue surrounding the cornea. --Che*mot\"ic (#), a.",
+        "definition": "Inflammatory swelling of the conjunctival tissue surrounding the cornea.",
         "prefix": "chemo",
         "prefix_definition": "drug, chemical",
         "suffix": "sis",
         "suffix_definition": "condition, state of"
-    },
-    {
-        "word": "chemic",
-        "definition": "1. A chemist; an alchemist. [Obs.] 2. (Bleaching)  A solution of chloride of line. Chemical. Blackw. Mag.",
-        "prefix": "chem",
-        "prefix_definition": "drug, chemical",
-        "suffix": "ic",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "chemism",
-        "definition": "The force exerted between the atoms of elementary substance whereby they unite to form chemical compounds; chemical attaction; affinity; -- sometimes used as a general expression for chemical activity or relationship.",
-        "prefix": "chem",
-        "prefix_definition": "drug, chemical",
-        "suffix": "ism",
-        "suffix_definition": "condition"
     },
     {
         "word": "chemist",
@@ -1621,14 +1605,6 @@
         "prefix": "chem",
         "prefix_definition": "drug, chemical",
         "suffix": "ist",
-        "suffix_definition": "specialist"
-    },
-    {
-        "word": "chilian",
-        "definition": "Of or pertaining to Chili. -- n.  A native or citizen of Chili. The commander or chief of a thousand men.",
-        "prefix": "chil",
-        "prefix_definition": "lip",
-        "suffix": "ian",
         "suffix_definition": "specialist"
     },
     {
@@ -1640,36 +1616,12 @@
         "suffix_definition": "tumor, mass"
     },
     {
-        "word": "chirograph",
-        "definition": "(a) A writing which, reguiring a counterpart, was engrossed twice on the same piece of parchment, with a space between, in which was written the word chirographum, through which the parchment was cut, and one part given to each party. It answered to what is now called a charter party. (b) The last part of a fine of land, commonly called the foot of the fine. Bouvier.",
-        "prefix": "chiro",
-        "prefix_definition": "hand",
-        "suffix": "graph",
-        "suffix_definition": "recording instrument"
-    },
-    {
-        "word": "chirography",
-        "definition": "1. The art of writing or engrossing; handwriting; as, skilled in chirography. 2. The art of telling fortunes by examining the hand.",
-        "prefix": "chiro",
-        "prefix_definition": "hand",
-        "suffix": "graphy",
-        "suffix_definition": "recording (process)"
-    },
-    {
         "word": "chirology",
-        "definition": "The art or practice of using the manual alphabet or of communicating thoughts by sings made by the hands and fingers; a substitute for spoken or written language in intercourse with the deaf and dumb. See Dactylalogy.",
+        "definition": "The art or practice of using the manual alphabet or of communicating thoughts by sings made by the hands and fingers.",
         "prefix": "chiro",
         "prefix_definition": "hand",
         "suffix": "logy",
         "suffix_definition": "study of"
-    },
-    {
-        "word": "chiroplast",
-        "definition": "An instrument to guid the hands and fingers of pupils in playing on the piano, etc.",
-        "prefix": "chiro",
-        "prefix_definition": "hand",
-        "suffix": "plast",
-        "suffix_definition": "formation, cell"
     },
     {
         "word": "chirologist",
@@ -1680,40 +1632,8 @@
         "suffix_definition": "one who studies"
     },
     {
-        "word": "chloroform",
-        "definition": "A colorless volatile liquid, CHCl3, having an ethereal odor and a sweetish taste, formed by treating alcohol with chlorine and an alkali. It is a powerful solvent of wax, resin, etc., and is extensively used to produce an\u00c3\u00a6sthesia in surgical operations; also externally, to alleviate pain. To treat with chloroform, or to place under its influence.",
-        "prefix": "chloro",
-        "prefix_definition": "green",
-        "suffix": "form",
-        "suffix_definition": "shape of"
-    },
-    {
-        "word": "chlorometer",
-        "definition": "An instrument to test the decoloring or bleaching power of chloride of lime.",
-        "prefix": "chloro",
-        "prefix_definition": "green",
-        "suffix": "meter",
-        "suffix_definition": "instrument for measuring"
-    },
-    {
-        "word": "chlorometry",
-        "definition": "The process of testing the bleaching power of any combination of chlorine.",
-        "prefix": "chloro",
-        "prefix_definition": "green",
-        "suffix": "metry",
-        "suffix_definition": "process of measuring"
-    },
-    {
-        "word": "chloroplast",
-        "definition": "A plastid containing chlorophyll, developed only in cells exposed to the light. Chloroplasts are minute flattened granules, usually occurring in great numbers in the cytoplasm near the cell wall, and consist of a colorless ground substance saturated with chlorophyll pigments. Under light of varying intensity they exhibit phototactic movements. In animals chloroplasts occur only in certain low forms.",
-        "prefix": "chloro",
-        "prefix_definition": "green",
-        "suffix": "plast",
-        "suffix_definition": "formation, cell"
-    },
-    {
         "word": "chlorosis",
-        "definition": "1. (Med.)  The green sickness; an an\u00c3\u00a6mic disease of young women, characterized by a greenish or grayish yellow hue of the skin, weakness, palpitation, etc. 2. (Bot.)  A disease in plants, causing the flowers to turn green or the leaves to lose their normal green color.",
+        "definition": "The green sickness; an anemic disease of young women, characterized by a greenish or grayish yellow hue of the skin, weakness, palpitation, etc.",
         "prefix": "chloro",
         "prefix_definition": "green",
         "suffix": "sis",
@@ -1725,46 +1645,6 @@
         "prefix": "chloro",
         "prefix_definition": "green",
         "suffix": "tic",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "chlorous",
-        "definition": "1. Of, pertaining to, or derived from, chlorine; -- said of those compounds of chlorine in which this element has a valence of three, the next lower than in chloric compounds; as, chlorous acid, HClO2. 2. (Chem. Physics)  Pertaining to, or resembling, the electro-negative character of chlorine; hence, electro-negative; -- opposed to basylous or zincous. [Obs.]",
-        "prefix": "chloro",
-        "prefix_definition": "green",
-        "suffix": "us",
-        "suffix_definition": "structure"
-    },
-    {
-        "word": "chloral",
-        "definition": "1. (Chem.)  A colorless oily liquid, CCl3.CHO, of a pungent odor and harsh taste, obtained by the action of chlorine upon ordinary or ethyl alcohol. 2. (Med.)  Chloral hydrate. Chloral hydrate, a white crystalline substance, obtained by treating chloral with water. It produces sleep when taken internally or hypodermically; -- called also chloral.",
-        "prefix": "chlor",
-        "prefix_definition": "green",
-        "suffix": "al",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "chlorate",
-        "definition": "A salt of chloric acid; as, chlorate of potassium.",
-        "prefix": "chlor",
-        "prefix_definition": "green",
-        "suffix": "ate",
-        "suffix_definition": "status; state; function"
-    },
-    {
-        "word": "chloric",
-        "definition": "Pertaining to, or obtained from, chlorine; -- said of those compounds of chlorine in which this element has a valence of five, or the next to its highest; as, chloric acid, HClO3. Chloric ether (Chem.), ethylene dichloride. See Dutch liquid, under Dutch.",
-        "prefix": "chlor",
-        "prefix_definition": "green",
-        "suffix": "ic",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "chlorine",
-        "definition": "One of the elementary substances, commonly isolated as a greenish yellow gas, two and one half times as heavy as air, of an intensely disagreeable suffocating odor, and exceedingly poisonous. It is abundant in nature, the most important compound being common salt. It is powerful oxidizing, bleaching, and disinfecting agent. Symbol Cl. Atomic weight, 35.4. Chlorine family, the elements fluorine, chlorine, bromine, and iodine, called the halogens, and classed together from their common peculiariries.",
-        "prefix": "chlor",
-        "prefix_definition": "green",
-        "suffix": "ine",
         "suffix_definition": "pertaining to"
     },
     {
@@ -1784,30 +1664,6 @@
         "suffix_definition": "status; state; function"
     },
     {
-        "word": "cholic",
-        "definition": "Pertaining to, or obtained from, the bile. Cholic acid (Chem.), a complex organic acid found as a natural constituent of taurocholic and glycocholic acids in the bile, and extracted as a resinous substance, convertible under the influence of ether into white crystals.",
-        "prefix": "chol",
-        "prefix_definition": "gall, bile",
-        "suffix": "ic",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "choline",
-        "definition": "See Neurine.",
-        "prefix": "chol",
-        "prefix_definition": "gall, bile",
-        "suffix": "ine",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "chondrogen",
-        "definition": "Same as Chondrigen.",
-        "prefix": "chondro",
-        "prefix_definition": "cartilage",
-        "suffix": "gen",
-        "suffix_definition": "formation, producing"
-    },
-    {
         "word": "chondrogenesis",
         "definition": "The development of cartilage.",
         "prefix": "chondro",
@@ -1817,19 +1673,11 @@
     },
     {
         "word": "chondrology",
-        "definition": "The science which treats of cartilages. Dunglison.",
+        "definition": "The science which treats of cartilages.",
         "prefix": "chondro",
         "prefix_definition": "cartilage",
         "suffix": "logy",
         "suffix_definition": "study of"
-    },
-    {
-        "word": "chondrometer",
-        "definition": "A steelyard for weighting grain.",
-        "prefix": "chondro",
-        "prefix_definition": "cartilage",
-        "suffix": "meter",
-        "suffix_definition": "instrument for measuring"
     },
     {
         "word": "chondrotomy",
@@ -1862,30 +1710,6 @@
         "prefix_definition": "cartilage",
         "suffix": "oma",
         "suffix_definition": "tumor, mass"
-    },
-    {
-        "word": "chondrule",
-        "definition": "A peculiar rounded granule of some mineral, usually enstatite or chrysolite, found imdedded more or less aboundantly in the mass of many meteoric stones, which are hence called chondrites.",
-        "prefix": "chondr",
-        "prefix_definition": "cartilage",
-        "suffix": "ule",
-        "suffix_definition": "small"
-    },
-    {
-        "word": "chorion",
-        "definition": "1. (Anat.) (a) The outer membrane which invests the fetus in the womb; also, the similar membrane investing many ova at certain stages of development. (b) The true skin, or cutis. 2. (Bot.)  The outer membrane of seeds of plants.",
-        "prefix": "chori",
-        "prefix_definition": "chorion",
-        "suffix": "on",
-        "suffix_definition": "that goes"
-    },
-    {
-        "word": "chorisis",
-        "definition": "The separation of a leaf or floral organ into two more parts. Note: In collateral chorisis the parts are side by side. -- In parallel or median chorisis they are one in front of another.",
-        "prefix": "chori",
-        "prefix_definition": "chorion",
-        "suffix": "sis",
-        "suffix_definition": "condition, state of"
     },
     {
         "word": "choroidal",
