@@ -1728,32 +1728,8 @@
         "suffix_definition": "immature, early stage cell"
     },
     {
-        "word": "chromogen",
-        "definition": "1. (Biol.)  Vegetable coloring matter other than green; chromule. 2. (Chem.)  Any colored compound, supposed to contain one or more chromophores.",
-        "prefix": "chromo",
-        "prefix_definition": "color",
-        "suffix": "gen",
-        "suffix_definition": "formation, producing"
-    },
-    {
-        "word": "chromogenic",
-        "definition": "Containing, or capable of forming, chromogen; as, chromogenic bacteria.",
-        "prefix": "chromo",
-        "prefix_definition": "color",
-        "suffix": "genic",
-        "suffix_definition": "produced by"
-    },
-    {
-        "word": "chromograph",
-        "definition": "An apparatus by which a number of copies of written matter, maps, plans, etc., can be made; -- called also hectograph.",
-        "prefix": "chromo",
-        "prefix_definition": "color",
-        "suffix": "graph",
-        "suffix_definition": "recording instrument"
-    },
-    {
         "word": "chromosome",
-        "definition": "One of the minute bodies into which the chromatin of the nucleus is resolved during mitotic cell division; the idant of Weismann.",
+        "definition": "One of the minute bodies into which the chromatin of the nucleus is resolved during mitotic cell division.",
         "prefix": "chromo",
         "prefix_definition": "color",
         "suffix": "some",
