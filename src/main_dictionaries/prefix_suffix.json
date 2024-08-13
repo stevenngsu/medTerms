@@ -113,7 +113,7 @@
     },
     {
         "word": "abdominous",
-        "definition": "Having a protuberant belly; pot-bellied. Gorgonius sits, abdominous and wan, Like a fat squab upon a Chinese fan. Cowper.",
+        "definition": "Having a protuberant belly; pot-bellied.",
         "prefix": "abdomino",
         "prefix_definition": "abdomen",
         "suffix": "us",
@@ -128,14 +128,6 @@
         "suffix_definition": "pertaining to"
     },
     {
-        "word": "acanthine",
-        "definition": "Of, pertaining to, or resembling, the plant acanthus.",
-        "prefix": "acanth",
-        "prefix_definition": "thorn, spine",
-        "suffix": "ine",
-        "suffix_definition": "pertaining to"
-    },
-    {
         "word": "acanthocyte",
         "definition": "an abnormal red blood cell having spiny projections.",
         "prefix": "acantho",
@@ -145,7 +137,7 @@
     },
     {
         "word": "acoumeter",
-        "definition": "An instrument for measuring the acuteness of the sense of hearing. Itard.",
+        "definition": "An instrument for measuring the acuteness of the sense of hearing.",
         "prefix": "acou",
         "prefix_definition": "sound, hear, acoustic",
         "suffix": "meter",
@@ -305,7 +297,7 @@
     },
     {
         "word": "albinotic",
-        "definition": "Affected with albinism.",
+        "definition": "Pertaining to, or affected with albinism.",
         "prefix": "albino",
         "prefix_definition": "white (L. albus)",
         "suffix": "tic",
@@ -329,11 +321,19 @@
     },
     {
         "word": "allotrophic",
-        "definition": "having an altered and especially a lowered nutritive value.",
+        "definition": "Changed or modified in nutritive power by the process of digestion.",
         "prefix": "allo",
         "prefix_definition": "different",
         "suffix": "trophic",
         "suffix_definition": "growth, development"
+    },
+    {
+        "word": "allotropic",
+        "definition": "Of or pertaining to allotropism.",
+        "prefix": "allo",
+        "prefix_definition": "different",
+        "suffix": "tropic",
+        "suffix_definition": "turning to, affinity for"
     },
     {
         "word": "alveolary",
@@ -342,6 +342,14 @@
         "prefix_definition": "alveolus (air sac)",
         "suffix": "ary",
         "suffix_definition": "pertaining to"
+    },
+    {
+        "word": "alveolus",
+        "definition": "A cell in a honeycomb.",
+        "prefix": "alveol",
+        "prefix_definition": "alveolus (air sac)",
+        "suffix": "us",
+        "suffix_definition": "structure"
     },
     {
         "word": "amblyopia",
@@ -353,7 +361,7 @@
     },
     {
         "word": "ambulant",
-        "definition": "(Of a pateint) able to walk around; moving from place to place.",
+        "definition": "Walking; moving from place to place.",
         "prefix": "ambul",
         "prefix_definition": "walking",
         "suffix": "ant",
@@ -374,6 +382,38 @@
         "prefix_definition": "membrane around the fetus",
         "suffix": "tic",
         "suffix_definition": "pertaining to"
+    },
+    {
+        "word": "amphigenesis",
+        "definition": "Sexual generation.",
+        "prefix": "amphi",
+        "prefix_definition": "both sides",
+        "suffix": "genesis",
+        "suffix_definition": "formation, producing"
+    },
+    {
+        "word": "amylogen",
+        "definition": "That part of the starch granule or granulose which is soluble in water.",
+        "prefix": "amylo",
+        "prefix_definition": "starch",
+        "suffix": "gen",
+        "suffix_definition": "formation, producing"
+    },
+    {
+        "word": "amylogenesis",
+        "definition": "The formation of starch.",
+        "prefix": "amylo",
+        "prefix_definition": "starch",
+        "suffix": "genesis",
+        "suffix_definition": "formation, producing"
+    },
+    {
+        "word": "amylogenic",
+        "definition": "Forming starch",
+        "prefix": "amylo",
+        "prefix_definition": "starch",
+        "suffix": "genic",
+        "suffix_definition": "produced by"
     },
     {
         "word": "amylolysis",
@@ -400,20 +440,20 @@
         "suffix_definition": "instrument for measuring"
     },
     {
+        "word": "amylate",
+        "definition": "A compound of the radical amyl with oxygen and a positive atom or radical.",
+        "prefix": "amyl",
+        "prefix_definition": "starch",
+        "suffix": "ate",
+        "suffix_definition": "status; state; function"
+    },
+    {
         "word": "amylic",
         "definition": "Pertaining to, or derived from carbohydrates",
         "prefix": "amyl",
         "prefix_definition": "starch",
         "suffix": "ic",
         "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "amyloid",
-        "definition": "A non-nitrogenous starchy food; a starchlike substance. The substance deposited in the organs in amyloid degeneration.",
-        "prefix": "amyl",
-        "prefix_definition": "starch",
-        "suffix": "oid",
-        "suffix_definition": "pertaining to, resemble"
     },
     {
         "word": "analgesia",
@@ -425,7 +465,7 @@
     },
     {
         "word": "anergy",
-        "definition": "Absence of the normal immune response to a particular antigen or allergen.",
+        "definition": "Lack of energy; inactivity.",
         "prefix": "an",
         "prefix_definition": "not, without, lacking",
         "suffix": "ergy",
@@ -464,8 +504,16 @@
         "suffix_definition": "blood condition"
     },
     {
+        "word": "anaesthesia",
+        "definition": "Entire or partial loss or absence of feeling or sensation; a state of general or local insensibility produced by disease.",
+        "prefix": "ana",
+        "prefix_definition": "apart, up",
+        "suffix": "esthesia",
+        "suffix_definition": "feeling, sensation"
+    },
+    {
         "word": "analepsy",
-        "definition": "Recovery of strength after sickness.",
+        "definition": "(a) Recovery of strength after sickness. (b) A species of epileptic attack, originating from gastric disorder.",
         "prefix": "ana",
         "prefix_definition": "apart, up",
         "suffix": "lepsy",
@@ -481,7 +529,7 @@
     },
     {
         "word": "anatomy",
-        "definition": "The art of dissecting, or artificially separating the different parts of any organized body.",
+        "definition": "1. The art of dissecting, or artificially separating the different parts of any organized body, to discover their situation, structure, and economy; dissection. 2. The science which treats of the structure of organic bodies; anatomical structure or organization.",
         "prefix": "ana",
         "prefix_definition": "apart, up",
         "suffix": "tomy",
@@ -494,6 +542,14 @@
         "prefix_definition": "male",
         "suffix": "tomy",
         "suffix_definition": "incision"
+    },
+    {
+        "word": "androus",
+        "definition": "A terminal combining form: Having a stamen or stamens; staminate; as, monandrous, with one stamen; polyandrous, with many stamens.",
+        "prefix": "andro",
+        "prefix_definition": "male",
+        "suffix": "us",
+        "suffix_definition": "structure"
     },
     {
         "word": "angiography",
@@ -521,7 +577,7 @@
     },
     {
         "word": "angioscope",
-        "definition": "An instrument for examining the capillary vessels of animals and plants.",
+        "definition": "An instrument for examining the capillary vessels of animals and plants. Morin.",
         "prefix": "angio",
         "prefix_definition": "vessel",
         "suffix": "scope",
@@ -545,7 +601,7 @@
     },
     {
         "word": "ankylosis",
-        "definition": "1. (Med.) Stiffness or fixation of a joint; formation of a stiff joint. 2. (Anat.) The union of two or more separate bones to from a single bone; the close union of bones or other structures in various animals.",
+        "definition": "Stiffness or fixation of a joint; formation of a stiff joint. The union of two or more separate bones to from a single bone; the close union of bones or other structures in various animals. Same as Anchylosis.",
         "prefix": "ankylo",
         "prefix_definition": "stiff, crooked",
         "suffix": "sis",
@@ -553,7 +609,7 @@
     },
     {
         "word": "anterior",
-        "definition": "at or toward the head, cephalic; and in human anatomy it is often used for ventral.",
+        "definition": "Before, or toward the front, in place; as, the anterior part of the mouth; -- opposed to posterior. Note: In comparative anatomy, anterior often signifies at or toward the head, cephalic; and in human anatomy it is often used for ventral.",
         "prefix": "anter",
         "prefix_definition": "front",
         "suffix": "ior",
@@ -565,7 +621,7 @@
         "prefix": "anti",
         "prefix_definition": "against",
         "suffix": "sepsis",
-        "suffix_definition": "infection"
+        "suffix_definition": "bacterial infection"
     },
     {
         "word": "aortic",
@@ -585,7 +641,7 @@
     },
     {
         "word": "apophysis",
-        "definition": "1. (Anat.)  A marked prominence or process on any part of a bone.",
+        "definition": "A marked prominence or process on any part of a bone.",
         "prefix": "apo",
         "prefix_definition": "separation, derived from",
         "suffix": "physis",
@@ -625,15 +681,31 @@
     },
     {
         "word": "arteritis",
-        "definition": "Inflammation of an artery or arteries.",
+        "definition": "Inflammation of an artery or arteries. Dunglison.",
         "prefix": "arter",
         "prefix_definition": "artery",
         "suffix": "itis",
         "suffix_definition": "inflammation"
     },
     {
+        "word": "artery",
+        "definition": "1. The trachea or windpipe. One of the vessels or tubes which carry either venous or arterial blood from the heart. They have tricker and more muscular walls than veins, and are connected with them by capillaries.",
+        "prefix": "arter",
+        "prefix_definition": "artery",
+        "suffix": "y",
+        "suffix_definition": "condition, process"
+    },
+    {
+        "word": "arteriography",
+        "definition": "A systematic description of the arteries.",
+        "prefix": "arterio",
+        "prefix_definition": "artery",
+        "suffix": "graphy",
+        "suffix_definition": "recording (process)"
+    },
+    {
         "word": "arteriology",
-        "definition": "The branch of angiology dealing with the arteries.",
+        "definition": "That part of anatomy which treats of arteries.",
         "prefix": "arterio",
         "prefix_definition": "artery",
         "suffix": "logy",
@@ -649,7 +721,7 @@
     },
     {
         "word": "arteriotomy",
-        "definition": "The opening of an artery, esp. for bloodletting.",
+        "definition": "The opening of an artery, esp. for bloodletting. Part of anatomy which treats of the dissection of the arteries.",
         "prefix": "arterio",
         "prefix_definition": "artery",
         "suffix": "tomy",
@@ -661,11 +733,11 @@
         "prefix": "arteri",
         "prefix_definition": "artery",
         "suffix": "ac",
-        "suffix_definition": "pertaining to"
+        "suffix_definition": "pertaining to (Gr. akos)"
     },
     {
         "word": "arterial",
-        "definition": "1. Of or pertaining to an artery, or the arteries; as, arterial action; the arterial system. 2. Of or pertaining to a main channel (resembling an artery).",
+        "definition": "1. Of or pertaining to an artery, or the arteries; as, arterial action; the arterial system.",
         "prefix": "arteri",
         "prefix_definition": "artery",
         "suffix": "al",
@@ -744,12 +816,12 @@
         "suffix_definition": "inflammation"
     },
     {
-        "word": "articulus",
-        "definition": "A joint of the cirri of the Crinoidea; a joint or segment of an arthropod appendage.",
-        "prefix": "articul",
-        "prefix_definition": "joint",
-        "suffix": "us",
-        "suffix_definition": "structure"
+        "word": "aspirate",
+        "definition": "To pronounce with a breathing.",
+        "prefix": "aspir",
+        "prefix_definition": "inhaling",
+        "suffix": "ate",
+        "suffix_definition": "status; state; function"
     },
     {
         "word": "aspirator",
@@ -800,20 +872,20 @@
         "suffix_definition": "instrument for measuring"
     },
     {
+        "word": "auditive",
+        "definition": "Of or pertaining to hearing; auditory.",
+        "prefix": "audit",
+        "prefix_definition": "hearing",
+        "suffix": "ive",
+        "suffix_definition": "character, quality"
+    },
+    {
         "word": "auditory",
         "definition": "Of or pertaining to hearing, or to the sense or organs of hearing; as, the auditory nerve. The tube from the auditory meatus or opening of the ear to the tympanic membrane.",
         "prefix": "audit",
         "prefix_definition": "hearing",
         "suffix": "ory",
         "suffix_definition": "relating to"
-    },
-    {
-        "word": "auricle",
-        "definition": "The external ear, or that part of the ear which is prominent from the head. The chamber, or one of the two chambers, of the heart, by which the blood is received and transmitted to the ventricle or ventricles; -- so called from its resemblance to the auricle or external ear of some quadrupeds.",
-        "prefix": "auri",
-        "prefix_definition": "ear",
-        "suffix": "cle",
-        "suffix_definition": "small"
     },
     {
         "word": "auriform",
@@ -849,7 +921,7 @@
     },
     {
         "word": "aurist",
-        "definition": "A physician specialized in the treatment of ear diseases.",
+        "definition": "One skilled in treating and curing disorders of the ear.",
         "prefix": "aur",
         "prefix_definition": "ear",
         "suffix": "ist",
@@ -881,7 +953,7 @@
     },
     {
         "word": "autotrophic",
-        "definition": "Capable of self-nourishment; -- said of all plants in which photosynthetic activity takes place.",
+        "definition": "Capable of self-nourishment; -- said of all plants in which photosynthetic activity takes place, as opposed to parasitism or saprophytism.",
         "prefix": "auto",
         "prefix_definition": "self, same",
         "suffix": "trophic",
@@ -905,7 +977,7 @@
     },
     {
         "word": "bacteriolysis",
-        "definition": "1. Chemical decomposition brought about by bacteria without the addition of oxygen.",
+        "definition": "Chemical decomposition brought about by bacteria without the addition of oxygen. The destruction or dissolution of bacterial cells.",
         "prefix": "bacterio",
         "prefix_definition": "bacteria",
         "suffix": "lysis",
@@ -936,6 +1008,14 @@
         "suffix_definition": "killing, destroying"
     },
     {
+        "word": "bactericide",
+        "definition": "Same as Germicide.",
+        "prefix": "bacteri",
+        "prefix_definition": "bacteria",
+        "suffix": "cide",
+        "suffix_definition": "killing"
+    },
+    {
         "word": "bacteriologist",
         "definition": "One skilled in bacteriology.",
         "prefix": "bacteri",
@@ -945,11 +1025,19 @@
     },
     {
         "word": "bacterium",
-        "definition": "A microscopic vegetable organism, usually in the form of a jointed rodlike filament, and found in putrefying organic infusions. Bacteria are destitute of chlorophyll, and are the smallest of microscopic organisms.",
+        "definition": "A microscopic vegetable organism. Certain species are active agents in fermentation, while others appear to be the cause of certain infectious diseases.",
         "prefix": "bacteri",
         "prefix_definition": "bacteria",
         "suffix": "um",
         "suffix_definition": "structure"
+    },
+    {
+        "word": "basion",
+        "definition": "The middle of the anterior margin of the great foramen of the skull.",
+        "prefix": "bas",
+        "prefix_definition": "base, foundation",
+        "suffix": "ion",
+        "suffix_definition": "process of"
     },
     {
         "word": "biceps",
@@ -968,24 +1056,16 @@
         "suffix_definition": "shape of"
     },
     {
-        "word": "biologist",
-        "definition": "A student of biology; one versed in the science of biology.",
-        "prefix": "bio",
-        "prefix_definition": "life",
-        "suffix": "logist",
-        "suffix_definition": "one who studies"
-    },
-    {
         "word": "biology",
         "definition": "The science of life; that branch of knowledge which treats of living matter as distinct from matter which is not living; the study of living tissue. It has to do with the origin, structure, development, function, and distribution of animals and plants.",
-        "prefix": "bio",
-        "prefix_definition": "life",
-        "suffix": "logy",
+        "prefix": "bi",
+        "prefix_definition": "two",
+        "suffix": "ology",
         "suffix_definition": "study of"
     },
     {
         "word": "biogenesis",
-        "definition": "the synthesis of substances by living organisms.",
+        "definition": "A doctrine that the genesis or production of living organisms can take place only through the agency of living germs or parents. Life development generally.",
         "prefix": "bio",
         "prefix_definition": "life, living",
         "suffix": "genesis",
@@ -1001,15 +1081,47 @@
     },
     {
         "word": "biography",
-        "definition": "1. The written history of a person's life.",
+        "definition": "1. The written history of a person's life. 2. Biographical writings in general.",
         "prefix": "bio",
         "prefix_definition": "life, living",
         "suffix": "graphy",
         "suffix_definition": "recording (process)"
     },
     {
+        "word": "biolysis",
+        "definition": "The destruction of life.",
+        "prefix": "bio",
+        "prefix_definition": "life, living",
+        "suffix": "lysis",
+        "suffix_definition": "breakdown, destruction"
+    },
+    {
+        "word": "biometry",
+        "definition": "Measurement of life; calculation of the probable duration of human life.",
+        "prefix": "bio",
+        "prefix_definition": "life, living",
+        "suffix": "metry",
+        "suffix_definition": "process of measuring"
+    },
+    {
+        "word": "bioplasm",
+        "definition": "A name suggested by Dr. Beale for the germinal matter supposed to be essential to the functions of all living beings; the material through which every form of life manifests itself; unaltered protoplasm.",
+        "prefix": "bio",
+        "prefix_definition": "life, living",
+        "suffix": "plasm",
+        "suffix_definition": "formation, thing formed"
+    },
+    {
+        "word": "bioplast",
+        "definition": "A tiny mass of bioplasm, in itself a living unit and having formative power, as a living white blood corpuscle; bioblast.",
+        "prefix": "bio",
+        "prefix_definition": "life, living",
+        "suffix": "plast",
+        "suffix_definition": "formation, cell"
+    },
+    {
         "word": "bioscope",
-        "definition": "A view of life; that which gives such a view.",
+        "definition": "A view of life.",
         "prefix": "bio",
         "prefix_definition": "life, living",
         "suffix": "scope",
@@ -1017,7 +1129,7 @@
     },
     {
         "word": "biotic",
-        "definition": "Relating to life.",
+        "definition": "Relating to life; as, the biotic principle.",
         "prefix": "bio",
         "prefix_definition": "life, living",
         "suffix": "tic",
@@ -1025,7 +1137,7 @@
     },
     {
         "word": "biliary",
-        "definition": "Relating or belonging to bile.",
+        "definition": "Relating or belonging to bile; conveying bile; as, biliary acids; biliary ducts. Biliary calculus, a gallstone, or a concretion formed in the gall bladder or its duct.",
         "prefix": "bili",
         "prefix_definition": "bile",
         "suffix": "ary",
@@ -1033,11 +1145,19 @@
     },
     {
         "word": "bilious",
-        "definition": "Of or pertaining to the bile.",
+        "definition": "1. Of or pertaining to the bile. 2. Disordered in respect to the bile; troubled with and excess of bile; as, a bilious patient; dependent on, or characterized by, an excess of bile; as, bilious symptoms.",
         "prefix": "bili",
         "prefix_definition": "bile",
         "suffix": "ous",
         "suffix_definition": "pertaining to"
+    },
+    {
+        "word": "blastogenesis",
+        "definition": "Multiplication or increase by gemmation or budding.",
+        "prefix": "blasto",
+        "prefix_definition": "immature, early stage cell",
+        "suffix": "genesis",
+        "suffix_definition": "formation, producing"
     },
     {
         "word": "blepharitis",
@@ -1056,28 +1176,12 @@
         "suffix_definition": "pertaining to"
     },
     {
-        "word": "brachiate",
-        "definition": "Having branches in pairs, decussated, all nearly horizontal, and each pair at right angles with the next, as in the maple and lilac.",
-        "prefix": "brachi",
-        "prefix_definition": "arm",
-        "suffix": "ate",
-        "suffix_definition": "status; state; function"
-    },
-    {
         "word": "brachium",
         "definition": "The upper arm; the segment of the fore limb between the shoulder and the elbow.",
         "prefix": "brachi",
         "prefix_definition": "arm",
         "suffix": "um",
         "suffix_definition": "structure"
-    },
-    {
-        "word": "bronchocele",
-        "definition": "a segment of bronchus that is filled with mucus and completely enclosed so the mucus cannot drain out.",
-        "prefix": "broncho",
-        "prefix_definition": "bronchus",
-        "suffix": "cele",
-        "suffix_definition": "hernia, swelling"
     },
     {
         "word": "bronchotome",
@@ -1094,6 +1198,14 @@
         "prefix_definition": "bronchus",
         "suffix": "tomy",
         "suffix_definition": "incision"
+    },
+    {
+        "word": "bronchia",
+        "definition": "The bronchial tubes which arise from the branching of the trachea, esp. the subdivision of the bronchi. Dunglison.",
+        "prefix": "bronch",
+        "prefix_definition": "bronchus",
+        "suffix": "ia",
+        "suffix_definition": "condition"
     },
     {
         "word": "bronchitis",
@@ -1137,19 +1249,11 @@
     },
     {
         "word": "cachexia",
-        "definition": "A condition of ill health and impairment of nutrition due to impoverishment of the blood, esp. when caused by a specific morbid process (as cancer or tubercle).",
+        "definition": "A condition of ill health and impairment of nutrition due to impoverishment of the blood, esp. when caused by a specific morbid process.",
         "prefix": "cac",
         "prefix_definition": "bad, abnormal",
         "suffix": "hexia",
         "suffix_definition": "condition"
-    },
-    {
-        "word": "calcaneal",
-        "definition": "Pertaining to the calcaneum; as, calcaneal arteries.",
-        "prefix": "calcane",
-        "prefix_definition": "calcaneus (heel)",
-        "suffix": "al",
-        "suffix_definition": "pertaining to"
     },
     {
         "word": "calcaneum",
@@ -1177,7 +1281,7 @@
     },
     {
         "word": "capitate",
-        "definition": "1. Headlike in form; also, having the distal end enlarged and rounded, as the stigmas of certain flowers. 2. (Bot.)  Having the flowers gathered into a head.",
+        "definition": "Headlike in form; also, having the distal end enlarged and rounded.",
         "prefix": "capit",
         "prefix_definition": "head",
         "suffix": "ate",
@@ -1193,11 +1297,19 @@
     },
     {
         "word": "capsulary",
-        "definition": "Of or pertaining to a capsule; having the nature of a capsula; hollow and fibrous. A ligamentous bag or capsule surrounding many movable joints in the skeleton.",
+        "definition": "Of or pertaining to a capsule; having the nature of a capsula; hollow and fibrous. Capsular ligament, a ligamentous bag or capsule surrounding many movable joints in the skeleton.",
         "prefix": "capsul",
         "prefix_definition": "capsule",
         "suffix": "ary",
         "suffix_definition": "pertaining to"
+    },
+    {
+        "word": "capsulate",
+        "definition": "Inclosed in a capsule, or as in a chest or box.",
+        "prefix": "capsul",
+        "prefix_definition": "capsule",
+        "suffix": "ate",
+        "suffix_definition": "status; state; function"
     },
     {
         "word": "capsulitis",
@@ -1209,7 +1321,7 @@
     },
     {
         "word": "carcinology",
-        "definition": "The branch of science that studies crustaceans, including animals such as shrimp, crabs, lobster, crayfish, and barnacles (Yes, google it).",
+        "definition": "The depertment of zoology which treats of the Crustacea (lobsters, crabs, etc.); -- called also malacostracology and crustaceology.",
         "prefix": "carcino",
         "prefix_definition": "cancer",
         "suffix": "logy",
@@ -1217,7 +1329,7 @@
     },
     {
         "word": "carcinoma",
-        "definition": "A cancer. By some medical writers, the term is applied to an indolent tumor. See Cancer. Dunglison.",
+        "definition": "A cancer. By some medical writers, the term is applied to an indolent tumor.",
         "prefix": "carcin",
         "prefix_definition": "cancer",
         "suffix": "oma",
@@ -1241,7 +1353,7 @@
     },
     {
         "word": "cardiography",
-        "definition": "Examination by the cardiograph.",
+        "definition": "Description of the heart. Examination by the cardiograph.",
         "prefix": "cardio",
         "prefix_definition": "heart",
         "suffix": "graphy",
@@ -1272,36 +1384,12 @@
         "suffix_definition": "pertaining to"
     },
     {
-        "word": "carpology",
-        "definition": "That branch of botany which relates to the structure of seeds and fruit.",
-        "prefix": "carpo",
-        "prefix_definition": "wrist (carpal)",
-        "suffix": "logy",
-        "suffix_definition": "study of"
-    },
-    {
-        "word": "carpophyte",
-        "definition": "A flowerless plant which forms a true fruit as the result of fertilization, as the red seaweeds, the Ascomycetes, etc.",
-        "prefix": "carpo",
-        "prefix_definition": "wrist (carpal)",
-        "suffix": "phyte",
-        "suffix_definition": "plant"
-    },
-    {
         "word": "carpal",
-        "definition": "Of or pertaining to the carpus, or wrist. One of the bones or cartilages of the carpus; a carpale.",
+        "definition": "Of or pertaining to the carpus, or wrist. One of the bones or cartilages of the carpus.",
         "prefix": "carp",
         "prefix_definition": "wrist (carpal)",
         "suffix": "al",
         "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "carpologist",
-        "definition": "One who describes fruits; one versed in carpology.",
-        "prefix": "carp",
-        "prefix_definition": "wrist (carpal)",
-        "suffix": "ologist",
-        "suffix_definition": "one who studies"
     },
     {
         "word": "carpus",
@@ -1312,56 +1400,24 @@
         "suffix_definition": "structure"
     },
     {
-        "word": "catalepsy",
-        "definition": "A sudden suspension of sensation and volition, the body and limbs preserving the position that may be given them, while the action of the heart and lungs continues.",
-        "prefix": "cata",
-        "prefix_definition": "down",
-        "suffix": "lepsy",
-        "suffix_definition": "seizure"
-    },
-    {
-        "word": "catalysis",
-        "definition": "Dissolution; degeneration; decay.",
-        "prefix": "cata",
-        "prefix_definition": "down",
-        "suffix": "lysis",
-        "suffix_definition": "breakdown, destruction"
-    },
-    {
         "word": "caudal",
-        "definition": "Of the nature of, or pertaining to, a tail; having a tail-like appendage.",
+        "definition": "Backwards; toward the tail or posterior part.Pertaining to, a tail; having a tail-like appendage.",
         "prefix": "caud",
         "prefix_definition": "tail, down",
         "suffix": "al",
         "suffix_definition": "pertaining to"
     },
     {
-        "word": "caudate",
-        "definition": "Having a tail or taillike appendage.",
-        "prefix": "caud",
-        "prefix_definition": "tail, down",
-        "suffix": "ate",
-        "suffix_definition": "status; state; function"
-    },
-    {
-        "word": "caustic",
-        "definition": "Capable of destroying the texture of anything or eating away its substance by chemical action; burning; corrosive; searing.",
-        "prefix": "caus",
-        "prefix_definition": "burn(ing)",
-        "suffix": "tic",
-        "suffix_definition": "pertaining to"
-    },
-    {
         "word": "cecity",
         "definition": "Blindness.",
         "prefix": "cec",
-        "prefix_definition": "Blindness",
+        "prefix_definition": "cecum",
         "suffix": "ity",
-        "suffix_definition": ""
+        "suffix_definition": "condition"
     },
     {
         "word": "celiac",
-        "definition": "Relating to the abdomen, or to the cavity of the abdomen. The artery which issues from the aorta just below the diaphragm.",
+        "definition": "Relating to the abdomen, or to the cavity of the abdomen.",
         "prefix": "celi",
         "prefix_definition": "abdomen",
         "suffix": "ac",
@@ -1376,14 +1432,6 @@
         "suffix_definition": "inflammation"
     },
     {
-        "word": "cellulose",
-        "definition": "Consisting of, or containing, cells.",
-        "prefix": "cellul",
-        "prefix_definition": "cell",
-        "suffix": "ose",
-        "suffix_definition": "sugar"
-    },
-    {
         "word": "centrosome",
         "definition": "A peculiar rounded body lying near the nucleus of a cell. It is regarded as the dynamic element by means of which the machinery of cell division is organized.",
         "prefix": "centro",
@@ -1392,11 +1440,11 @@
         "suffix_definition": "body"
     },
     {
-        "word": "central",
-        "definition": "Relating to the center; situated in or near the center or middle; containing the center; of or pertaining to the parts near the center.",
+        "word": "centric",
+        "definition": "Placed in the center or middle; central. At York or some other centrical place.",
         "prefix": "centr",
         "prefix_definition": "center",
-        "suffix": "al",
+        "suffix": "ic",
         "suffix_definition": "pertaining to"
     },
     {
@@ -1441,7 +1489,7 @@
     },
     {
         "word": "cephalotomy",
-        "definition": "Dissection or opening of the head. Usually applied to bisection of the fetal head with a saw.",
+        "definition": "Dissection or opening of the head. Craniotomy; -- usually applied to bisection of the fetal head with a saw.",
         "prefix": "cephalo",
         "prefix_definition": "head",
         "suffix": "tomy",
@@ -1456,12 +1504,36 @@
         "suffix_definition": "crushing"
     },
     {
+        "word": "cephalous",
+        "definition": "Having a head.",
+        "prefix": "cephalo",
+        "prefix_definition": "head",
+        "suffix": "us",
+        "suffix_definition": "structure"
+    },
+    {
+        "word": "cephalad",
+        "definition": "Forwards; towards the head or anterior extremity of the body; opposed to caudad.",
+        "prefix": "cephal",
+        "prefix_definition": "head",
+        "suffix": "ad",
+        "suffix_definition": "pertaining to"
+    },
+    {
         "word": "cephalalgia",
         "definition": "Pain in the head; headache.",
         "prefix": "cephal",
         "prefix_definition": "head",
         "suffix": "algia",
         "suffix_definition": "pain, painful condition"
+    },
+    {
+        "word": "cephalate",
+        "definition": "Having a head.",
+        "prefix": "cephal",
+        "prefix_definition": "head",
+        "suffix": "ate",
+        "suffix_definition": "status; state; function"
     },
     {
         "word": "cephalic",
@@ -1472,16 +1544,24 @@
         "suffix_definition": "pertaining to"
     },
     {
-        "word": "cephalitis",
-        "definition": "Inflammation of the brain, usually caused by a virus.",
+        "word": "cephaloid",
+        "definition": "Shaped like the head.",
         "prefix": "cephal",
         "prefix_definition": "head",
-        "suffix": "itis",
-        "suffix_definition": "inflammation"
+        "suffix": "oid",
+        "suffix_definition": "pertaining to, resemble"
+    },
+    {
+        "word": "cerebellous",
+        "definition": "Pertaining to the cerebellum.",
+        "prefix": "cerebello",
+        "prefix_definition": "cerebellum",
+        "suffix": "us",
+        "suffix_definition": "structure"
     },
     {
         "word": "cerebellum",
-        "definition": "The large lobe of the hind brain in front of and above the medulla; the little brain. It controls combined muscular action.",
+        "definition": "The large lobe of the hind brain in front of and above the medulla; the little brain. It controls combined muscular action. See Brain.",
         "prefix": "cerebell",
         "prefix_definition": "cerebellum",
         "suffix": "um",
@@ -1505,7 +1585,7 @@
     },
     {
         "word": "cerebroscopy",
-        "definition": "Examination of the brain for the diagnosis of diseas; esp., the act or process of diagnosticating the condition of the brain by examination of the interior of the eye (as with an ophthalmoscope)..",
+        "definition": "Examination of the brain for the diagnosis of diseas; esp., the act or process of diagnosticating the condition of the brain by examination of the interior of the eye (as with an ophthalmoscope).",
         "prefix": "cerebro",
         "prefix_definition": "cerebrum",
         "suffix": "scopy",
@@ -1513,7 +1593,7 @@
     },
     {
         "word": "cerebral",
-        "definition": "Of or pertaining to the cerebrum.",
+        "definition": "Of or pertaining to the cerebrum. Cerebral apoplexy.",
         "prefix": "cerebr",
         "prefix_definition": "cerebrum",
         "suffix": "al",
@@ -1528,20 +1608,20 @@
         "suffix_definition": "status; state; function"
     },
     {
-        "word": "cerebric",
-        "definition": "Of, pertaining to, or derived from, the brain.",
-        "prefix": "cerebr",
-        "prefix_definition": "cerebrum",
-        "suffix": "ic",
-        "suffix_definition": "pertaining to"
-    },
-    {
         "word": "cerebritis",
         "definition": "Inflammation of the cerebrum.",
         "prefix": "cerebr",
         "prefix_definition": "cerebrum",
         "suffix": "itis",
         "suffix_definition": "inflammation"
+    },
+    {
+        "word": "cerebroid",
+        "definition": "Resembling, or analogous to, the cerebrum or brain.",
+        "prefix": "cerebr",
+        "prefix_definition": "cerebrum",
+        "suffix": "oid",
+        "suffix_definition": "pertaining to, resemble"
     },
     {
         "word": "cerebrose",
@@ -1553,7 +1633,7 @@
     },
     {
         "word": "cerebrum",
-        "definition": "The anterior, and in man the larger, division of the brain; the seat of the reasoning faculties and the will.",
+        "definition": "The anterior, and in man the larger, division of the brain; the seat of the reasoning faculties and the will. See Brain.",
         "prefix": "cerebr",
         "prefix_definition": "cerebrum",
         "suffix": "um",
@@ -1561,7 +1641,7 @@
     },
     {
         "word": "ceruminous",
-        "definition": "Pertaining to, or secreting, cerumen; as, the ceruminous glands.",
+        "definition": "Pertaining to, or secreting, cerumen (earwax); as, the ceruminous glands.",
         "prefix": "cerumino",
         "prefix_definition": "cerumen (earwax)",
         "suffix": "us",
@@ -1585,7 +1665,7 @@
     },
     {
         "word": "chemolysis",
-        "definition": "A term sometimes applied to the decomposition of organic substance into more simple bodies, by the use of chemical agents alone. Thudichum.",
+        "definition": "A term sometimes applied to the decomposition of organic substance into more simple bodies, by the use of chemical agents alone.",
         "prefix": "chemo",
         "prefix_definition": "drug, chemical",
         "suffix": "lysis",
@@ -1640,28 +1720,12 @@
         "suffix_definition": "condition, state of"
     },
     {
-        "word": "chlorotic",
-        "definition": "Pertaining to, or affected by, chlorosis.",
-        "prefix": "chloro",
-        "prefix_definition": "green",
-        "suffix": "tic",
-        "suffix_definition": "pertaining to"
-    },
-    {
         "word": "choleic",
         "definition": "Pertaining to, or obtained from, bile; as, choleic acid.",
         "prefix": "chole",
         "prefix_definition": "gall, bile",
         "suffix": "ic",
         "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "cholate",
-        "definition": "A salt of cholic acid; as, sodium cholate.",
-        "prefix": "chol",
-        "prefix_definition": "gall, bile",
-        "suffix": "ate",
-        "suffix_definition": "status; state; function"
     },
     {
         "word": "chondrogenesis",
@@ -1728,80 +1792,8 @@
         "suffix_definition": "immature, early stage cell"
     },
     {
-        "word": "chromosome",
-        "definition": "One of the minute bodies into which the chromatin of the nucleus is resolved during mitotic cell division.",
-        "prefix": "chromo",
-        "prefix_definition": "color",
-        "suffix": "some",
-        "suffix_definition": "body"
-    },
-    {
-        "word": "chromotype",
-        "definition": "1. A sheet printed in colors by any process, as a chromolithograph. See Chromolithograph. 2. A photographic picture in the natural colors.",
-        "prefix": "chromo",
-        "prefix_definition": "color",
-        "suffix": "type",
-        "suffix_definition": "class, grouping, type"
-    },
-    {
-        "word": "chromous",
-        "definition": "Of, pertaining to, or derived from, chromium, when this element has a valence lower than that in chromic compounds. Chromous acid, a bluish gray powder, CrO.OH, of weak acid properties and regard as an acid.",
-        "prefix": "chromo",
-        "prefix_definition": "color",
-        "suffix": "us",
-        "suffix_definition": "structure"
-    },
-    {
-        "word": "chromule",
-        "definition": "A general name for coloring matter of plants other than chlorophyll, especially that of petals.",
-        "prefix": "chrom",
-        "prefix_definition": "color",
-        "suffix": "ule",
-        "suffix_definition": "small"
-    },
-    {
-        "word": "chromatography",
-        "definition": "A treatise on colors",
-        "prefix": "chromato",
-        "prefix_definition": "color",
-        "suffix": "graphy",
-        "suffix_definition": "recording (process)"
-    },
-    {
-        "word": "chromatology",
-        "definition": "A treatise on colors.",
-        "prefix": "chromato",
-        "prefix_definition": "color",
-        "suffix": "logy",
-        "suffix_definition": "study of"
-    },
-    {
-        "word": "chromatoscope",
-        "definition": "A reflecting telescope, part of which is made to rotate eccentrically, so as to produce a ringlike image of a star, instead of a point; -- used in studying the scintillation of the stars.",
-        "prefix": "chromato",
-        "prefix_definition": "color",
-        "suffix": "scope",
-        "suffix_definition": "visual examination instrument"
-    },
-    {
-        "word": "chromatic",
-        "definition": "1. Relating to color, or to colors. 2. (Mus.)  Proceeding by the smaller intervals (half steps or semitones) of the scale, instead of the regular intervals of the diatonic scale. Note: The intermediate tones were formerly written and printed in colors. Chromatic aberration. (Opt.) See Aberration, 4. -- Chromatic printing, printing from type or blocks covered with inks of various colors. -- Chromatic scale (Mus.), the scale consisting of thirteen tones, including the eight scale tones and the five intermediate tones.",
-        "prefix": "chromat",
-        "prefix_definition": "color",
-        "suffix": "ic",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "chromatics",
-        "definition": "The science of colors; that part of optics which treats of the properties of colors.",
-        "prefix": "chromat",
-        "prefix_definition": "color",
-        "suffix": "ics",
-        "suffix_definition": "specialty"
-    },
-    {
         "word": "chromatism",
-        "definition": "1. (Optics)  The state of being colored, as in the case of images formed by a lens. 2. (Bot.)  An abnormal coloring of plants.",
+        "definition": "The state of being colored, as in the case of images formed by a lens.",
         "prefix": "chromat",
         "prefix_definition": "color",
         "suffix": "ism",
@@ -1809,31 +1801,15 @@
     },
     {
         "word": "chronic",
-        "definition": "1. Relating to time; according to time. 2. Continuing for a long time; lingering; habitual. Chronic disease, one which is inveterate, of long continuance, or progresses slowly, in distinction from an acute disease, which speedly terminates.",
+        "definition": "Relating to time; according to time. Continuing for a long time; lingering; habitual. Chronic disease, one which is inveterate, of long continuance, or progresses slowly, in distinction from an acute disease, which speedly terminates.",
         "prefix": "chron",
         "prefix_definition": "time",
         "suffix": "ic",
         "suffix_definition": "pertaining to"
     },
     {
-        "word": "chronologist",
-        "definition": "A person who investigates dates of events and transactions; one skilled in chronology. That learned noise and dust of the chronologist is wholly to be avoided. Locke. THe most exact chronologers tell us that Christ was born in October, and not in December. John Knox.",
-        "prefix": "chron",
-        "prefix_definition": "time",
-        "suffix": "ologist",
-        "suffix_definition": "one who studies"
-    },
-    {
-        "word": "chronology",
-        "definition": "The science which treats of measuring time by regular divisions or periods, and which assigns to events or transactions their proper dates. If history without chronology is dark and confused, chronology without history is dry and insipid. A. Holmes.",
-        "prefix": "chron",
-        "prefix_definition": "time",
-        "suffix": "ology",
-        "suffix_definition": "study of"
-    },
-    {
         "word": "circulation",
-        "definition": "1. The act of moving in a circle, or in a course which brings the moving body to the place where its motion began. This continual circulation of human things. Swift. 2. The act of passing from place to place or person to person; free diffusion; transmission. The true doctrines of astronomy appear to have had some popular circulation. Whewell. 3. Currency; circulating coin; notes, bills, etc., current for coin. 4. The extent to which anything circulates or is circulated; the measure of diffusion; as, the circulation of a newspaper. 5. (Physiol.)  The movement of the blood in the blood-vascular system, by which it is brought into close relations with almost every living elementary constituent. Also, the movement of the sap in the vessels and tissues of plants.",
+        "definition": "The movement of the blood in the blood-vascular system, by which it is brought into close relations with almost every living elementary constituent. Also, the movement of the sap in the vessels and tissues of plants.",
         "prefix": "circulat",
         "prefix_definition": "circle shape",
         "suffix": "ion",
@@ -1841,23 +1817,15 @@
     },
     {
         "word": "circulative",
-        "definition": "Promoting circulation; circulating. [R.] Coleridge.",
+        "definition": "Promoting circulation; circulating.",
         "prefix": "circulat",
         "prefix_definition": "circle shape",
         "suffix": "ive",
         "suffix_definition": "character, quality"
     },
     {
-        "word": "circulator",
-        "definition": "One who, or that which, circulates.",
-        "prefix": "circulat",
-        "prefix_definition": "circle shape",
-        "suffix": "or",
-        "suffix_definition": "doer, one who"
-    },
-    {
         "word": "circulatory",
-        "definition": "1. Circular; as, a circulatory letter. Johnson. 2. Circulating, or going round. T. Warton. 3. (Anat.)  Subserving the purposes of circulation; as, circulatory organs; of or pertaining to the organs of circulation; as, circulatory diseases. A chemical vessel consisting of two portions unequally exposed to the heat of the fire, and with connecting pipes or passages, through which the fluid rises from the overheated portion, and descends from the relatively colder, maintaining a circulation.",
+        "definition": "Subserving the purposes of circulation; as, circulatory organs; of or pertaining to the organs of circulation; as, circulatory diseases. A chemical vessel consisting of two portions unequally exposed to the heat of the fire, and with connecting pipes or passages, through which the fluid rises from the overheated portion, and descends from the relatively colder, maintaining a circulation.",
         "prefix": "circulat",
         "prefix_definition": "circle shape",
         "suffix": "ory",
@@ -1867,7 +1835,7 @@
         "word": "cirrhosis",
         "definition": "A disease of the liver in which it usually becomes smaller in size and more dense and fibrous in consistence; hence sometimes applied to similar changes in other organs, caused by increase in the fibrous framework and decrease in the proper substance of the organ.",
         "prefix": "cirrho",
-        "prefix_definition": "orange-yellow (Gr. kirrhos)",
+        "prefix_definition": "orange-yellow",
         "suffix": "sis",
         "suffix_definition": "condition, state of"
     },
@@ -1875,61 +1843,13 @@
         "word": "cirrhotic",
         "definition": "Pertaining to, caused by, or affected with, cirrhosis; as, cirrhotic degeneration; a cirrhotic liver.",
         "prefix": "cirrho",
-        "prefix_definition": "orange-yellow (Gr. kirrhos)",
+        "prefix_definition": "orange-yellow",
         "suffix": "tic",
         "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "cirrhous",
-        "definition": "See Cirrose.",
-        "prefix": "cirrho",
-        "prefix_definition": "orange-yellow (Gr. kirrhos)",
-        "suffix": "us",
-        "suffix_definition": "structure"
-    },
-    {
-        "word": "cirrhose",
-        "definition": "Same as Cirrose.",
-        "prefix": "cirrh",
-        "prefix_definition": "orange-yellow (Gr. kirrhos)",
-        "suffix": "ose",
-        "suffix_definition": "sugar"
-    },
-    {
-        "word": "cirrhus",
-        "definition": "Same as Cirrus.",
-        "prefix": "cirrh",
-        "prefix_definition": "orange-yellow (Gr. kirrhos)",
-        "suffix": "us",
-        "suffix_definition": "structure"
-    },
-    {
-        "word": "cistic",
-        "definition": "See Cystic.",
-        "prefix": "cis",
-        "prefix_definition": "cut",
-        "suffix": "tic",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "coal",
-        "definition": "1. A thoroughly charred, and extinguished or still ignited, fragment from wood or other combustible substance; charcoal. 2. (Min.)  A black, or brownish black, solid, combustible substance, dug from beds or veins in the earth to be used for fuel, and consisting, like charcoal, mainly of carbon, but more compact, and often affording, when heated, a large amount of volatile matter. Note: This word is often used adjectively, or as the first part of self-explaining compounds; as, coal-black; coal formation; coal scuttle; coal ship. etc. Note: In England the plural coals is used, for the broken mineral coal burned in grates, etc.; as, to put coals on the fire. In the United States the singular in a collective sense is the customary usage; as, a hod of coal. Age of coal plants. See Age of Acrogens, under Acrogen. -- Anthracite or Glance coal. See Anthracite. -- Bituminous coal. See under Bituminous. -- Blind coal. See under Blind. -- Brown coal, or Lignite. See Lignite. -- Caking coal, a bituminous coal, which softens and becomes pasty or semi-viscid when heated. On increasing the heat, the volatile products are driven off, and a coherent, grayish black, cellular mass of coke is left. -- Cannel coal, a very compact bituminous coal, of fine texture and dull luster. See Cannel coal. -- Coal bed (Geol.), a layer or stratum of mineral coal. -- Coal breaker, a structure including machines and machinery adapted for crushing, cleansing, and assorting coal. -- Coal field (Geol.), a region in which deposits of coal occur. Such regions have often a basinlike structure, and are hence called coal basins. See Basin. -- Coal gas, a variety of carbureted hydrogen, procured from bituminous coal, used in lighting streets, houses, etc., and for cooking and heating. -- Coal heaver, a man employed in carrying coal, and esp. in putting it in, and discharging it from, ships. -- Coal measures. (Geol.) (a) Strata of coal with the attendant rocks. (b) A subdivision of the carboniferous formation, between the millstone grit below and the Permian formation above, and including nearly all the workable coal beds of the world. -- Coal oil, a general name for mineral oils; petroleum. -- Coal plant (Geol.), one of the remains or impressions of plants found in the strata of the coal formation. -- Coal tar. See in the Vocabulary. -- To haul over the coals, to call to account; to scold or censure. [Colloq.] -- Wood coal. See Lignite. 1. To burn to charcoal; to char. [R.] Charcoal of roots, coaled into great pieces. Bacon. 2. To mark or delineate with charcoal. Camden. 3. To supply with coal; as, to coal a steamer. To take in coal; as, the steaer coaled at Southampton.",
-        "prefix": "co",
-        "prefix_definition": "together",
-        "suffix": "al",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "coon",
-        "definition": "A raccoon. See Raccoon.",
-        "prefix": "co",
-        "prefix_definition": "together",
-        "suffix": "on",
-        "suffix_definition": "that goes"
     },
     {
         "word": "coagulable",
-        "definition": "Capable of being coagulated. Boyle.",
+        "definition": "Capable of being coagulated.",
         "prefix": "coagul",
         "prefix_definition": "coagulation, clotting",
         "suffix": "able",
@@ -1945,7 +1865,7 @@
     },
     {
         "word": "coagulate",
-        "definition": "Coagulated. [Obs.] Shak. To cause (a liquid) to change into a curdlike or semisolid state, not by evaporation but by some kind of chemical reaction; to curdle; as, rennet coagulates milk; heat coagulates the white of an egg. To undergo coagulation. Boyle. Syn. -- To thicken; concrete; curdle; clot; congeal.",
+        "definition": "Coagulated. To cause (a liquid) to change into a curdlike or semisolid state, not by evaporation but by some kind of chemical reaction; to curdle; as, rennet coagulates milk; heat coagulates the white of an egg. To undergo coagulation. To thicken; concrete; curdle; clot; congeal.",
         "prefix": "coagul",
         "prefix_definition": "coagulation, clotting",
         "suffix": "ate",
@@ -1961,7 +1881,7 @@
     },
     {
         "word": "colotomy",
-        "definition": "An operation for opening the colon",
+        "definition": "An operation for opening the colon.",
         "prefix": "colo",
         "prefix_definition": "colon",
         "suffix": "tomy",
@@ -1969,7 +1889,7 @@
     },
     {
         "word": "colic",
-        "definition": "A severe paroxysmal pain in the abdomen, due to spasm, obstruction, or distention of some one of the hollow viscera. Hepatic colic, the severe pain produced by the passage of a gallstone from the liver or gall bladder through the bile duct. -- Intestinal colic, or Ordinary colic, pain due to distention of the intestines by gas. -- Lead colic, Painter's colic, a violent form of intestinal colic, associated with obstinate constipation, produced by chronic lead poisoning. -- Renal colic, the severe pain produced by the passage of a calculus from the kidney through the ureter. -- Wind colic. See Intestinal colic, above. 1. Of or pertaining to colic; affecting the bowels. Milton. 2. (Anat.)  Of or pertaining to the colon; as, the colic arteries.",
+        "definition": "A severe paroxysmal pain in the abdomen, due to spasm, obstruction, or distention of some one of the hollow viscera. Of or pertaining to colic; affecting the bowels. Of or pertaining to the colon; as, the colic arteries.",
         "prefix": "col",
         "prefix_definition": "colon",
         "suffix": "ic",
@@ -1984,171 +1904,11 @@
         "suffix_definition": "inflammation"
     },
     {
-        "word": "colon",
-        "definition": "1. (Anat.)  That part of the large intestines which extends from the c\u00c3\u00a6cum to the rectum. Note: [See Illust of Digestion.] 2. (Gram.)  A point or character, formed thus [:], used to separate parts of a sentence that are complete in themselves and nearly independent, often taking the place of a conjunction.",
-        "prefix": "col",
-        "prefix_definition": "colon",
-        "suffix": "on",
-        "suffix_definition": "that goes"
-    },
-    {
-        "word": "color",
-        "definition": "1. A property depending on the relations of light to the eye, by which individual and specific differences in the hues and tints of objects are apprehended in vision; as, gay colors; sad colors, etc. Note: The sensation of color depends upon a peculiar function of the retina or optic nerve, in consequence of which rays of light produce different effects according to the length of their waves or undulations, waves of a certain length producing the sensation of red, shorter waves green, and those still shorter blue, etc. White, or ordinary, light consists of waves of various lengths so blended as to produce no effect of color, and the color of objects depends upon their power to absorb or reflect a greater or less proportion of the rays which fall upon them. 2. Any hue distinguished from white or black. 3. The hue or color characteristic of good health and spirits; ruddy complexion. Give color to my pale cheek. Shak. 4. That which is used to give color; a paint; a pigment; as, oil colors or water colors. 5. That which covers or hides the real character of anything; semblance; excuse; disguise; appearance. They had let down the boat into the sea, under color as though they would have cast anchors out of the foreship. Acts xxvii. 30. That he should die is worthy policy; But yet we want a color for his death. Shak. 6. Shade or variety of character; kind; species. Boys and women are for the most part cattle of this color. Shak. 7. A distinguishing badge, as a flag or similar symbol (usually in the plural); as, the colors or color of a ship or regiment; the colors of a race horse (that is, of the cap and jacket worn by the jockey). In the United States each regiment of infantry and artillery has two colors, one national and one regimental. Farrow. 8. (Law)  An apparent right; as where the defendant in trespass gave to the plaintiff an appearance of title, by stating his title specially, thus removing the cause from the jury to the court. Blackstone. Note: Color is express when it is asverred in the pleading, and implied when it is implied in the pleading. Body color. See under Body. -- Color blindness, total or partial inability to distinguish or recognize colors. See Daltonism. -- Complementary color, one of two colors so related to each other that when blended together they produce white light; -- so called because each color makes up to the other what it lacks to make it white. Artificial or pigment colors, when mixed, produce effects differing from those of the primary colors, in consequence of partial absorption. -- Of color (as persons, races, etc.), not of the white race; -- commonly meaning, esp. in the United States, of negro blood, pure or mixed. -- Primary colors, those developed from the solar beam by the prism, viz., red, orange, yellow, green, blue, indigo, and violet, which are reduced by some authors to three, -- red, green, and violet-blue. These three are sometimes called fundamental colors. -- Subjective or Accidental color, a false or spurious color seen in some instances, owing to the persistence of the luminous impression upon the retina, and a gradual change of its character, as where a wheel perfectly white, and with a circumference regulary subdiveded, is made to revolve rapidly over a dark object, the teeth, of the wheel appear to the eye of different shades of color varying with the rapidity of rotation. See Accidental colors, under Accidental. 1. To change or alter the bue or tint of, by dyeing, staining, painting, etc.; to dye; to tinge; to aint; to stain. The rays, to speak properly, are not colored; in them there is nothing else than a certain power and disposition to stir up a sensation of this or that color. Sir I. Newton. 2. To change or alter, as if by dyeing or painting; to give a false appearance to; usually, to give a specious appearance to; to cause to appear attractive; to make plausible; to palliate or excuse; as, the facts were colored by his prejudices. He colors the falsehood of \u00c3\u2020neas by an express command from Jupiter to forsake the queen. Dryden. 3. To hide. [Obs.] That by his fellowship he color might Both his estate and love from skill of any wight. Spenser. To acquire color; to turn red, especially in the face; to blush.",
-        "prefix": "col",
-        "prefix_definition": "colon",
-        "suffix": "or",
-        "suffix_definition": "doer, one who"
-    },
-    {
-        "word": "colure",
-        "definition": "One of two great circles intersecting at right angles in the poles of the equator. One of them passes through the equinoctial points, and hence is denominated the equinoctial colure; the other intersects the equator at the distance of 90\u00c2\u00ba from the former, and is called the solstitial colure. Thrice the equinoctial line He circled; four times crossed the car of night From pole to pole, traversing each colure. Milton.",
-        "prefix": "col",
-        "prefix_definition": "colon",
-        "suffix": "ure",
-        "suffix_definition": "process"
-    },
-    {
-        "word": "coly",
-        "definition": "Any bird of the genus Colius and allied genera. They inhabit Africa.",
-        "prefix": "col",
-        "prefix_definition": "colon",
-        "suffix": "y",
-        "suffix_definition": "condition, process"
-    },
-    {
-        "word": "collagen",
-        "definition": "The chemical basis of ordinary connective tissue, as of tendons or sinews and of bone. On being boiled in water it becomes gelatin or glue.",
-        "prefix": "colla",
-        "prefix_definition": "neckline",
-        "suffix": "gen",
-        "suffix_definition": "formation, producing"
-    },
-    {
-        "word": "collate",
-        "definition": "1. To compare critically, as books or manuscripts, in order to note the points of agreement or disagreement. I must collage it, word, with the original Hebrew. Coleridge. 2. To gather and place in order, as the sheets of a book for binding. 3. (Eccl.)  To present and institute in a benefice, when the person presenting is both the patron and the ordinary; -- followed by to. 4. To bestow or confer. [Obs.] Jer. Taylor. To place in a benefice, when the person placing is both the patron and the ordinary. If the bishop neglets to collate within six months, the right to do it devolves on the archbishop. Encyc. Brit.",
-        "prefix": "coll",
-        "prefix_definition": "neckline",
-        "suffix": "ate",
-        "suffix_definition": "status; state; function"
-    },
-    {
-        "word": "colline",
-        "definition": "A small hill or mount. [Obs.] And watered park, full of fine collines and ponds. Evelyn.",
-        "prefix": "coll",
-        "prefix_definition": "neckline",
-        "suffix": "ine",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "colling",
-        "definition": "An embrace; dalliance. [Obs.] Halliwell.",
-        "prefix": "coll",
-        "prefix_definition": "neckline",
-        "suffix": "ing",
-        "suffix_definition": "action, process (verb)"
-    },
-    {
-        "word": "colloid",
-        "definition": "Resembling glue or jelly; characterized by a jellylike appearance; gelatinous; as, colloid tumors. 1. (Physiol. Chem.)  A substance (as albumin, gum, gelatin, etc.) which is of a gelatinous rather than a crystalline nature, and which diffuses itself through animal membranes or vegetable parchment more slowly than crystalloids do; -- opposed to crystalloid. 2. (Med.)  A gelatinous substance found in colloid degeneration and colloid cancer. Styptic colloid (Med.), a preparation of astringent and antiseptic substances with some colloid material, as collodion, for ready use.",
-        "prefix": "coll",
-        "prefix_definition": "neckline",
-        "suffix": "oid",
-        "suffix_definition": "pertaining to, resemble"
-    },
-    {
         "word": "collum",
-        "definition": "1. (Anat.)  A neck or cervix. Dunglison. 2. (Bot.)  Same as Collar. Gray.",
+        "definition": "Latin word meaning neck or cervix. Same as Collar.",
         "prefix": "coll",
         "prefix_definition": "neckline",
         "suffix": "um",
-        "suffix_definition": "structure"
-    },
-    {
-        "word": "colly",
-        "definition": "The black grime or soot of coal. [Obs.] Burton. To render black or dark, as of with coal smut; to begrime. [Archaic.] Thou hast not collied thy face enough. B. Jonson. Brief as the lighting in the collied night. Shak. A kind of dog. See Collie.",
-        "prefix": "coll",
-        "prefix_definition": "neckline",
-        "suffix": "y",
-        "suffix_definition": "condition, process"
-    },
-    {
-        "word": "colonist",
-        "definition": "A member or inhabitant of a colony.",
-        "prefix": "colon",
-        "prefix_definition": "colon",
-        "suffix": "ist",
-        "suffix_definition": "specialist"
-    },
-    {
-        "word": "colonitis",
-        "definition": "See Colitis.",
-        "prefix": "colon",
-        "prefix_definition": "colon",
-        "suffix": "itis",
-        "suffix_definition": "inflammation"
-    },
-    {
-        "word": "colonize",
-        "definition": "To plant or establish a colony or colonies in; to people with colonists; to migrate to and settle in. Bacon. They that would thus colonize the stars with inhabitants. Howell. To remove to, and settle in, a distant country; to make a colony. C. Buchanan.",
-        "prefix": "colon",
-        "prefix_definition": "colon",
-        "suffix": "ize",
-        "suffix_definition": "do, make (verb)"
-    },
-    {
-        "word": "colony",
-        "definition": "1. A company of people transplanted from their mother country to a remote province or country, and remaining subject to the jurisdiction of the parent state; as, the British colonies in America. The first settlers of New England were the best of Englishmen, well educated, devout Christians, and zealous lovers of liberty. There was never a colony formed of better materials. Ames. 2. The district or country colonized; a settlement. 3. A company of persons from the same country sojourning in a foreign city or land; as, the American colony in Paris. 4. (Nat. Hist.)  A number of animals or plants living or growing together, beyond their usual range.",
-        "prefix": "colon",
-        "prefix_definition": "colon",
-        "suffix": "y",
-        "suffix_definition": "condition, process"
-    },
-    {
-        "word": "comate",
-        "definition": "Encompassed with a coma, or bushy appearance, like hair; hairy.",
-        "prefix": "com",
-        "prefix_definition": "together, with",
-        "suffix": "ate",
-        "suffix_definition": "status; state; function"
-    },
-    {
-        "word": "comic",
-        "definition": "1. Relating to comedy, as distinct from tragedy. I can not for the stage a drama lay, Tragic or comic, but thou writ'st the play. B. Jonson. 2. Causing mirth; ludicrous. \"Comic shows.\" Shak. A comedian. [Obs.] Steele.",
-        "prefix": "com",
-        "prefix_definition": "together, with",
-        "suffix": "ic",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "coming",
-        "definition": "1. Approaching; of the future, especially the near future; the next; as, the coming week or year; the coming exhibition. Welcome the coming, speed the parting, guest. Pope. Your coming days and years. Byron. 2. Ready to come; complaisant; fond. [Obs.] Pope. 1. Approach; advent; manifestation; as, the coming of the train. 2. Specifically: The Second Advent of Christ. Coming in. (a) Entrance; entrance way; manner of entering; beginning. \"The goings out thereof, and the comings in thereof.\" Ezek. xliii. 11 (b) Income or revenue. \"What are thy comings in\" Shak.",
-        "prefix": "com",
-        "prefix_definition": "together, with",
-        "suffix": "ing",
-        "suffix_definition": "action, process (verb)"
-    },
-    {
-        "word": "comity",
-        "definition": "Mildness and suavity of manners; courtesy between equals; friendly equals; friendly civility; as, comity of manners; the comity of States. Comity of nations (International Law), the courtesy by which nations recognize within their own territory, or in their courts, the peculiar institutions of another nation or the rights and privileges acquired by its citizens in their own land. By some authorities private international law rests on this comity, but the better opinion is that it is part of the common law of the land, and hence is obligatory as law. Syn. -- Civility; good breeding; courtesy; good will.",
-        "prefix": "com",
-        "prefix_definition": "together, with",
-        "suffix": "ity",
-        "suffix_definition": "condition"
-    },
-    {
-        "word": "comose",
-        "definition": "Bearing a tuft of soft hairs or down, as the seeds of milkweed. Gray.",
-        "prefix": "com",
-        "prefix_definition": "together, with",
-        "suffix": "ose",
-        "suffix_definition": "sugar"
-    },
-    {
-        "word": "comatous",
-        "definition": "Comatose.",
-        "prefix": "comato",
-        "prefix_definition": "deep sleep",
-        "suffix": "us",
         "suffix_definition": "structure"
     },
     {
@@ -2157,107 +1917,11 @@
         "prefix": "comat",
         "prefix_definition": "deep sleep",
         "suffix": "ose",
-        "suffix_definition": "sugar"
-    },
-    {
-        "word": "conform",
-        "definition": "Of the same form; similar in import; conformable.  Bacon. Care must be taken that the interpretation be every way conform to the analogy of faith. Bp.Hall. 1. To be in accord or harmony; to comply; to be obedient; to submit; -- with to or with. A rule to which experience must conform. Whewell. 2.  (Eng. Eccl. Hist.) To comply with the usages of the Established Church; to be a conformist. About two thousand ministers whose consciences did not suffer them to conform were driven from their benefices in a day. Macaulay. To shape in accordance with; to make like; to bring into harmony or agreement with; -- usually with to or unto. Demand of them wherefore they conform not themselves unto the order of the church. Hooker.",
-        "prefix": "con",
-        "prefix_definition": "with, together",
-        "suffix": "form",
-        "suffix_definition": "shape of"
-    },
-    {
-        "word": "conia",
-        "definition": "Same as Conine.",
-        "prefix": "con",
-        "prefix_definition": "with, together",
-        "suffix": "ia",
-        "suffix_definition": "condition"
-    },
-    {
-        "word": "conic",
-        "definition": "1. Having the form of, or resembling, a geometrical cone; round and tapering to a point, or gradually lessening in circumference; as, a conic or conical figure; a conical vessel. 2. Of or pertaining to a cone; as, conic sections. Conic section (Geom.), a curved line formed by the intersection of the surface of a right cone and a plane. The conic sections are the parabola, ellipse, and hyperbola. The right lines and the circle which result from certain positions of the plane are sometimes, though not generally included. -- Conic sections, that branch of geometry which treats of the parabola, ellipse, and hyperbola. -- Conical pendulum. See Pendulum. -- Conical projection, a method of delineating the surface of a sphere upon a plane surface as if projected upon the surface of a cone; -- much used by makers of maps in Europe. -- Conical surface (Geom.), a surface described by a right line moving along any curve and always passing through a fixed point that is not in the plane of that curve. A conic section.",
-        "prefix": "con",
-        "prefix_definition": "with, together",
-        "suffix": "ic",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "conics",
-        "definition": "1. That branch of geometry which treats of the cone and the curves which arise from its sections. 2. Conic sections.",
-        "prefix": "con",
-        "prefix_definition": "with, together",
-        "suffix": "ics",
-        "suffix_definition": "specialty"
-    },
-    {
-        "word": "conine",
-        "definition": "A powerful and very poisonous vegetable alkaloid found in the hemlock (Conium maculatum) and extracted as a colorless oil, C8H17N, of strong repulsive odor and acrid taste. It is regarded as a derivative of piperidine and likewise of one of the collidines. It occasions a gradual paralysis of the motor nerves. Called also coniine, coneine, conia, etc. See Conium, 2.",
-        "prefix": "con",
-        "prefix_definition": "with, together",
-        "suffix": "ine",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "conoid",
-        "definition": "1. Anything that has a form resembling that of a cone. 2. (Geom.) (a) A solid formed by the revolution of a conic section about its axis; as, a parabolic conoid, elliptic conoid, etc.; -- more commonly called paraboloid, ellipsoid, etc. (b) A surface which may be generated by a straight line moving in such a manner as always to meet a given straight line and a given curve, and continue parallel to a given plane. Math. Dict. , Resembling a cone; conoidal.",
-        "prefix": "con",
-        "prefix_definition": "with, together",
-        "suffix": "oid",
-        "suffix_definition": "pertaining to, resemble"
-    },
-    {
-        "word": "conure",
-        "definition": "An American parrakeet of the genus Conurus. Many species are known. See Parrakeet.",
-        "prefix": "con",
-        "prefix_definition": "with, together",
-        "suffix": "ure",
-        "suffix_definition": "process"
-    },
-    {
-        "word": "conus",
-        "definition": "1. A cone. 2. (Zo\u00c3\u00b6l.)  A Linnean genus of mollusks having a conical shell. See Cone, n., 4.",
-        "prefix": "con",
-        "prefix_definition": "with, together",
-        "suffix": "us",
-        "suffix_definition": "structure"
-    },
-    {
-        "word": "cony",
-        "definition": "1. (Zo\u00c3\u00b6l.) (a) A rabbit, esp., the European rabbit (Lepus cuniculus). (b) The chief hare. Note: The cony of Scripture is thought to be Hyrax Syriacus, called also daman, and cherogril. See Daman. 2. A simpleton. [Obs.] It is a most simple animal; whence are derived our usual phrases of cony and cony catcher. Diet's Dry Dinner (1599). 3. (Zo\u00c3\u00b6l.) (a) An important edible West Indian fish (Epinephelus apua); the hind of Bermuda. (b) A local name of the burbot. [Eng.]",
-        "prefix": "con",
-        "prefix_definition": "with, together",
-        "suffix": "y",
-        "suffix_definition": "condition, process"
-    },
-    {
-        "word": "coniform",
-        "definition": "Cone-shaped; conical.",
-        "prefix": "coni",
-        "prefix_definition": "dust",
-        "suffix": "form",
-        "suffix_definition": "shape of"
-    },
-    {
-        "word": "coniine",
-        "definition": "See Conine.",
-        "prefix": "coni",
-        "prefix_definition": "dust",
-        "suffix": "ine",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "conium",
-        "definition": "1. (Bot.)  A genus of biennial, poisonous, white-flowered, umbelliferous plants, bearing ribbed fruit (\"seeds\") and decompound leaves. 2. (Med.)  The common hemlock (Conium maculatum, poison hemlock, spotted hemlock, poison parsley), a roadside weed of Europe, Asia, and America, cultivated in the United States for medicinal purpose. It is an active poison. The leaves and fruit are used in medicine.",
-        "prefix": "coni",
-        "prefix_definition": "dust",
-        "suffix": "um",
-        "suffix_definition": "structure"
+        "suffix_definition": "sugar/full of"
     },
     {
         "word": "conscious",
-        "definition": "1. Possessing the faculty of knowing one's own thoughts or mental operations. Some are thinking or conscious beings, or have a power of thought. I. Watts. 2. Possessing knowledge, whether by internal, conscious experience or by external observation; cognizant; aware; sensible. Her conscious heart imputed suspicion where none could have been felt. Hawthorne. The man who breathes most healthilly is least conscious of his own breathing. De Quincey. 3. Made the object of consciousness; known to one's self; as, conscious guilt. With conscious terrors vex me round. Milton. Syn. -- Aware; apprised; sensible; felt; known.",
+        "definition": "Possessing the faculty of knowing one's own thoughts or mental operations. Some are thinking or conscious beings, or have a power of thought.",
         "prefix": "conscio",
         "prefix_definition": "aware",
         "suffix": "us",
@@ -2265,71 +1929,15 @@
     },
     {
         "word": "coreplasty",
-        "definition": "A plastic operation on the pupil, as for forming an artificial pupil. -- Cor`e*plas\"tic (-plas\"tik), a.",
+        "definition": "A plastic operation on the pupil, as for forming an artificial pupil.",
         "prefix": "core",
         "prefix_definition": "pupil",
         "suffix": "plasty",
         "suffix_definition": "surgical repair"
     },
     {
-        "word": "coral",
-        "definition": "1. (Zo\u00c3\u00b6l.)  The hard parts or skeleton of various Anthozoa, and of a few Hydrozoa. Similar structures are also formed by some Bryozoa. Note: The large stony corals forming coral reefs belong to various genera of Madreporaria, and to the hydroid genus, Millepora. The red coral, used in jewelry, is the stony axis of the stem of a gorgonian (Corallium rubrum) found chiefly in the Mediterranean. The fan corals, plume corals, and sea feathers are species of Gorgoniacea, in which the axis is horny. Organ-pipe coral is formed by the genus Tubipora, an Alcyonarian, and black coral is in part the axis of species of the genus Antipathes. See Anthozoa, Madrepora. 2. The ovaries of a cooked lobster; -- so called from their color. 3. A piece of coral, usually fitted with small bells and other appurtenances, used by children as a plaything. Brain coral, or Brain stone coral. See under Brain. -- Chain coral. See under Chain. -- Coral animal (Zo\u00c3\u00b6l.), one of the polyps by which corals are formed. They are often very erroneously called coral insects. -- Coral fish. See in the Vocabulary. -- Coral reefs (Phys. Geog.), reefs, often of great extent, made up chiefly of fragments of corals, coral sands, and the solid limestone resulting from their consolidation. They are classed as fringing reefs, when they border the land; barrier reefs, when separated from the shore by a broad belt of water; atolls, when they constitute separate islands, usually inclosing a lagoon. See Atoll. -- Coral root (Bot.), a genus (Corallorhiza) of orchideous plants, of a yellowish or brownish red color, parasitic on roots of other plants, and having curious jointed or knotted roots not unlike some kinds of coral. See Illust. under Coralloid. -- Coral snake. (Zo) (a) A small, venomous, Brazilian snake (Elaps corallinus), coral-red, with black bands. (b) A small, harmless, South American snake (Tortrix scytale). -- Coral tree (Bot.), a tropical, leguminous plant, of several species, with showy, scarlet blossoms and coral-red seeds. The best known is Erythrina Corallodendron. -- Coral wood, a hard, red cabinet wood. McElrath.",
-        "prefix": "cor",
-        "prefix_definition": "pupil",
-        "suffix": "al",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "corant",
-        "definition": "A sprightly but somewhat stately dance, now out of fashion. It is harder to dance a corant well, than a jig. Sir W. temple. Dancing a coranto with him upon the heath. Macaulay.",
-        "prefix": "cor",
-        "prefix_definition": "pupil",
-        "suffix": "ant",
-        "suffix_definition": "doing, having"
-    },
-    {
-        "word": "corcle",
-        "definition": "The heart of the seed; the embryo or germ. [Obs.]",
-        "prefix": "cor",
-        "prefix_definition": "pupil",
-        "suffix": "cle",
-        "suffix_definition": "small"
-    },
-    {
-        "word": "cordal",
-        "definition": "Same as Cordelle.",
-        "prefix": "cord",
-        "prefix_definition": "cord",
-        "suffix": "al",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "cordate",
-        "definition": "Heart-shaped; as, a cordate leaf.",
-        "prefix": "cord",
-        "prefix_definition": "cord",
-        "suffix": "ate",
-        "suffix_definition": "status; state; function"
-    },
-    {
-        "word": "cordon",
-        "definition": "1. A cord or ribbon bestowed or borne as a badge of honor; a broad ribbon, usually worn after the manner of a baldric, constituting a mark of a very high grade in an honorary order. Cf. Grand cordon. 2. The cord worn by a Franciscan friar. Sir E. Sandys. 3. (Fort.)  The coping of the scarp wall, which projects beyong the face of the wall a few inches. 4. (Mil.)  A line or series of sentinels, or of military posts, inclosing or guarding any place or thing. 5. A rich and ornamental lace or string, used to secure a mantle in some costumes of state. Cordon bleu (kd\" bl Etym: [F., blue cordon], a first-rate cook, or one worthy to be the cook of the cordons bleus, or Knights of the Holy Ghost, famous for their good dinners. -- Cordon sanitaire (kd\" s Etym: [F., sanitary cordon], a line of troops or military posts around a district infected with disease, to cut off communication, and thus prevent the disease from spreading.",
-        "prefix": "cord",
-        "prefix_definition": "cord",
-        "suffix": "on",
-        "suffix_definition": "that goes"
-    },
-    {
-        "word": "cordy",
-        "definition": "Of, or like, cord; having cords or cordlike parts.",
-        "prefix": "cord",
-        "prefix_definition": "cord",
-        "suffix": "y",
-        "suffix_definition": "condition, process"
-    },
-    {
         "word": "corneous",
-        "definition": "Of a texture resembling horn; horny; hard. Sir T. Browne.",
+        "definition": "Of a texture resembling horn; horny; hard.",
         "prefix": "corneo",
         "prefix_definition": "cornea",
         "suffix": "us",
@@ -2345,7 +1953,7 @@
     },
     {
         "word": "corneule",
-        "definition": "One of the corneas of a compound eye in the invertebrates. Carpenter.",
+        "definition": "One of the corneas of a compound eye in the invertebrates.",
         "prefix": "corne",
         "prefix_definition": "cornea",
         "suffix": "ule",
@@ -2353,7 +1961,7 @@
     },
     {
         "word": "coronal",
-        "definition": "1. Of or pertaining to a corona (in any of the senses). The coronal light during the eclipse is faint. Abney. 2. Of or pertaining to a king's crown, or coronation. The law and his coronal oath require his undeniable assent to what laws the Parliament agree upon. Milton. 3. Of or pertaining to the top of the head or skull. 4. (Zo\u00c3\u00b6l.)  Of or pertaining to the shell of a sea urchin. Coronal suture (Anat.), a suture extending across the skull between the parietal and frontal bones; the frontoparietal suture. 1. A crown; wreath; garland. Spenser. 2. The frontal bone, over which the ancients wore their coron\u00c3\u00a6 or garlands. Hooper.",
+        "definition": "Of or pertaining to a corona. A suture extending across the skull between the parietal and frontal bones; the frontoparietal suture.",
         "prefix": "coron",
         "prefix_definition": "heart",
         "suffix": "al",
@@ -2361,7 +1969,7 @@
     },
     {
         "word": "coronary",
-        "definition": "1. Of or pertaining to a crown; ferming, or adapted to form, a crown or garland. \"Coronary thorns.\" Bp. Pearson. The catalogue of coronary plants is not large in Theophrastus. Sir T. Browne. 2. (Anat.)  Resembling, or situated like, a crown or circlet; as, the coronary arteries and veins of the heart. A small bone in the foot of a horse.",
+        "definition": "Of or pertaining to a crown. Resembling, or situated like, a crown or circlet; as, the coronary arteries and veins of the heart.",
         "prefix": "coron",
         "prefix_definition": "heart",
         "suffix": "ary",
@@ -2369,71 +1977,31 @@
     },
     {
         "word": "coronate",
-        "definition": "1. Having or wearing a crown. 2. (Zo\u00c3\u00b6l.) (a) Having the coronal feathers lengthened or otherwise distinguished; -- said of birds. (b) Girt about the spire with a row of tubercles or spines; -- said of spiral shells. 3. (Biol.)  Having a crest or a crownlike appendage.",
+        "definition": "Having a crest or a crownlike appendage.",
         "prefix": "coron",
         "prefix_definition": "heart",
         "suffix": "ate",
         "suffix_definition": "status; state; function"
     },
     {
-        "word": "coronis",
-        "definition": "1. In Greek grammar, a sign ['] sometimes placed over a contracted syllable. W. W. Goodwin. 2. The curved line or flourish at the end of a book or chapter; hence, the end. [R.] Bp. Hacket.",
-        "prefix": "coron",
-        "prefix_definition": "heart",
-        "suffix": "is",
-        "suffix_definition": "(noun form)"
-    },
-    {
         "word": "coronoid",
-        "definition": "Resembling the beak of a crow; as, the coronoid process of the jaw, or of the ulna.",
+        "definition": "Relating to or denoting a hooked projection of bone.",
         "prefix": "coron",
         "prefix_definition": "heart",
         "suffix": "oid",
         "suffix_definition": "pertaining to, resemble"
     },
     {
-        "word": "coronule",
-        "definition": "A coronet or little crown of a seed; the downy tuft on seeds. See Pappus. Martyn.",
-        "prefix": "coron",
-        "prefix_definition": "heart",
-        "suffix": "ule",
-        "suffix_definition": "small"
-    },
-    {
-        "word": "corporal",
-        "definition": "A noncommissioned officer, next below a sergeant. In the United States army he is the lowest noncomissioned officer in a company of infantry. He places and relieves sentinels. Corporal's guard, a detachment such as would be in charge of a corporal for guard duty, etc.; hence, derisively, a very small number of persons. -- Lance corporal, an assistant corporal on private's pay. Farrow. -- Ship's corporal (Naut.), a petty officer who assists the master at arms in his various duties. 1. Belonging or relating to the body; bodily. \"Past corporal toil.\" Shak. Pillories and other corporal infections. Milton. Corporal punishment (law), punishment applied to the body of the offender, including the death penalty, whipping, and imprisonment. 2. Having a body or substance; not spiritual; material. In this sense now usually written corporeal. Milton. A corporal heaven . . . .where the stare are. Latimer. What seemed corporal melted As breath into the wind. Shak. Syn. -- Corporal, Bodily, Corporeal. Bodily is opposed to mental; as, bodily affections. Corporeal refers to the whole physical structure or nature, of the body; as, corporeal substance or frame. Corporal, as now used, refers more to punishment or some infliction; as, corporal punishment. To speak of corporeal punishment is an error. Bodily austerities; the corporeal mold. A fine linen cloth, on which the sacred elements are consecrated in the eucharist, or with which they are covered; a communion cloth. Corporal oath, a solemn oath; -- so called from the fact that it was the ancient usage for the party taking it to touch the corporal, or cloth that covered the consecrated elements.",
-        "prefix": "corpor",
-        "prefix_definition": "body",
-        "suffix": "al",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "corporate",
-        "definition": "1. Formed into a body by legal enactment; united in an association, and endowed by law with the rights and liabilities of an individual; incorporated; as, a corporate town. 2. Belonging to a corporation or incorporated body. \"Corporate property.\" Hallam. 3. United; general; collectively one. They answer in a joint and corporate voice. Shak. Corporate member, an actual or voting member of a corporation, as distinguished from an associate or an honorary member; as, a corporate member of the American Board. To incorporate. [Obs.] Stow. To become incorporated. [Obs.]",
-        "prefix": "corpor",
-        "prefix_definition": "body",
-        "suffix": "ate",
-        "suffix_definition": "status; state; function"
-    },
-    {
         "word": "corporeal",
-        "definition": "Having a body; consisting of, or pertaining to, a material body or substance; material; -- opposed to spiritual or immaterial. His omnipotence That to corporeal substance could add Speed almost spiritual. Milton. Corporeal property, such as may be seen and handled (as opposed to incorporeal, which can not be seen or handled, and exists only in contemplation). Mozley & W. Syn. -- Corporal; bodily. See Corporal.",
+        "definition": "Having a body; consisting of, or pertaining to, a material body or substance; material; -- opposed to spiritual or immaterial.",
         "prefix": "corpor",
         "prefix_definition": "body",
         "suffix": "eal",
         "suffix_definition": "pertaining to"
     },
     {
-        "word": "corticous",
-        "definition": "Relating to, or resembling, bark; corticose.",
-        "prefix": "cortico",
-        "prefix_definition": "cortex",
-        "suffix": "us",
-        "suffix_definition": "structure"
-    },
-    {
         "word": "cortical",
-        "definition": "Belonging to, or consisting of, bark or rind; resembling bark or rind; external; outer; superficial; as, the cortical substance of the kidney.",
+        "definition": "Relating to the outer layer of the cerebrum.",
         "prefix": "cortic",
         "prefix_definition": "cortex",
         "suffix": "al",
@@ -2448,24 +2016,8 @@
         "suffix_definition": "status; state; function"
     },
     {
-        "word": "corticine",
-        "definition": "A material for carpeting or floor covering, made of ground cork and caoutchouc or India rubber.",
-        "prefix": "cortic",
-        "prefix_definition": "cortex",
-        "suffix": "ine",
-        "suffix_definition": "pertaining to"
-    },
-    {
-        "word": "corticose",
-        "definition": "Abounding in bark; resembling bark; barky.",
-        "prefix": "cortic",
-        "prefix_definition": "cortex",
-        "suffix": "ose",
-        "suffix_definition": "sugar"
-    },
-    {
         "word": "costotome",
-        "definition": "An instrument (chisel or shears) to cut the ribs and open the thoracic cavity, in post-mortem examinations and dissections. Knight.",
+        "definition": "An instrument (chisel or shears) to cut the ribs and open the thoracic cavity, in post-mortem examinations and dissections.",
         "prefix": "costo",
         "prefix_definition": "rib",
         "suffix": "tome",
@@ -2473,7 +2025,7 @@
     },
     {
         "word": "costal",
-        "definition": "1. (Anat.)  Pertaining to the ribs or the sides of the body; as, costal nerves. 2. (Bot. & Zo\u00c3\u00b6l.)  Relating to a costa, or rib. Costal cartilage. See Cartilage, and Illust. of Thorax.",
+        "definition": "Pertaining to the ribs or the sides of the body; as, costal nerves. Relating to a costa, or rib.",
         "prefix": "cost",
         "prefix_definition": "rib",
         "suffix": "al",
@@ -2481,23 +2033,15 @@
     },
     {
         "word": "costate",
-        "definition": "Having ribs, or the appearance of ribs; (Bot.) having one or more longitudinal ribs.",
+        "definition": "Having ribs, or the appearance of ribs.",
         "prefix": "cost",
         "prefix_definition": "rib",
         "suffix": "ate",
         "suffix_definition": "status; state; function"
     },
     {
-        "word": "costive",
-        "definition": "1. Retaining fecal matter in the bowels; having too slow a motion of the bowels; constipated. 2. Reserved; formal; close; cold. [Obs.] \"A costive brain.\" Prior. \"Costive of laughter.\" B. Jonson. You must be frank, but without indiscretion; and close, but without being costive. Lord Chesterfield. 3. Dry and hard; impermeable; unyielding. [Obs.] Clay in dry seasons is costive, hardening with the sun and wind. Mortimer.",
-        "prefix": "cost",
-        "prefix_definition": "rib",
-        "suffix": "ive",
-        "suffix_definition": "character, quality"
-    },
-    {
         "word": "craniology",
-        "definition": "The department of science (as of ethnology or arch\u00c3\u00a6ology) which deals with the shape, size, proportions, indications, etc., of skulls; the study of skulls.",
+        "definition": "The department of science (as of ethnology or archeology) which deals with the shape, size, proportions, indications, etc., of skulls; the study of skulls.",
         "prefix": "cranio",
         "prefix_definition": "skull",
         "suffix": "logy",
