@@ -26,7 +26,7 @@ function Icons({ todaysObj }) {
                 <button className="tips" onClick={refresh}>
                 <FontAwesomeIcon icon={faArrowsRotate} />
                 </button>
-                <h1>MedTerms</h1>
+                <h1>MedTerms ABC</h1>
                 <div className="group-icons">
                     <div>
                         <button className="tips" onClick={openHints}>
@@ -47,7 +47,7 @@ function Icons({ todaysObj }) {
                     <li>a word root (usually the middle of the word and its central meaning)</li>
                     <li>a suffix (comes at the end and modifies the central meaning as to what or who is interacting with it or what is happening to it)</li>
                     </ol>
-                    <p>However, for the sake of simplicity, this game will only include the root and suffix (for now).</p>
+                    <p>However, for the sake of simplicity, this game will only include medical words with only a root and a suffix that start with the letters A, B, or C.</p>
                 <h2>Instructions</h2>
                 <p>With the definition of a prefix and suffix, figure out the medical terminology!
                 </p>
