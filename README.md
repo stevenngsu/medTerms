@@ -1,4 +1,4 @@
-# medTerms
+# medTerms ABC
 
 A wordle consisting of medical terms from a medical dictionary that start with the letters A, B, or C. Affixes were compiled, compared them with a dictionary text document, and created terms to form a json file.
 
